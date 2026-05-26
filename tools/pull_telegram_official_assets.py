@@ -61,6 +61,20 @@ async def download_document(client, document, output_dir, index):
     return path
 
 
+async def download_named_document(client, document, output_dir, name):
+    output_dir.mkdir(parents=True, exist_ok=True)
+    file_name = f"{safe_name(name)}_{document.id}.{document_ext(document)}"
+    path = output_dir / file_name
+    if path.exists() and path.stat().st_size == document.size:
+        return path
+    tmp_path = path.with_suffix(path.suffix + ".part")
+    if tmp_path.exists():
+        tmp_path.unlink()
+    await client.download_media(document, file=str(tmp_path))
+    tmp_path.replace(path)
+    return path
+
+
 async def fetch_full_set(client, input_set, output_root, key, sleep_seconds):
     result = await client(functions.messages.GetStickerSetRequest(stickerset=input_set, hash=0))
     sticker_set = result.set
@@ -80,7 +94,7 @@ async def fetch_full_set(client, input_set, output_root, key, sleep_seconds):
         "documents": documents,
     }
     metadata_path = set_dir / "metadata.json"
-    metadata_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2), encoding="utf-8")
+    metadata_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
     return metadata
 
 
@@ -112,8 +126,49 @@ async def fetch_featured(client, request, output_root, key, sleep_seconds):
                 "set": sticker_set_meta(sticker_set),
                 "error": repr(exc),
             })
-        (output_root / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+        (output_root / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
     return catalog
+
+
+async def fetch_available_reactions(client, output_root, sleep_seconds):
+    output_root.mkdir(parents=True, exist_ok=True)
+    file_dir = output_root / "files"
+    result = await client(functions.messages.GetAvailableReactionsRequest(hash=0))
+    reactions = list(getattr(result, "reactions", []) or [])
+    metadata = {
+        "source": "messages.getAvailableReactions",
+        "hash": getattr(result, "hash", None),
+        "count": len(reactions),
+        "reactions": [],
+    }
+    fields = [
+        "static_icon",
+        "appear_animation",
+        "select_animation",
+        "activate_animation",
+        "effect_animation",
+        "around_animation",
+        "center_icon",
+    ]
+    for index, reaction in enumerate(reactions):
+        print(f"[messages.getAvailableReactions] {index + 1}/{len(reactions)} {reaction.reaction}", flush=True)
+        item = {
+            "reaction": getattr(reaction, "reaction", ""),
+            "title": getattr(reaction, "title", ""),
+            "premium": bool(getattr(reaction, "premium", False)),
+        }
+        for field in fields:
+            document = getattr(reaction, field, None)
+            if document is None:
+                continue
+            name = f"{index:03d}_{field}"
+            local_file = await download_named_document(client, document, file_dir, name)
+            item[field] = document_meta(document, local_file.relative_to(output_root))
+            if sleep_seconds > 0:
+                await asyncio.sleep(sleep_seconds)
+        metadata["reactions"].append(item)
+        (output_root / "metadata.json").write_text(json.dumps(metadata, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
+    return metadata
 
 
 async def fetch_search_documents(client, emoticon, output_root, key, sleep_seconds):
@@ -133,7 +188,7 @@ async def fetch_search_documents(client, emoticon, output_root, key, sleep_secon
         "count": len(stickers),
         "documents": documents,
     }
-    (output_root / "metadata.json").write_text(json.dumps(metadata, ensure_ascii=False, indent=2), encoding="utf-8")
+    (output_root / "metadata.json").write_text(json.dumps(metadata, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
     return metadata
 
 
@@ -160,7 +215,7 @@ async def fetch_special_sets(client, output_root, sleep_seconds):
         except Exception as exc:
             catalog.append({"key": key, "error": repr(exc)})
         output_root.mkdir(parents=True, exist_ok=True)
-        (output_root / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=2), encoding="utf-8")
+        (output_root / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
     return catalog
 
 
@@ -173,6 +228,8 @@ async def main():
     parser.add_argument("--sleep", type=float, default=0.02)
     parser.add_argument("--skip-featured-stickers", action="store_true")
     parser.add_argument("--skip-featured-emoji", action="store_true")
+    parser.add_argument("--skip-reactions", action="store_true")
+    parser.add_argument("--only-reactions", action="store_true")
     args = parser.parse_args()
 
     output = Path(args.output)
@@ -181,6 +238,13 @@ async def main():
     if not await client.is_user_authorized():
         raise SystemExit("Telegram session is not authorized")
 
+    if args.only_reactions:
+        await fetch_available_reactions(client, output / "reactions", args.sleep)
+        await client.disconnect()
+        return
+
+    if not args.skip_reactions:
+        await fetch_available_reactions(client, output / "reactions", args.sleep)
     if not args.skip_featured_stickers:
         await fetch_featured(
             client,

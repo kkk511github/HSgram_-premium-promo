@@ -14,8 +14,12 @@ This repository is intentionally separated from `HSgram_server`. The main server
   - `files/*.tgs`: official premium sticker/status animation documents pulled for internal comparison.
 - `public_premium_demos/`
   - `videos/*.mp4`: converted public Telegram Premium demo animations from TelegramOfficial/Premium.
+- `telegram_official_catalog/`
+  - `reactions/metadata.json`: metadata returned by Telegram `messages.getAvailableReactions`.
+  - `reactions/files/*`: official reaction static icons and reaction animations.
+  - `featured_stickers/`, `featured_emoji_stickers/`, `premium_stickers/`, `special_sets/`: official/default Telegram sticker and emoji catalogs used by the server as the default catalog.
 - `tools/`
-  - `pull_telegram_official_assets.py`: helper script for pulling Telegram featured sticker packs, featured custom emoji packs, premium sticker search results, emoji statuses, and other default sticker sets from an authorized Telegram session.
+  - `pull_telegram_official_assets.py`: helper script for pulling Telegram available reactions, featured sticker packs, featured custom emoji packs, premium sticker search results, emoji statuses, and other default sticker sets from an authorized Telegram session.
 
 ## Notes
 
@@ -43,7 +47,7 @@ services:
       HSGRAM_PREMIUM_ASSETS_DIR: /opt/hsgram-premium-assets
 ```
 
-The server should fall back gracefully if this env var is missing, but premium demo videos, official premium stickers, and emoji status assets will only be available when the directory is mounted.
+The server should fall back gracefully if this env var is missing. When the directory is mounted, official Telegram assets are used as the default source for premium demo videos, premium stickers, emoji statuses, featured/default sticker catalogs, and reaction assets. Existing Admin import paths remain available as fallback/extension data.
 
 ## Refreshing Official Assets
 
@@ -57,11 +61,21 @@ Use an already-authorized Telethon session outside the repository. Never commit 
 
 The script pulls public Telegram surfaces only:
 
+- `messages.getAvailableReactions`
 - `messages.getFeaturedStickers`
 - `messages.getFeaturedEmojiStickers`
 - `messages.getStickers("⭐️⭐️")`
 - `messages.getStickers("📂⭐️")`
 - Telegram default emoji/status/premium special sticker sets
+
+To refresh only reaction assets:
+
+```bash
+/tmp/hsgram-telethon/bin/python tools/pull_telegram_official_assets.py \
+  --session /tmp/hsgram_official_premium_promo/official_premium_live.session \
+  --output telegram_official_catalog \
+  --only-reactions
+```
 
 It does not pull private user uploads, `messages.getMyStickers`, or the account's installed sticker list.
 
