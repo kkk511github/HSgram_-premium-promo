@@ -1,0 +1,1132 @@
+{
+  "source": "messages.getFeaturedEmojiStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1700765199054667779,
+    "access_hash": -7565734858475261182,
+    "title": "Christmas Icons",
+    "short_name": "ChristmasIcons",
+    "count": 30,
+    "hash": 1925975137,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": true,
+    "text_color": true,
+    "channel_emoji_status": true,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [],
+    "thumb_dc_id": null,
+    "thumb_version": null,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "🌲",
+      "documents": [
+        5438575529097706726,
+        5204271027147784187,
+        5203977521967677612,
+        5206209745320428055,
+        5208772148579024531
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍬",
+      "documents": [
+        5438374885405507741
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☕",
+      "documents": [
+        5438143962193870224
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❄",
+      "documents": [
+        5438629456707075929
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎄",
+      "documents": [
+        5438542608173383432
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛄",
+      "documents": [
+        5438460728916853504
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍪",
+      "documents": [
+        5204188752754263126,
+        5201817428295696125
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎁",
+      "documents": [
+        5204334545419124784
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎅",
+      "documents": [
+        5203988525673889760,
+        5204306550822288470
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧤",
+      "documents": [
+        5204251171513976589
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦌",
+      "documents": [
+        5201912024950391643
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕯",
+      "documents": [
+        5204266422942844817
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎀",
+      "documents": [
+        5203984947966134040
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏡",
+      "documents": [
+        5204181485669597563
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛸",
+      "documents": [
+        5204124216575671348
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💫",
+      "documents": [
+        5204048453352570949
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛷",
+      "documents": [
+        5206636961422394815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔔",
+      "documents": [
+        5206464681694217071
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😇",
+      "documents": [
+        5208903222390963642
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎊",
+      "documents": [
+        5208733145981008052
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥂",
+      "documents": [
+        5208585111343219666
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌟",
+      "documents": [
+        5208918679978259574
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫐",
+      "documents": [
+        5208465161496578257
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚩",
+      "documents": [
+        5208929739519051795
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5438575529097706726,
+      "access_hash": 8582574510437970443,
+      "file_reference_hex": "006a15fca8195e6732f1c13cd1b86bfaca4211d9a8",
+      "mime_type": "application/x-tgsticker",
+      "size": 2025,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0000_5438575529097706726.tgs"
+    },
+    {
+      "id": 5438374885405507741,
+      "access_hash": 1310073762686952072,
+      "file_reference_hex": "006a15fca800e72bd7e2fcae8e59614a52cd24d5af",
+      "mime_type": "application/x-tgsticker",
+      "size": 1116,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0001_5438374885405507741.tgs"
+    },
+    {
+      "id": 5438143962193870224,
+      "access_hash": -1412624996575095072,
+      "file_reference_hex": "006a15fca873830a4d676511c1b4d643bd38724e15",
+      "mime_type": "application/x-tgsticker",
+      "size": 1345,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "☕️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0002_5438143962193870224.tgs"
+    },
+    {
+      "id": 5438629456707075929,
+      "access_hash": -2578813037183426325,
+      "file_reference_hex": "006a15fca8f74699aeaba80bb2a44acc0f94ca06b2",
+      "mime_type": "application/x-tgsticker",
+      "size": 1571,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❄️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0003_5438629456707075929.tgs"
+    },
+    {
+      "id": 5438542608173383432,
+      "access_hash": -5908990877537789111,
+      "file_reference_hex": "006a15fca8cbfe8819d76ffcd9ba16f762b6651cb6",
+      "mime_type": "application/x-tgsticker",
+      "size": 809,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0004_5438542608173383432.tgs"
+    },
+    {
+      "id": 5438460728916853504,
+      "access_hash": 2178361516113092891,
+      "file_reference_hex": "006a15fca83e7995d295a3524fb305cd9913296ce3",
+      "mime_type": "application/x-tgsticker",
+      "size": 1249,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⛄️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0005_5438460728916853504.tgs"
+    },
+    {
+      "id": 5204188752754263126,
+      "access_hash": 8441018983225821715,
+      "file_reference_hex": "006a15fca8e9b7c1c0c5944bfb0edcaf3cb92406d2",
+      "mime_type": "application/x-tgsticker",
+      "size": 2016,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍪",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0006_5204188752754263126.tgs"
+    },
+    {
+      "id": 5204334545419124784,
+      "access_hash": -344050679994306036,
+      "file_reference_hex": "006a15fca8221d0c7e27337dea31bee89b82b0bf0f",
+      "mime_type": "application/x-tgsticker",
+      "size": 749,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎁",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0007_5204334545419124784.tgs"
+    },
+    {
+      "id": 5203988525673889760,
+      "access_hash": -5816529333645795294,
+      "file_reference_hex": "006a15fca8ed55cd4a675e384a7e7602ddb015249c",
+      "mime_type": "application/x-tgsticker",
+      "size": 828,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎅",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0008_5203988525673889760.tgs"
+    },
+    {
+      "id": 5204251171513976589,
+      "access_hash": 1850175424912054067,
+      "file_reference_hex": "006a15fca8d95c6d7a30cb1670984648c0de8f71b0",
+      "mime_type": "application/x-tgsticker",
+      "size": 912,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧤",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0009_5204251171513976589.tgs"
+    },
+    {
+      "id": 5201912024950391643,
+      "access_hash": -7031795828132614738,
+      "file_reference_hex": "006a15fca8e3c2ebfe0169ef1551a7b26624cb43bd",
+      "mime_type": "application/x-tgsticker",
+      "size": 1197,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🦌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0010_5201912024950391643.tgs"
+    },
+    {
+      "id": 5204306550822288470,
+      "access_hash": 7959351558766997262,
+      "file_reference_hex": "006a15fca8e97a80a33d1bdb2ac4894b67ef328031",
+      "mime_type": "application/x-tgsticker",
+      "size": 1513,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎅",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0011_5204306550822288470.tgs"
+    },
+    {
+      "id": 5204271027147784187,
+      "access_hash": 929875006790684168,
+      "file_reference_hex": "006a15fca8973eeea05c130ea26b81256efa557ef6",
+      "mime_type": "application/x-tgsticker",
+      "size": 976,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0012_5204271027147784187.tgs"
+    },
+    {
+      "id": 5204266422942844817,
+      "access_hash": -3171444394384111009,
+      "file_reference_hex": "006a15fca84e78895e627ffef14a632d2960f5b100",
+      "mime_type": "application/x-tgsticker",
+      "size": 1205,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🕯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0013_5204266422942844817.tgs"
+    },
+    {
+      "id": 5203984947966134040,
+      "access_hash": 7670494298027472180,
+      "file_reference_hex": "006a15fca804f0387a451644f24288cf3257f51b5b",
+      "mime_type": "application/x-tgsticker",
+      "size": 983,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0014_5203984947966134040.tgs"
+    },
+    {
+      "id": 5204181485669597563,
+      "access_hash": -2893956936777347104,
+      "file_reference_hex": "006a15fca8b2a285c0d75380d7cd0435ca8c12012c",
+      "mime_type": "application/x-tgsticker",
+      "size": 839,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🏡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0015_5204181485669597563.tgs"
+    },
+    {
+      "id": 5201817428295696125,
+      "access_hash": 7597396596605761305,
+      "file_reference_hex": "006a15fca89b54407c3d7c47f999eba158f1808f4b",
+      "mime_type": "application/x-tgsticker",
+      "size": 1429,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍪",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0016_5201817428295696125.tgs"
+    },
+    {
+      "id": 5203977521967677612,
+      "access_hash": 6440790831667674890,
+      "file_reference_hex": "006a15fca887a666990759542cfd6189d22f63bcdc",
+      "mime_type": "application/x-tgsticker",
+      "size": 1173,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0017_5203977521967677612.tgs"
+    },
+    {
+      "id": 5204124216575671348,
+      "access_hash": 4233847061925777708,
+      "file_reference_hex": "006a15fca8974a08d5e0a808d798a6d319759b9769",
+      "mime_type": "application/x-tgsticker",
+      "size": 1195,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⛸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0018_5204124216575671348.tgs"
+    },
+    {
+      "id": 5204048453352570949,
+      "access_hash": 411406657434611532,
+      "file_reference_hex": "006a15fca85e269a4057dd0ad7fb016b80cb8d707e",
+      "mime_type": "application/x-tgsticker",
+      "size": 1207,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0019_5204048453352570949.tgs"
+    },
+    {
+      "id": 5206209745320428055,
+      "access_hash": -2798268134088358387,
+      "file_reference_hex": "006a15fca83f22b855289e6173f368560a1fb207a8",
+      "mime_type": "application/x-tgsticker",
+      "size": 1011,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0020_5206209745320428055.tgs"
+    },
+    {
+      "id": 5206636961422394815,
+      "access_hash": 7196247208925949276,
+      "file_reference_hex": "006a15fca82bc4d14d77de9d32f1a7634abd6fcd30",
+      "mime_type": "application/x-tgsticker",
+      "size": 853,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛷",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0021_5206636961422394815.tgs"
+    },
+    {
+      "id": 5206464681694217071,
+      "access_hash": 1040973728026945150,
+      "file_reference_hex": "006a15fca810a52df6a6ac696298471fe9fb33340a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1679,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0022_5206464681694217071.tgs"
+    },
+    {
+      "id": 5208903222390963642,
+      "access_hash": -8142005333941304254,
+      "file_reference_hex": "006a15fca8b8d7a93fdaaea486deda7bdd27baad3b",
+      "mime_type": "application/x-tgsticker",
+      "size": 1766,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😇",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0023_5208903222390963642.tgs"
+    },
+    {
+      "id": 5208733145981008052,
+      "access_hash": -3654358267214583131,
+      "file_reference_hex": "006a15fca8e38d91f30be1b985723b479afbddc498",
+      "mime_type": "application/x-tgsticker",
+      "size": 1189,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎊",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0024_5208733145981008052.tgs"
+    },
+    {
+      "id": 5208772148579024531,
+      "access_hash": -7286033062717195068,
+      "file_reference_hex": "006a15fca8f1df59d808fd49a46ea3a9b49e191d35",
+      "mime_type": "application/x-tgsticker",
+      "size": 1048,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0025_5208772148579024531.tgs"
+    },
+    {
+      "id": 5208585111343219666,
+      "access_hash": 5106668818844487318,
+      "file_reference_hex": "006a15fca879215229dd543a0634718e4607f190d6",
+      "mime_type": "application/x-tgsticker",
+      "size": 1321,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0026_5208585111343219666.tgs"
+    },
+    {
+      "id": 5208918679978259574,
+      "access_hash": -160634591015501642,
+      "file_reference_hex": "006a15fca8329db8c011551a5674cccc3e5985b8e6",
+      "mime_type": "application/x-tgsticker",
+      "size": 1361,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌟",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0027_5208918679978259574.tgs"
+    },
+    {
+      "id": 5208465161496578257,
+      "access_hash": 3827083030446361815,
+      "file_reference_hex": "006a15fca8733446a1b6b60e50b84722d82a6ac924",
+      "mime_type": "application/x-tgsticker",
+      "size": 970,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🫐",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0028_5208465161496578257.tgs"
+    },
+    {
+      "id": 5208929739519051795,
+      "access_hash": -4768658826106203130,
+      "file_reference_hex": "006a15fca8b0a50861799e11b092b5449f22fef933",
+      "mime_type": "application/x-tgsticker",
+      "size": 993,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1700765199054667779,
+            "access_hash": -7565734858475261182
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ChristmasIcons_1700765199054667779/files/0029_5208929739519051795.tgs"
+    }
+  ]
+}

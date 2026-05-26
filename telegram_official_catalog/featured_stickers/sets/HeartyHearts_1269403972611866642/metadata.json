@@ -1,0 +1,1346 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1269403972611866642,
+    "access_hash": 7329291980286566797,
+    "title": "Hearty Hearts",
+    "short_name": "HeartyHearts",
+    "count": 22,
+    "hash": -440384108,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x19\\x06\\xab\\x07\\xdcP\\x02\\x82W\\x05L\\x03W\\x05[\\x00\\x80o\\x88J\\x01\\xb6L\\x05\\xa5T\\x88\\x02P\\x8b\\x08\\x85\\x8f\\x89\\xa3\\xa1\\xb1\\xa7\\x82\\x81\\x8bH\\x91D\\x84\\x81\\x84\\x89\\x88\\x87\\x8aD\\x96V\\xa0]\\xa8^\\x8a\\x07q\\x8f\\x01M\\xa9\\xa2\\xac\\x87\\t\\xac\\x8c\\x08\\x81\\x8f\\x00H\\x02\\x9a\\x03W\\x08\\x9a\\x02'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 4600
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": 934330252,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        5463366806179681080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        5463366806179681080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😁",
+      "documents": [
+        5463366806179681080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😅",
+      "documents": [
+        5463366806179681080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💙",
+      "documents": [
+        5463366806179681080,
+        5460930065074230747,
+        5460751025067529906,
+        5463140044791354749,
+        5463116181953058962,
+        5462958595308000663,
+        5210852162585762652,
+        5211189235914117983,
+        5215229567484041431,
+        5199501195382627206
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        5463366806179681080,
+        5460930065074230747,
+        5193110782262384325,
+        5460751025067529906,
+        5195035305568114731,
+        5460688327134942960,
+        5463140044791354749,
+        5460877924171256468,
+        5463116181953058962,
+        5460858326235485379,
+        5217865921489540087
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        5460930065074230747
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        5460930065074230747
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😙",
+      "documents": [
+        5460930065074230747
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😚",
+      "documents": [
+        5460930065074230747,
+        5463140044791354749
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        5460930065074230747,
+        5195035305568114731,
+        5460688327134942960,
+        5463140044791354749,
+        5463116181953058962,
+        5211189235914117983,
+        5217865921489540087,
+        5199582731041773705
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💖",
+      "documents": [
+        5460930065074230747,
+        5469775052004136474,
+        5195085913167763239
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5193110782262384325
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👌",
+      "documents": [
+        5193110782262384325,
+        5199501195382627206
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍🦰",
+      "documents": [
+        5193110782262384325
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💜",
+      "documents": [
+        5193110782262384325,
+        5195035305568114731,
+        5460688327134942960,
+        5463116181953058962,
+        5462958595308000663,
+        5195085913167763239,
+        5211189235914117983,
+        5210795305808696100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        5460751025067529906,
+        5199582731041773705
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😧",
+      "documents": [
+        5460751025067529906
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😦",
+      "documents": [
+        5460751025067529906,
+        5460858326235485379
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😰",
+      "documents": [
+        5460751025067529906
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        5460751025067529906,
+        5199582731041773705
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        5195035305568114731
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👫",
+      "documents": [
+        5195035305568114731,
+        5463140044791354749
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💞",
+      "documents": [
+        5460688327134942960
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😏",
+      "documents": [
+        5460688327134942960,
+        5469775052004136474,
+        5195085913167763239
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤩",
+      "documents": [
+        5193165577455146746
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥺",
+      "documents": [
+        5193165577455146746,
+        5217865921489540087
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⭐",
+      "documents": [
+        5193165577455146746
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌟",
+      "documents": [
+        5193165577455146746
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✨",
+      "documents": [
+        5193165577455146746
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌈",
+      "documents": [
+        5193165577455146746,
+        5215229567484041431
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        5463140044791354749,
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        5463140044791354749,
+        5463116181953058962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        5463140044791354749,
+        5463116181953058962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤪",
+      "documents": [
+        5463140044791354749
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        5460614805884769444
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        5460614805884769444
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😖",
+      "documents": [
+        5460614805884769444
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😞",
+      "documents": [
+        5460614805884769444
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💔",
+      "documents": [
+        5460614805884769444,
+        5460877924171256468
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵",
+      "documents": [
+        5460877924171256468
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💀",
+      "documents": [
+        5460877924171256468
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👻",
+      "documents": [
+        5460877924171256468
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖕",
+      "documents": [
+        5460877924171256468
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👪",
+      "documents": [
+        5463116181953058962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍👩‍👧",
+      "documents": [
+        5463116181953058962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💃",
+      "documents": [
+        5463116181953058962,
+        5469775052004136474,
+        5195085913167763239
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕺",
+      "documents": [
+        5463116181953058962,
+        5469775052004136474,
+        5195085913167763239
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👯‍♀",
+      "documents": [
+        5463116181953058962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        5460858326235485379
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤨",
+      "documents": [
+        5460858326235485379
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⁉",
+      "documents": [
+        5460858326235485379
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❓",
+      "documents": [
+        5460858326235485379,
+        5195085913167763239
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😳",
+      "documents": [
+        5460858326235485379
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😲",
+      "documents": [
+        5460858326235485379
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤬",
+      "documents": [
+        5462958595308000663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        5462958595308000663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😠",
+      "documents": [
+        5462958595308000663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💝",
+      "documents": [
+        5469775052004136474,
+        5211189235914117983
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        5469775052004136474
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎵",
+      "documents": [
+        5469775052004136474
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎶",
+      "documents": [
+        5469775052004136474
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😉",
+      "documents": [
+        5195085913167763239
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        5210852162585762652,
+        5199501195382627206
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌺",
+      "documents": [
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌸",
+      "documents": [
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌼",
+      "documents": [
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌷",
+      "documents": [
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌹",
+      "documents": [
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💐",
+      "documents": [
+        5210852162585762652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤲",
+      "documents": [
+        5211189235914117983
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎁",
+      "documents": [
+        5211189235914117983
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😎",
+      "documents": [
+        5210795305808696100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛹",
+      "documents": [
+        5210795305808696100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤤",
+      "documents": [
+        5217865921489540087
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥴",
+      "documents": [
+        5217865921489540087
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤢",
+      "documents": [
+        5215229567484041431
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤮",
+      "documents": [
+        5215229567484041431
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤯",
+      "documents": [
+        5199582731041773705
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💥",
+      "documents": [
+        5199582731041773705
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😌",
+      "documents": [
+        5199501195382627206
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5463366806179681080,
+      "access_hash": 9158937345912118728,
+      "file_reference_hex": "006a15ef9e4efb79205769120836f1656f21ec987d",
+      "mime_type": "application/x-tgsticker",
+      "size": 20454,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0000_5463366806179681080.tgs"
+    },
+    {
+      "id": 5460930065074230747,
+      "access_hash": -1414725762136163844,
+      "file_reference_hex": "006a15ef9e37ea45af47bf5d591ec76aacc9f792c3",
+      "mime_type": "application/x-tgsticker",
+      "size": 47437,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0001_5460930065074230747.tgs"
+    },
+    {
+      "id": 5193110782262384325,
+      "access_hash": 8030054048959484025,
+      "file_reference_hex": "006a15ef9e754fa72ed991bf93296a24b05100e33a",
+      "mime_type": "application/x-tgsticker",
+      "size": 32062,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0002_5193110782262384325.tgs"
+    },
+    {
+      "id": 5460751025067529906,
+      "access_hash": -6425945492328422935,
+      "file_reference_hex": "006a15ef9ee83b98894c1cc93b6a525b5a7f8832eb",
+      "mime_type": "application/x-tgsticker",
+      "size": 19338,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0003_5460751025067529906.tgs"
+    },
+    {
+      "id": 5195035305568114731,
+      "access_hash": 425243879465229582,
+      "file_reference_hex": "006a15ef9e4e91c8e10b4d7d92c7d0c055086fcf04",
+      "mime_type": "application/x-tgsticker",
+      "size": 57886,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0004_5195035305568114731.tgs"
+    },
+    {
+      "id": 5460688327134942960,
+      "access_hash": 2052371949633848402,
+      "file_reference_hex": "006a15ef9e09bc1620228d273ae764a41ea4ff69df",
+      "mime_type": "application/x-tgsticker",
+      "size": 29458,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0005_5460688327134942960.tgs"
+    },
+    {
+      "id": 5193165577455146746,
+      "access_hash": 1000968176142444678,
+      "file_reference_hex": "006a15ef9eb27dc7c6a33b8b134788abe22b04f991",
+      "mime_type": "application/x-tgsticker",
+      "size": 38886,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0006_5193165577455146746.tgs"
+    },
+    {
+      "id": 5463140044791354749,
+      "access_hash": -7563846417726221733,
+      "file_reference_hex": "006a15ef9e9fd92d34ca6502158c6f0443c59c4d65",
+      "mime_type": "application/x-tgsticker",
+      "size": 29315,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😚",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0007_5463140044791354749.tgs"
+    },
+    {
+      "id": 5460614805884769444,
+      "access_hash": 5305950064091867735,
+      "file_reference_hex": "006a15ef9e3afc74bcdc44f83ea81e53066978bcbf",
+      "mime_type": "application/x-tgsticker",
+      "size": 32149,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0008_5460614805884769444.tgs"
+    },
+    {
+      "id": 5460877924171256468,
+      "access_hash": -8498387690342054274,
+      "file_reference_hex": "006a15ef9e96b8d4935dcf5b4764947151546fd1a1",
+      "mime_type": "application/x-tgsticker",
+      "size": 28585,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0009_5460877924171256468.tgs"
+    },
+    {
+      "id": 5463116181953058962,
+      "access_hash": -5734519900797638260,
+      "file_reference_hex": "006a15ef9e24dc865c1f805e5cf479252bf17f2cad",
+      "mime_type": "application/x-tgsticker",
+      "size": 40659,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0010_5463116181953058962.tgs"
+    },
+    {
+      "id": 5460858326235485379,
+      "access_hash": -8458842568153340390,
+      "file_reference_hex": "006a15ef9ed63ef08cb0106bae4f66702b03f4ad46",
+      "mime_type": "application/x-tgsticker",
+      "size": 17301,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0011_5460858326235485379.tgs"
+    },
+    {
+      "id": 5462958595308000663,
+      "access_hash": 2594777217269192693,
+      "file_reference_hex": "006a15ef9e6ec2846f1a04471e6464e116a3c86cd8",
+      "mime_type": "application/x-tgsticker",
+      "size": 29328,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0012_5462958595308000663.tgs"
+    },
+    {
+      "id": 5469775052004136474,
+      "access_hash": -1581987218036063346,
+      "file_reference_hex": "006a15ef9eebdd03b89eed13dfff467e875c0a6e7a",
+      "mime_type": "application/x-tgsticker",
+      "size": 32062,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0013_5469775052004136474.tgs"
+    },
+    {
+      "id": 5195085913167763239,
+      "access_hash": -1357237314030477184,
+      "file_reference_hex": "006a15ef9e237c04363add321e892f0035bdab11be",
+      "mime_type": "application/x-tgsticker",
+      "size": 31418,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0014_5195085913167763239.tgs"
+    },
+    {
+      "id": 5210852162585762652,
+      "access_hash": -5900805496698660050,
+      "file_reference_hex": "006a15ef9eb26db9680b5c5430bbd79952f1e00137",
+      "mime_type": "application/x-tgsticker",
+      "size": 25246,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🙂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0015_5210852162585762652.tgs"
+    },
+    {
+      "id": 5211189235914117983,
+      "access_hash": -7483383579314679692,
+      "file_reference_hex": "006a15ef9e7ad757c19f19025002e119f9caef0e27",
+      "mime_type": "application/x-tgsticker",
+      "size": 59056,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0016_5211189235914117983.tgs"
+    },
+    {
+      "id": 5210795305808696100,
+      "access_hash": 187972546022859979,
+      "file_reference_hex": "006a15ef9e716f84d5a1680b9135f7117087063cfa",
+      "mime_type": "application/x-tgsticker",
+      "size": 18593,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0017_5210795305808696100.tgs"
+    },
+    {
+      "id": 5217865921489540087,
+      "access_hash": -7149343435721913424,
+      "file_reference_hex": "006a15ef9ef6c91c0c288469bc8ce8480a1b305b7d",
+      "mime_type": "application/x-tgsticker",
+      "size": 18553,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤤",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0018_5217865921489540087.tgs"
+    },
+    {
+      "id": 5215229567484041431,
+      "access_hash": -8885003017427880421,
+      "file_reference_hex": "006a15ef9e98478d3d5d3cd3c6f2be83c738a42158",
+      "mime_type": "application/x-tgsticker",
+      "size": 18889,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤢",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0019_5215229567484041431.tgs"
+    },
+    {
+      "id": 5199582731041773705,
+      "access_hash": 9161143655285556074,
+      "file_reference_hex": "006a15ef9ec6c7807a536467a2d79225bd6a76f170",
+      "mime_type": "application/x-tgsticker",
+      "size": 30331,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0020_5199582731041773705.tgs"
+    },
+    {
+      "id": 5199501195382627206,
+      "access_hash": 821686766342215635,
+      "file_reference_hex": "006a15ef9e0ee16d573fb6975a0c077dfef872f272",
+      "mime_type": "application/x-tgsticker",
+      "size": 27616,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866642,
+            "access_hash": 7329291980286566797
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HeartyHearts_1269403972611866642/files/0021_5199501195382627206.tgs"
+    }
+  ]
+}

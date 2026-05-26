@@ -1,0 +1,3234 @@
+{
+  "source": "messages.getFeaturedEmojiStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1860749763008266260,
+    "access_hash": 5070073059174883253,
+    "title": "Game Icons",
+    "short_name": "GameIcons",
+    "count": 100,
+    "hash": -449306998,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": true,
+    "text_color": true,
+    "channel_emoji_status": true,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [],
+    "thumb_dc_id": null,
+    "thumb_version": null,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "🎮",
+      "documents": [
+        5420606979364109583,
+        5418165771492671187,
+        5445323588439653716,
+        5404350210321170092,
+        5444917701145279595,
+        5407087998569297661,
+        5418282757811879179,
+        5418267059706412061,
+        5445060775095845886,
+        5417884897811380824,
+        5404450721145828929,
+        5417910555946007053,
+        5418231304103673416,
+        5417920490205366954,
+        5406997357579482210,
+        5431423205959024384,
+        5431699131837985981,
+        5431514529848638355,
+        5406787595671713339,
+        5433670882604104821,
+        5431628883352895287,
+        5406897443755275286,
+        5404364924879126818,
+        5404436208451337676,
+        5406796344520096501,
+        5433725703566669596,
+        5431429493791144696,
+        5406611098285650804,
+        5431537486448835478,
+        5404333301034927124,
+        5418005199845342849,
+        5418341925281347950,
+        5404798557662229256,
+        5417837915164132065,
+        5433972135905212581,
+        5445192957009346842,
+        5420422300065348132,
+        5404390978150741044,
+        5404713397050684583,
+        5404540593336495801,
+        5404597295494740579,
+        5418039886001226592,
+        5418000024409750729,
+        5445160521416327152,
+        5418100573889117350,
+        5404663210357830033,
+        5418384887839211461,
+        5418297210376830022,
+        5417892014572191112,
+        5418151473546543148,
+        5417980512373324147,
+        5442694432799339810,
+        5418022581577990129,
+        5445294189388512007,
+        5418139198530010347,
+        5418347547393538158,
+        5418222525190520086,
+        5431440815324936930,
+        5444871530246846683,
+        5433991149725432203,
+        5404744011577573026,
+        5433980803149216138,
+        5418135517743038465,
+        5445065465200134608,
+        5445067213251819865,
+        5445386466760867106,
+        5445311412207369685,
+        5431407546508261782,
+        5431746694305824226,
+        5417987178162568617,
+        5433989702321455126,
+        5418374927810051390,
+        5434131449127123508,
+        5445067462359923305,
+        5431636086013049122,
+        5404623477615375413,
+        5431541021206918337,
+        5433835998326831926,
+        5431690060867059387,
+        5431864767251757709,
+        5431903924468595135,
+        5431805608372223747,
+        5431761451813452398,
+        5433809244975545576,
+        5444941950530633691,
+        5431398385343018643,
+        5431803383579165229,
+        5433783436517064248,
+        5433819578666858208,
+        5431736416449083429,
+        5431454503385709437,
+        5444879445871574953,
+        5442684455590311916,
+        5445321183257971445,
+        5445234884480089463,
+        5445319241932750270,
+        5442873597360094847,
+        5445257871145057581,
+        5445100018212027689,
+        5445048281035980774
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5420606979364109583,
+      "access_hash": 4761587083606761335,
+      "file_reference_hex": "006a15f985603e0bfa9649a2f29a531ff39157d4b2",
+      "mime_type": "application/x-tgsticker",
+      "size": 630,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0000_5420606979364109583.tgs"
+    },
+    {
+      "id": 5418165771492671187,
+      "access_hash": 5035246212060645566,
+      "file_reference_hex": "006a15f9856744ed93002a35e71a024986255805fb",
+      "mime_type": "application/x-tgsticker",
+      "size": 1228,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0001_5418165771492671187.tgs"
+    },
+    {
+      "id": 5445323588439653716,
+      "access_hash": 5947231889032746458,
+      "file_reference_hex": "006a15f985fb21d857c0f01bdb9ada98e144a029d3",
+      "mime_type": "application/x-tgsticker",
+      "size": 597,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0002_5445323588439653716.tgs"
+    },
+    {
+      "id": 5404350210321170092,
+      "access_hash": -4879140718849618371,
+      "file_reference_hex": "006a15f9854600ebc941940bc1b73b4abcc9a4d06f",
+      "mime_type": "application/x-tgsticker",
+      "size": 1765,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0003_5404350210321170092.tgs"
+    },
+    {
+      "id": 5444917701145279595,
+      "access_hash": -3447569780284286851,
+      "file_reference_hex": "006a15f98559f6015244e32fcd3f562ba63d1d5a29",
+      "mime_type": "application/x-tgsticker",
+      "size": 792,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0004_5444917701145279595.tgs"
+    },
+    {
+      "id": 5407087998569297661,
+      "access_hash": -6102094179446399195,
+      "file_reference_hex": "006a15f9858a43b974a20ee2f838239ff0dd335fe8",
+      "mime_type": "application/x-tgsticker",
+      "size": 829,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0005_5407087998569297661.tgs"
+    },
+    {
+      "id": 5418282757811879179,
+      "access_hash": 6009636702801250433,
+      "file_reference_hex": "006a15f985e1a24d5da32f2dba86d781fc5c776c68",
+      "mime_type": "application/x-tgsticker",
+      "size": 1500,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0006_5418282757811879179.tgs"
+    },
+    {
+      "id": 5418267059706412061,
+      "access_hash": 4090263590578071016,
+      "file_reference_hex": "006a15f9855ec0e4b8ab7cd9383dc1cc9b625f4f6d",
+      "mime_type": "application/x-tgsticker",
+      "size": 1060,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0007_5418267059706412061.tgs"
+    },
+    {
+      "id": 5445060775095845886,
+      "access_hash": 8162294308352579716,
+      "file_reference_hex": "006a15f985bc363b9e57d13229e3714c67d58392eb",
+      "mime_type": "application/x-tgsticker",
+      "size": 1328,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0008_5445060775095845886.tgs"
+    },
+    {
+      "id": 5417884897811380824,
+      "access_hash": 4860492467636235873,
+      "file_reference_hex": "006a15f985bfeec6a2ecf5af230a1a00c003a2f92f",
+      "mime_type": "application/x-tgsticker",
+      "size": 1307,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0009_5417884897811380824.tgs"
+    },
+    {
+      "id": 5404450721145828929,
+      "access_hash": -7116077267005051875,
+      "file_reference_hex": "006a15f985d6c8aa20e20cefecc6d5104b6ef7fc76",
+      "mime_type": "application/x-tgsticker",
+      "size": 1840,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0010_5404450721145828929.tgs"
+    },
+    {
+      "id": 5417910555946007053,
+      "access_hash": 1779353705896587632,
+      "file_reference_hex": "006a15f9859f5a70f249b39f22d198953f055d9b0b",
+      "mime_type": "application/x-tgsticker",
+      "size": 842,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0011_5417910555946007053.tgs"
+    },
+    {
+      "id": 5418231304103673416,
+      "access_hash": 6103814515732830710,
+      "file_reference_hex": "006a15f985bdef10422b16aa79515ceb0426520212",
+      "mime_type": "application/x-tgsticker",
+      "size": 2101,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0012_5418231304103673416.tgs"
+    },
+    {
+      "id": 5417920490205366954,
+      "access_hash": -5046881629278828807,
+      "file_reference_hex": "006a15f9859c2f894fd32d444539f9dc2d4d270bf6",
+      "mime_type": "application/x-tgsticker",
+      "size": 1479,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0013_5417920490205366954.tgs"
+    },
+    {
+      "id": 5406997357579482210,
+      "access_hash": -8284859059689209022,
+      "file_reference_hex": "006a15f9853a7f6cbb1bbd015e42ff33e29e56291c",
+      "mime_type": "application/x-tgsticker",
+      "size": 907,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0014_5406997357579482210.tgs"
+    },
+    {
+      "id": 5431423205959024384,
+      "access_hash": 3299109358494275512,
+      "file_reference_hex": "006a15f9850b62044883c5e8401fe8d30ba21278ee",
+      "mime_type": "application/x-tgsticker",
+      "size": 501,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0015_5431423205959024384.tgs"
+    },
+    {
+      "id": 5431699131837985981,
+      "access_hash": 8188475662113534884,
+      "file_reference_hex": "006a15f98566593ff78242291100ff6d2817473b93",
+      "mime_type": "application/x-tgsticker",
+      "size": 707,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0016_5431699131837985981.tgs"
+    },
+    {
+      "id": 5431514529848638355,
+      "access_hash": 7660513300477710722,
+      "file_reference_hex": "006a15f985fa2738e865fcfd5cd900b730f3694f57",
+      "mime_type": "application/x-tgsticker",
+      "size": 1927,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0017_5431514529848638355.tgs"
+    },
+    {
+      "id": 5406787595671713339,
+      "access_hash": 3954450345081318589,
+      "file_reference_hex": "006a15f9856ef657ce26ad28f5693e2241c923289c",
+      "mime_type": "application/x-tgsticker",
+      "size": 599,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0018_5406787595671713339.tgs"
+    },
+    {
+      "id": 5433670882604104821,
+      "access_hash": -7667177975209404095,
+      "file_reference_hex": "006a15f985a0a6c57cb28befc82972ed3682681806",
+      "mime_type": "application/x-tgsticker",
+      "size": 628,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0019_5433670882604104821.tgs"
+    },
+    {
+      "id": 5431628883352895287,
+      "access_hash": 3007657216627978700,
+      "file_reference_hex": "006a15f9859cf704415fa314982b3202097d5c7729",
+      "mime_type": "application/x-tgsticker",
+      "size": 1564,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0020_5431628883352895287.tgs"
+    },
+    {
+      "id": 5406897443755275286,
+      "access_hash": -4982601036003636016,
+      "file_reference_hex": "006a15f985a5922a2409237d6ab9e8e221338f19ed",
+      "mime_type": "application/x-tgsticker",
+      "size": 1388,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0021_5406897443755275286.tgs"
+    },
+    {
+      "id": 5404364924879126818,
+      "access_hash": 8132746924465020434,
+      "file_reference_hex": "006a15f985b5c02d21890e0007d9552c1a2f68eb22",
+      "mime_type": "application/x-tgsticker",
+      "size": 1042,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0022_5404364924879126818.tgs"
+    },
+    {
+      "id": 5404436208451337676,
+      "access_hash": -8302010084341360374,
+      "file_reference_hex": "006a15f985e399e1d29acb35a19d24d7066e69888a",
+      "mime_type": "application/x-tgsticker",
+      "size": 860,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0023_5404436208451337676.tgs"
+    },
+    {
+      "id": 5406796344520096501,
+      "access_hash": -6580442708280936100,
+      "file_reference_hex": "006a15f9858e066414600c97152889f623c46dc5f4",
+      "mime_type": "application/x-tgsticker",
+      "size": 1185,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0024_5406796344520096501.tgs"
+    },
+    {
+      "id": 5433725703566669596,
+      "access_hash": -7340512801549180683,
+      "file_reference_hex": "006a15f985811a2b5601fb1d05e950851bde9a1175",
+      "mime_type": "application/x-tgsticker",
+      "size": 919,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0025_5433725703566669596.tgs"
+    },
+    {
+      "id": 5431429493791144696,
+      "access_hash": 695375326451710531,
+      "file_reference_hex": "006a15f985ec2b2c60499d99b1fe0384183e07dc8a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1831,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0026_5431429493791144696.tgs"
+    },
+    {
+      "id": 5406611098285650804,
+      "access_hash": 5714790235654430875,
+      "file_reference_hex": "006a15f98563e9636ea5366af7dfa0af87b65d5eea",
+      "mime_type": "application/x-tgsticker",
+      "size": 535,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0027_5406611098285650804.tgs"
+    },
+    {
+      "id": 5431537486448835478,
+      "access_hash": -6227281900279818710,
+      "file_reference_hex": "006a15f985c989dd71ef47114d2c6bc3b8cf1a8a7d",
+      "mime_type": "application/x-tgsticker",
+      "size": 888,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0028_5431537486448835478.tgs"
+    },
+    {
+      "id": 5404333301034927124,
+      "access_hash": 5110653522359210216,
+      "file_reference_hex": "006a15f98509269efec2e2db72ad3901bb42660fc4",
+      "mime_type": "application/x-tgsticker",
+      "size": 1997,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0029_5404333301034927124.tgs"
+    },
+    {
+      "id": 5418005199845342849,
+      "access_hash": 4210998223414972737,
+      "file_reference_hex": "006a15f98507a84a91a734af7200ce3e36f2d742ec",
+      "mime_type": "application/x-tgsticker",
+      "size": 1023,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0030_5418005199845342849.tgs"
+    },
+    {
+      "id": 5418341925281347950,
+      "access_hash": 3321586774380888158,
+      "file_reference_hex": "006a15f9851e7d9e153501d514cf3340c031f4df32",
+      "mime_type": "application/x-tgsticker",
+      "size": 601,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0031_5418341925281347950.tgs"
+    },
+    {
+      "id": 5404798557662229256,
+      "access_hash": 8922591136358707472,
+      "file_reference_hex": "006a15f985a8a779a6a1463ac9b9f8360768dfd06e",
+      "mime_type": "application/x-tgsticker",
+      "size": 1358,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0032_5404798557662229256.tgs"
+    },
+    {
+      "id": 5417837915164132065,
+      "access_hash": -4158843836973038843,
+      "file_reference_hex": "006a15f98528abec37d2c98814c604cdedc068b072",
+      "mime_type": "application/x-tgsticker",
+      "size": 1667,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0033_5417837915164132065.tgs"
+    },
+    {
+      "id": 5433972135905212581,
+      "access_hash": -3817347136667538719,
+      "file_reference_hex": "006a15f985218328c74bf41eeadbeb34a279ac5c91",
+      "mime_type": "application/x-tgsticker",
+      "size": 556,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0034_5433972135905212581.tgs"
+    },
+    {
+      "id": 5445192957009346842,
+      "access_hash": -1082424306510714422,
+      "file_reference_hex": "006a15f9852fc6325d6ff16869fb8460bd412b7b1d",
+      "mime_type": "application/x-tgsticker",
+      "size": 579,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0035_5445192957009346842.tgs"
+    },
+    {
+      "id": 5420422300065348132,
+      "access_hash": 6109163043076241460,
+      "file_reference_hex": "006a15f985bf7e0c7c8e4575eb95626da98d0a15c7",
+      "mime_type": "application/x-tgsticker",
+      "size": 822,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0036_5420422300065348132.tgs"
+    },
+    {
+      "id": 5404390978150741044,
+      "access_hash": -6592979455327754148,
+      "file_reference_hex": "006a15f985bee983e979ac724629848721456661a3",
+      "mime_type": "application/x-tgsticker",
+      "size": 467,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0037_5404390978150741044.tgs"
+    },
+    {
+      "id": 5404713397050684583,
+      "access_hash": 3973428640191383031,
+      "file_reference_hex": "006a15f98525f93a702986bacad076a0e94abdaf7a",
+      "mime_type": "application/x-tgsticker",
+      "size": 570,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0038_5404713397050684583.tgs"
+    },
+    {
+      "id": 5404540593336495801,
+      "access_hash": -4160081686767717659,
+      "file_reference_hex": "006a15f9859c2002631056f8870ccedc80ee89d585",
+      "mime_type": "application/x-tgsticker",
+      "size": 2362,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0039_5404540593336495801.tgs"
+    },
+    {
+      "id": 5404597295494740579,
+      "access_hash": -2352960472512972835,
+      "file_reference_hex": "006a15f985e84aa3c6fc2852fabde5132070fc19d1",
+      "mime_type": "application/x-tgsticker",
+      "size": 946,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0040_5404597295494740579.tgs"
+    },
+    {
+      "id": 5418039886001226592,
+      "access_hash": 6556291244686316601,
+      "file_reference_hex": "006a15f98501f9225066837df773c1f74ad8c924e9",
+      "mime_type": "application/x-tgsticker",
+      "size": 1600,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0041_5418039886001226592.tgs"
+    },
+    {
+      "id": 5418000024409750729,
+      "access_hash": 2113703696665255251,
+      "file_reference_hex": "006a15f985155221a3065addc7c3a1d573ddc4bfa9",
+      "mime_type": "application/x-tgsticker",
+      "size": 1552,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0042_5418000024409750729.tgs"
+    },
+    {
+      "id": 5445160521416327152,
+      "access_hash": 8514361901534715290,
+      "file_reference_hex": "006a15f985e2bb9a3711eb77d9afd5f3e679e854fd",
+      "mime_type": "application/x-tgsticker",
+      "size": 711,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0043_5445160521416327152.tgs"
+    },
+    {
+      "id": 5418100573889117350,
+      "access_hash": -6902705474736757467,
+      "file_reference_hex": "006a15f9852c7eb457491de8bcd8d0e9e08861c348",
+      "mime_type": "application/x-tgsticker",
+      "size": 1500,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0044_5418100573889117350.tgs"
+    },
+    {
+      "id": 5404663210357830033,
+      "access_hash": -2040172251911376371,
+      "file_reference_hex": "006a15f985820f994a573777d1eb910dd314625f49",
+      "mime_type": "application/x-tgsticker",
+      "size": 1552,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0045_5404663210357830033.tgs"
+    },
+    {
+      "id": 5418384887839211461,
+      "access_hash": -352171367209128831,
+      "file_reference_hex": "006a15f9859255db13e66865bf24b72218601dc3c6",
+      "mime_type": "application/x-tgsticker",
+      "size": 1619,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0046_5418384887839211461.tgs"
+    },
+    {
+      "id": 5418297210376830022,
+      "access_hash": 1193192120951968927,
+      "file_reference_hex": "006a15f9857476be7fdf71f8d3925dc4fe8079c201",
+      "mime_type": "application/x-tgsticker",
+      "size": 1625,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0047_5418297210376830022.tgs"
+    },
+    {
+      "id": 5417892014572191112,
+      "access_hash": 2079478790096582761,
+      "file_reference_hex": "006a15f985235ffdb258b771e0aed23931cbd0023a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1767,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0048_5417892014572191112.tgs"
+    },
+    {
+      "id": 5418151473546543148,
+      "access_hash": -8728845825670904707,
+      "file_reference_hex": "006a15f985681c8489a72473c895b91789de033fc1",
+      "mime_type": "application/x-tgsticker",
+      "size": 766,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0049_5418151473546543148.tgs"
+    },
+    {
+      "id": 5417980512373324147,
+      "access_hash": 8941854069682628256,
+      "file_reference_hex": "006a15f985ec34f95e35e7abc55591904cb37c5900",
+      "mime_type": "application/x-tgsticker",
+      "size": 1108,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0050_5417980512373324147.tgs"
+    },
+    {
+      "id": 5442694432799339810,
+      "access_hash": -3108582367296290104,
+      "file_reference_hex": "006a15f9852d14df059ec760bff42830e0c3303543",
+      "mime_type": "application/x-tgsticker",
+      "size": 897,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0051_5442694432799339810.tgs"
+    },
+    {
+      "id": 5418022581577990129,
+      "access_hash": -7375983547707506303,
+      "file_reference_hex": "006a15f9857810ff183ffe3887dec294b75391db06",
+      "mime_type": "application/x-tgsticker",
+      "size": 2006,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0052_5418022581577990129.tgs"
+    },
+    {
+      "id": 5445294189388512007,
+      "access_hash": 8756543610214681743,
+      "file_reference_hex": "006a15f98532b13a5a7f4c84dccce447a6ef19c08c",
+      "mime_type": "application/x-tgsticker",
+      "size": 781,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0053_5445294189388512007.tgs"
+    },
+    {
+      "id": 5418139198530010347,
+      "access_hash": 5027404413002357121,
+      "file_reference_hex": "006a15f9856aa5e95c73f5d824551b5d42229a0c28",
+      "mime_type": "application/x-tgsticker",
+      "size": 3149,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0054_5418139198530010347.tgs"
+    },
+    {
+      "id": 5418347547393538158,
+      "access_hash": -2580203621584392156,
+      "file_reference_hex": "006a15f98585d189a7a845be205182942d7b85830a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1293,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0055_5418347547393538158.tgs"
+    },
+    {
+      "id": 5418222525190520086,
+      "access_hash": 4584485592097524527,
+      "file_reference_hex": "006a15f9854311ebfd666f893cfe28477c64ea59c3",
+      "mime_type": "application/x-tgsticker",
+      "size": 1893,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0056_5418222525190520086.tgs"
+    },
+    {
+      "id": 5431440815324936930,
+      "access_hash": -574521131280978914,
+      "file_reference_hex": "006a15f98597f2bbf741e90bd057c648af294dd5e8",
+      "mime_type": "application/x-tgsticker",
+      "size": 1464,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0057_5431440815324936930.tgs"
+    },
+    {
+      "id": 5444871530246846683,
+      "access_hash": -366605200202363770,
+      "file_reference_hex": "006a15f985d57dd922b8ff26cb69895623078988fc",
+      "mime_type": "application/x-tgsticker",
+      "size": 1844,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0058_5444871530246846683.tgs"
+    },
+    {
+      "id": 5433991149725432203,
+      "access_hash": -302555438018913771,
+      "file_reference_hex": "006a15f985a191c74eb7234d8af24d2d2210223c00",
+      "mime_type": "application/x-tgsticker",
+      "size": 652,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0059_5433991149725432203.tgs"
+    },
+    {
+      "id": 5404744011577573026,
+      "access_hash": -6994589739236510391,
+      "file_reference_hex": "006a15f98540f63fafe83c23972c04477cc52e45b9",
+      "mime_type": "application/x-tgsticker",
+      "size": 1590,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0060_5404744011577573026.tgs"
+    },
+    {
+      "id": 5433980803149216138,
+      "access_hash": 6771675500224118442,
+      "file_reference_hex": "006a15f985430ac19fc57aeb386248b0c6bd7894c3",
+      "mime_type": "application/x-tgsticker",
+      "size": 3331,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0061_5433980803149216138.tgs"
+    },
+    {
+      "id": 5418135517743038465,
+      "access_hash": 8497973095779543427,
+      "file_reference_hex": "006a15f9858388c114df418feb78466cb09d639fab",
+      "mime_type": "application/x-tgsticker",
+      "size": 907,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0062_5418135517743038465.tgs"
+    },
+    {
+      "id": 5445065465200134608,
+      "access_hash": 3839783949245953,
+      "file_reference_hex": "006a15f9857286479cb3fe51e78eee7440f27d28fb",
+      "mime_type": "application/x-tgsticker",
+      "size": 1433,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0063_5445065465200134608.tgs"
+    },
+    {
+      "id": 5445067213251819865,
+      "access_hash": -67684543439814369,
+      "file_reference_hex": "006a15f985dc052230f2ba53b0e9d663fae9ac250b",
+      "mime_type": "application/x-tgsticker",
+      "size": 739,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0064_5445067213251819865.tgs"
+    },
+    {
+      "id": 5445386466760867106,
+      "access_hash": 2112818350565829122,
+      "file_reference_hex": "006a15f9858c38a1c2c950b98196f73ab965e76561",
+      "mime_type": "application/x-tgsticker",
+      "size": 1443,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0065_5445386466760867106.tgs"
+    },
+    {
+      "id": 5445311412207369685,
+      "access_hash": -5633352762986959850,
+      "file_reference_hex": "006a15f9855adc5537e0e0cd1aa3790b12844954ee",
+      "mime_type": "application/x-tgsticker",
+      "size": 1956,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0066_5445311412207369685.tgs"
+    },
+    {
+      "id": 5431407546508261782,
+      "access_hash": 4024653418211894016,
+      "file_reference_hex": "006a15f985358d4c93e18f853049ff87bf91d12f72",
+      "mime_type": "application/x-tgsticker",
+      "size": 2269,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0067_5431407546508261782.tgs"
+    },
+    {
+      "id": 5431746694305824226,
+      "access_hash": 115500847681721918,
+      "file_reference_hex": "006a15f9852acd4f97b46d4eb2df9f5d9a8dafff04",
+      "mime_type": "application/x-tgsticker",
+      "size": 1253,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0068_5431746694305824226.tgs"
+    },
+    {
+      "id": 5417987178162568617,
+      "access_hash": -7557756108349864999,
+      "file_reference_hex": "006a15f985dc78d94609b48230c0668cf1fe8f6122",
+      "mime_type": "application/x-tgsticker",
+      "size": 997,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0069_5417987178162568617.tgs"
+    },
+    {
+      "id": 5433989702321455126,
+      "access_hash": -820065563233995151,
+      "file_reference_hex": "006a15f9859c8f86ff2fd42004f237cc26a3b427ff",
+      "mime_type": "application/x-tgsticker",
+      "size": 558,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0070_5433989702321455126.tgs"
+    },
+    {
+      "id": 5418374927810051390,
+      "access_hash": 2096861990070235407,
+      "file_reference_hex": "006a15f985c65250dc361b03bb9a0fa92d11e6799f",
+      "mime_type": "application/x-tgsticker",
+      "size": 426,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0071_5418374927810051390.tgs"
+    },
+    {
+      "id": 5434131449127123508,
+      "access_hash": 7549715825447313419,
+      "file_reference_hex": "006a15f9859a62f8d9d944c823c92182665f45b2ac",
+      "mime_type": "application/x-tgsticker",
+      "size": 1014,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0072_5434131449127123508.tgs"
+    },
+    {
+      "id": 5445067462359923305,
+      "access_hash": 3061553692570925510,
+      "file_reference_hex": "006a15f9859d2f34d4927f76b388e7de8aaf11b21d",
+      "mime_type": "application/x-tgsticker",
+      "size": 1034,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0073_5445067462359923305.tgs"
+    },
+    {
+      "id": 5431636086013049122,
+      "access_hash": -5937692497855611685,
+      "file_reference_hex": "006a15f985c4c7eec13f5d297d7861abed670609f9",
+      "mime_type": "application/x-tgsticker",
+      "size": 779,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0074_5431636086013049122.tgs"
+    },
+    {
+      "id": 5404623477615375413,
+      "access_hash": -2373446690160118005,
+      "file_reference_hex": "006a15f985efd23ffdadbab386a3249d63d74ffbed",
+      "mime_type": "application/x-tgsticker",
+      "size": 1264,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0075_5404623477615375413.tgs"
+    },
+    {
+      "id": 5431541021206918337,
+      "access_hash": 6877346850237423213,
+      "file_reference_hex": "006a15f985f28cd3fda06287f0f8ced27c506e9664",
+      "mime_type": "application/x-tgsticker",
+      "size": 736,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0076_5431541021206918337.tgs"
+    },
+    {
+      "id": 5433835998326831926,
+      "access_hash": 8440795872186809804,
+      "file_reference_hex": "006a15f98544f75e6890d8fbd06260e6984329090d",
+      "mime_type": "application/x-tgsticker",
+      "size": 550,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0077_5433835998326831926.tgs"
+    },
+    {
+      "id": 5431690060867059387,
+      "access_hash": -4016114794424845947,
+      "file_reference_hex": "006a15f9853d964b280a48448a8063b8da50d2f61e",
+      "mime_type": "application/x-tgsticker",
+      "size": 618,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0078_5431690060867059387.tgs"
+    },
+    {
+      "id": 5431864767251757709,
+      "access_hash": -7166161401446731195,
+      "file_reference_hex": "006a15f9852be1c36c7cc3c3ed31a356eb204d7a6e",
+      "mime_type": "application/x-tgsticker",
+      "size": 686,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0079_5431864767251757709.tgs"
+    },
+    {
+      "id": 5431903924468595135,
+      "access_hash": -5445939037655981608,
+      "file_reference_hex": "006a15f985ca6975d4d65849121de5e77da33cd448",
+      "mime_type": "application/x-tgsticker",
+      "size": 518,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0080_5431903924468595135.tgs"
+    },
+    {
+      "id": 5431805608372223747,
+      "access_hash": 3261957858472277921,
+      "file_reference_hex": "006a15f9850f14a7a2f5d321b93ad1419e3d9bba4d",
+      "mime_type": "application/x-tgsticker",
+      "size": 821,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0081_5431805608372223747.tgs"
+    },
+    {
+      "id": 5431761451813452398,
+      "access_hash": -942715850610408846,
+      "file_reference_hex": "006a15f985d84f671b0d881175f95477054c0f4f81",
+      "mime_type": "application/x-tgsticker",
+      "size": 590,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0082_5431761451813452398.tgs"
+    },
+    {
+      "id": 5433809244975545576,
+      "access_hash": 1923415223789309924,
+      "file_reference_hex": "006a15f9859219ab4d8a1d27f5e67fe3e4d90bf613",
+      "mime_type": "application/x-tgsticker",
+      "size": 619,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0083_5433809244975545576.tgs"
+    },
+    {
+      "id": 5444941950530633691,
+      "access_hash": 2478387477649167545,
+      "file_reference_hex": "006a15f98528a0ac21d3418962f2453d318a88dd02",
+      "mime_type": "application/x-tgsticker",
+      "size": 450,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0084_5444941950530633691.tgs"
+    },
+    {
+      "id": 5431398385343018643,
+      "access_hash": 8584183990882419665,
+      "file_reference_hex": "006a15f985a0011996f4c0b92155d57088115d15ec",
+      "mime_type": "application/x-tgsticker",
+      "size": 1203,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0085_5431398385343018643.tgs"
+    },
+    {
+      "id": 5431803383579165229,
+      "access_hash": -1796754326595318347,
+      "file_reference_hex": "006a15f98502db37aab3902c25f96a33001bbdaf36",
+      "mime_type": "application/x-tgsticker",
+      "size": 1181,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0086_5431803383579165229.tgs"
+    },
+    {
+      "id": 5433783436517064248,
+      "access_hash": 6866625365514166751,
+      "file_reference_hex": "006a15f985a82849adae0131a62096e674236a6556",
+      "mime_type": "application/x-tgsticker",
+      "size": 797,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0087_5433783436517064248.tgs"
+    },
+    {
+      "id": 5433819578666858208,
+      "access_hash": 1518503324586450189,
+      "file_reference_hex": "006a15f985d09c73cd74059f6961bb6a4cbf655d6a",
+      "mime_type": "application/x-tgsticker",
+      "size": 2276,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0088_5433819578666858208.tgs"
+    },
+    {
+      "id": 5431736416449083429,
+      "access_hash": 3477257559923913329,
+      "file_reference_hex": "006a15f9855712ebd383c54fcb89abeb47dfa1496b",
+      "mime_type": "application/x-tgsticker",
+      "size": 1605,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0089_5431736416449083429.tgs"
+    },
+    {
+      "id": 5431454503385709437,
+      "access_hash": -144738729349513484,
+      "file_reference_hex": "006a15f9850b851e37914e107577c6669c69bcb047",
+      "mime_type": "application/x-tgsticker",
+      "size": 2964,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0090_5431454503385709437.tgs"
+    },
+    {
+      "id": 5444879445871574953,
+      "access_hash": 3542463286184551430,
+      "file_reference_hex": "006a15f985520993a36c84f05ac76e05d16cb0f7d9",
+      "mime_type": "application/x-tgsticker",
+      "size": 865,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0091_5444879445871574953.tgs"
+    },
+    {
+      "id": 5442684455590311916,
+      "access_hash": 3655279700533154205,
+      "file_reference_hex": "006a15f985b3a6d1480bbdcc4c81fb8cd3f1c2f3b2",
+      "mime_type": "application/x-tgsticker",
+      "size": 1006,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0092_5442684455590311916.tgs"
+    },
+    {
+      "id": 5445321183257971445,
+      "access_hash": -49783957579748771,
+      "file_reference_hex": "006a15f985d6472c9923782a6e8b3c91cc024234a9",
+      "mime_type": "application/x-tgsticker",
+      "size": 1661,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0093_5445321183257971445.tgs"
+    },
+    {
+      "id": 5445234884480089463,
+      "access_hash": -7544570444901042090,
+      "file_reference_hex": "006a15f9850461141d7c5116a1e2275861e010ebbb",
+      "mime_type": "application/x-tgsticker",
+      "size": 1923,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0094_5445234884480089463.tgs"
+    },
+    {
+      "id": 5445319241932750270,
+      "access_hash": -4807699986306258570,
+      "file_reference_hex": "006a15f985ecd04581fdfaf66160396470b9252966",
+      "mime_type": "application/x-tgsticker",
+      "size": 1277,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0095_5445319241932750270.tgs"
+    },
+    {
+      "id": 5442873597360094847,
+      "access_hash": 2841924636495601285,
+      "file_reference_hex": "006a15f985b6f5234d9a51f789389c9a32dfb4aa0d",
+      "mime_type": "application/x-tgsticker",
+      "size": 986,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0096_5442873597360094847.tgs"
+    },
+    {
+      "id": 5445257871145057581,
+      "access_hash": -3817808993984345933,
+      "file_reference_hex": "006a15f9857617460c9087393ee576f90c821aba47",
+      "mime_type": "application/x-tgsticker",
+      "size": 1026,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0097_5445257871145057581.tgs"
+    },
+    {
+      "id": 5445100018212027689,
+      "access_hash": 7013188041503602529,
+      "file_reference_hex": "006a15f98566d0442aa5e3a63ec9cbb8533f026327",
+      "mime_type": "application/x-tgsticker",
+      "size": 492,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0098_5445100018212027689.tgs"
+    },
+    {
+      "id": 5445048281035980774,
+      "access_hash": -3083495104337515703,
+      "file_reference_hex": "006a15f98586f606b54eb11c831b9dfb8b037ca87d",
+      "mime_type": "application/x-tgsticker",
+      "size": 1141,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1860749763008266260,
+            "access_hash": 5070073059174883253
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameIcons_1860749763008266260/files/0099_5445048281035980774.tgs"
+    }
+  ]
+}

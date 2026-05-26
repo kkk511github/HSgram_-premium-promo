@@ -1,0 +1,1168 @@
+{
+  "source": "messages.getFeaturedEmojiStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1391391008142393359,
+    "access_hash": -5138652236311405494,
+    "title": "Halloween Icons",
+    "short_name": "HalloweenIcons",
+    "count": 30,
+    "hash": 896947840,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": true,
+    "text_color": true,
+    "channel_emoji_status": true,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [],
+    "thumb_dc_id": null,
+    "thumb_version": null,
+    "thumb_document_id": 5301253879772494275
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "🎃",
+      "documents": [
+        5301253879772494275
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🐈‍⬛",
+      "documents": [
+        5298571372048430494
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👻",
+      "documents": [
+        5301072507598550489
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍁",
+      "documents": [
+        5299000473641041282
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍲",
+      "documents": [
+        5298588027931605905
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕸",
+      "documents": [
+        5301087956595915859
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍬",
+      "documents": [
+        5298899309981351959
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌙",
+      "documents": [
+        5298614811347664472
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕷",
+      "documents": [
+        5300945294962210459
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎩",
+      "documents": [
+        5300963565753091828
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⭐",
+      "documents": [
+        5300751802390558772
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧙‍♀",
+      "documents": [
+        5298907998700189550
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚰",
+      "documents": [
+        5298532944976034951
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧸",
+      "documents": [
+        5301157513591273190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧟",
+      "documents": [
+        5301167533749972632
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☠",
+      "documents": [
+        5298600693790160850
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💀",
+      "documents": [
+        5301259549129325864
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏰",
+      "documents": [
+        5298780807538685579
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔪",
+      "documents": [
+        5298659199834668012
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪓",
+      "documents": [
+        5298529109570239315
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦇",
+      "documents": [
+        5298598765349847151
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        5300932912571496037
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😈",
+      "documents": [
+        5298810614611722954
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👁",
+      "documents": [
+        5300841391113387083
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪦",
+      "documents": [
+        5298725402460568410
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔮",
+      "documents": [
+        5298839605640967919
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🐦‍⬛",
+      "documents": [
+        5298676001746731942
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧛‍♂",
+      "documents": [
+        5298937071333817643
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕯",
+      "documents": [
+        5301272202102978654
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍭",
+      "documents": [
+        5301222298877967960
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5301253879772494275,
+      "access_hash": 3923879863054012380,
+      "file_reference_hex": "006a15fbbb42c27f1b6ca45f4392ad441f36d56b5a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1246,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎃",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0000_5301253879772494275.tgs"
+    },
+    {
+      "id": 5298571372048430494,
+      "access_hash": 1784898000323711602,
+      "file_reference_hex": "006a15fbbb25b77d83ec854602d68ab92ee00534f2",
+      "mime_type": "application/x-tgsticker",
+      "size": 2267,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🐈‍⬛",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0001_5298571372048430494.tgs"
+    },
+    {
+      "id": 5301072507598550489,
+      "access_hash": 4544391109418358553,
+      "file_reference_hex": "006a15fbbbaba39a0df0e498898160bbcae4333f9b",
+      "mime_type": "application/x-tgsticker",
+      "size": 1170,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👻",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0002_5301072507598550489.tgs"
+    },
+    {
+      "id": 5299000473641041282,
+      "access_hash": -8907274438451297702,
+      "file_reference_hex": "006a15fbbbfff41d480bc779e0bdb000f361187d00",
+      "mime_type": "application/x-tgsticker",
+      "size": 2195,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍁",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0003_5299000473641041282.tgs"
+    },
+    {
+      "id": 5298588027931605905,
+      "access_hash": 8315101011424877351,
+      "file_reference_hex": "006a15fbbb858fdcf3f73293aa4fad06cdba2bc7e0",
+      "mime_type": "application/x-tgsticker",
+      "size": 1399,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0004_5298588027931605905.tgs"
+    },
+    {
+      "id": 5301087956595915859,
+      "access_hash": -5835127016889075968,
+      "file_reference_hex": "006a15fbbb7b27291b7200df2a777247ac279a4ce6",
+      "mime_type": "application/x-tgsticker",
+      "size": 6481,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🕸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0005_5301087956595915859.tgs"
+    },
+    {
+      "id": 5298899309981351959,
+      "access_hash": 348896124362804405,
+      "file_reference_hex": "006a15fbbb7a035b311dda05f5aedc617b391baaf0",
+      "mime_type": "application/x-tgsticker",
+      "size": 1535,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0006_5298899309981351959.tgs"
+    },
+    {
+      "id": 5298614811347664472,
+      "access_hash": -2938526988475246904,
+      "file_reference_hex": "006a15fbbb25d394825404a6fc46fb3235ad09bdd6",
+      "mime_type": "application/x-tgsticker",
+      "size": 1262,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌙",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0007_5298614811347664472.tgs"
+    },
+    {
+      "id": 5300945294962210459,
+      "access_hash": 6786404580331594092,
+      "file_reference_hex": "006a15fbbbfe87feb9d36cfffef325607c45baa307",
+      "mime_type": "application/x-tgsticker",
+      "size": 4204,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🕷",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0008_5300945294962210459.tgs"
+    },
+    {
+      "id": 5300963565753091828,
+      "access_hash": -5132680594866594987,
+      "file_reference_hex": "006a15fbbb5e2d309e3c7cab81f58ca959926be27c",
+      "mime_type": "application/x-tgsticker",
+      "size": 1225,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0009_5300963565753091828.tgs"
+    },
+    {
+      "id": 5300751802390558772,
+      "access_hash": 1546641206572400819,
+      "file_reference_hex": "006a15fbbb3f076e3641776711ca8899af416addcc",
+      "mime_type": "application/x-tgsticker",
+      "size": 3625,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⭐️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0010_5300751802390558772.tgs"
+    },
+    {
+      "id": 5298907998700189550,
+      "access_hash": -9115149063654270689,
+      "file_reference_hex": "006a15fbbba8243039ea059c06cc2d58d067928256",
+      "mime_type": "application/x-tgsticker",
+      "size": 1842,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧙‍♀️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0011_5298907998700189550.tgs"
+    },
+    {
+      "id": 5298532944976034951,
+      "access_hash": 2209159773661204294,
+      "file_reference_hex": "006a15fbbb5f349a1ef89b43335952b4ac8e4b5587",
+      "mime_type": "application/x-tgsticker",
+      "size": 760,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚰️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0012_5298532944976034951.tgs"
+    },
+    {
+      "id": 5301157513591273190,
+      "access_hash": 5034659841459661050,
+      "file_reference_hex": "006a15fbbb6513b8ff88f4787fdfa17e5fa714ceb5",
+      "mime_type": "application/x-tgsticker",
+      "size": 2118,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0013_5301157513591273190.tgs"
+    },
+    {
+      "id": 5301167533749972632,
+      "access_hash": -7517298598585737183,
+      "file_reference_hex": "006a15fbbb0d9cbb691d17b14031d88db57ebedb8d",
+      "mime_type": "application/x-tgsticker",
+      "size": 1676,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧟",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0014_5301167533749972632.tgs"
+    },
+    {
+      "id": 5298600693790160850,
+      "access_hash": 2173242642529285692,
+      "file_reference_hex": "006a15fbbbb81ca92f1fe784af3b045df2a67e6791",
+      "mime_type": "application/x-tgsticker",
+      "size": 1398,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "☠️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0015_5298600693790160850.tgs"
+    },
+    {
+      "id": 5301259549129325864,
+      "access_hash": 7783459461817470953,
+      "file_reference_hex": "006a15fbbba2866cf7fadf3f02571b7eaf59f8e11d",
+      "mime_type": "application/x-tgsticker",
+      "size": 1330,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0016_5301259549129325864.tgs"
+    },
+    {
+      "id": 5298780807538685579,
+      "access_hash": 425410255391883124,
+      "file_reference_hex": "006a15fbbbf90fb3db417b1c480ac86beba4d2b753",
+      "mime_type": "application/x-tgsticker",
+      "size": 2418,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🏰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0017_5298780807538685579.tgs"
+    },
+    {
+      "id": 5298659199834668012,
+      "access_hash": -7549861367668081161,
+      "file_reference_hex": "006a15fbbb00a4f04c301e931adbc9bd6c3fb74197",
+      "mime_type": "application/x-tgsticker",
+      "size": 1787,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔪",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0018_5298659199834668012.tgs"
+    },
+    {
+      "id": 5298529109570239315,
+      "access_hash": 1057636721436878416,
+      "file_reference_hex": "006a15fbbb0e28ca8d0b3e5e26a457a73da1d272ab",
+      "mime_type": "application/x-tgsticker",
+      "size": 1503,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🪓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0019_5298529109570239315.tgs"
+    },
+    {
+      "id": 5298598765349847151,
+      "access_hash": -3548420222713480049,
+      "file_reference_hex": "006a15fbbb92aae7f614db3ed0539fe8057780cc78",
+      "mime_type": "application/x-tgsticker",
+      "size": 2008,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🦇",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0020_5298598765349847151.tgs"
+    },
+    {
+      "id": 5300932912571496037,
+      "access_hash": -865809861501006682,
+      "file_reference_hex": "006a15fbbbc39e39dadfb2dd3d9ae4dc758dede454",
+      "mime_type": "application/x-tgsticker",
+      "size": 1228,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0021_5300932912571496037.tgs"
+    },
+    {
+      "id": 5298810614611722954,
+      "access_hash": -7003481635984377952,
+      "file_reference_hex": "006a15fbbb65282570e76a2e02b12bb6ce0f61527d",
+      "mime_type": "application/x-tgsticker",
+      "size": 2299,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0022_5298810614611722954.tgs"
+    },
+    {
+      "id": 5300841391113387083,
+      "access_hash": 1188870870504710283,
+      "file_reference_hex": "006a15fbbb5901a2198f0fd64d7856b69b5d3ebd3a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1489,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👁",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0023_5300841391113387083.tgs"
+    },
+    {
+      "id": 5298725402460568410,
+      "access_hash": -9170332300564214021,
+      "file_reference_hex": "006a15fbbb637413eda49596bf923b2c025c0a9a45",
+      "mime_type": "application/x-tgsticker",
+      "size": 776,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🪦",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0024_5298725402460568410.tgs"
+    },
+    {
+      "id": 5298839605640967919,
+      "access_hash": 8988914860026679598,
+      "file_reference_hex": "006a15fbbb04cf4337ae42c0403d9252a25bb7fe9f",
+      "mime_type": "application/x-tgsticker",
+      "size": 1274,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0025_5298839605640967919.tgs"
+    },
+    {
+      "id": 5298676001746731942,
+      "access_hash": -9003184292228832961,
+      "file_reference_hex": "006a15fbbbf01aedc0a48c28c5875eea97d74a765a",
+      "mime_type": "application/x-tgsticker",
+      "size": 1041,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🐦‍⬛️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0026_5298676001746731942.tgs"
+    },
+    {
+      "id": 5298937071333817643,
+      "access_hash": -1673226289744768122,
+      "file_reference_hex": "006a15fbbb2550abaf4f3d4476e2f4323a2151bf55",
+      "mime_type": "application/x-tgsticker",
+      "size": 1538,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧛‍♂️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0027_5298937071333817643.tgs"
+    },
+    {
+      "id": 5301272202102978654,
+      "access_hash": -9071374668807674212,
+      "file_reference_hex": "006a15fbbbf48ec4de7c94d2368ba85a9acd94efdf",
+      "mime_type": "application/x-tgsticker",
+      "size": 1482,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🕯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0028_5301272202102978654.tgs"
+    },
+    {
+      "id": 5301222298877967960,
+      "access_hash": 8632510387326919813,
+      "file_reference_hex": "006a15fbbbe12b7d243ef34c8597863e4f209e0e45",
+      "mime_type": "application/x-tgsticker",
+      "size": 1188,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1391391008142393359,
+            "access_hash": -5138652236311405494
+          },
+          "free": false,
+          "text_color": true
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HalloweenIcons_1391391008142393359/files/0029_5301222298877967960.tgs"
+    }
+  ]
+}

@@ -1,0 +1,1259 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 2562980648230846492,
+    "access_hash": 800996860490939712,
+    "title": "Amanita",
+    "short_name": "AmanitaPhalloides",
+    "count": 28,
+    "hash": -1813259986,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x10\\x06\\xae\\x05\\xdck\\x82K\\tEL\\x05}Cd\\x92F\\x05\\xa7I\\x01\\x80\\x80QLQMKGVO][NVIz\\x96\\x7f\\xa1F\\xa9\\x9b\\x86\\x07\\xa6\\x82\\x81\\x82D\\x83F\\x8fO\\x98]\\x9fr\\x83F\\x8cT\\x86R\\x80\\x80g\\xa3]\\x88\\x85N\\xa1V\\xa3Z\\x88Y\\x87|\\xa6F\\t\\xa6L\\xae\\xa2\\x87\\x00\\xb0\\x89\\x85\\x9fB\\xa3\\x8d\\x85\\x92S\\x81T\\x82F\\x83\\xb6\\xad\\xbd\\xb1\\xac\\x9c\\x8f\\x00\\xab\\x8e\\x04\\x8b\\x02E\\x86\\x05M\\x08\\x8c\\x06S\\x05\\x8e\\x01l\\x8bI\\x02\\x8dM\\x06\\x8d'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 16881
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": -2051946748,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        5381935901284774004
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        5381935901284774004
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍄",
+      "documents": [
+        5381935901284774004,
+        5382305375846410902,
+        5382083403346620674,
+        5386837171934080811,
+        5382031812199461969,
+        5382324312357222212,
+        5381904406289593587,
+        5382085864362882943,
+        5382214687611956357,
+        5382100261093258426,
+        5382275946730499892,
+        5382272523641565867,
+        5382296158846595150,
+        5382144778429280131,
+        5391282673538836650,
+        5415588610726443410,
+        5416079070221841908,
+        5413834369989096852,
+        5415864785713509789,
+        5416131979923961658,
+        5213466199941201176,
+        5213030836286277051,
+        5210699266045000862,
+        5213129843872380418,
+        5213042299553986286,
+        5462909529601623814,
+        5283179205691990448,
+        5285410247928726633
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        5382305375846410902
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5382083403346620674
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        5386837171934080811
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        5386837171934080811
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        5382031812199461969
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        5382324312357222212
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        5381904406289593587
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚀",
+      "documents": [
+        5381904406289593587
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖕",
+      "documents": [
+        5382085864362882943
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💩",
+      "documents": [
+        5382214687611956357
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👂",
+      "documents": [
+        5382100261093258426
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤩",
+      "documents": [
+        5382275946730499892
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵‍💫",
+      "documents": [
+        5382272523641565867
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥺",
+      "documents": [
+        5382296158846595150
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💪",
+      "documents": [
+        5382144778429280131
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥱",
+      "documents": [
+        5391282673538836650
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😪",
+      "documents": [
+        5391282673538836650
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤫",
+      "documents": [
+        5415588610726443410
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👃",
+      "documents": [
+        5416079070221841908
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤢",
+      "documents": [
+        5413834369989096852
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤮",
+      "documents": [
+        5413834369989096852
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥶",
+      "documents": [
+        5415864785713509789
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❄",
+      "documents": [
+        5415864785713509789
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥵",
+      "documents": [
+        5416131979923961658
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☀",
+      "documents": [
+        5416131979923961658
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔥",
+      "documents": [
+        5416131979923961658
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫡",
+      "documents": [
+        5213466199941201176
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫵",
+      "documents": [
+        5213030836286277051
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫶",
+      "documents": [
+        5210699266045000862
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤌",
+      "documents": [
+        5213129843872380418
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✋",
+      "documents": [
+        5213042299553986286
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫷",
+      "documents": [
+        5213042299553986286
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫸",
+      "documents": [
+        5213042299553986286
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😶‍🌫",
+      "documents": [
+        5462909529601623814
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌫",
+      "documents": [
+        5462909529601623814
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👁",
+      "documents": [
+        5462909529601623814
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        5462909529601623814,
+        5285410247928726633
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏆",
+      "documents": [
+        5283179205691990448
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔝",
+      "documents": [
+        5283179205691990448
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥇",
+      "documents": [
+        5283179205691990448
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😆",
+      "documents": [
+        5283179205691990448
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤯",
+      "documents": [
+        5285410247928726633
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧠",
+      "documents": [
+        5285410247928726633
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5381935901284774004,
+      "access_hash": 4398610449614908692,
+      "file_reference_hex": "006a15e8514393cb9037919a8b2ab5c9798a07864c",
+      "mime_type": "application/x-tgsticker",
+      "size": 23880,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0000_5381935901284774004.tgs"
+    },
+    {
+      "id": 5382305375846410902,
+      "access_hash": 9031910531432267344,
+      "file_reference_hex": "006a15e85133f9b67df2097fe697be0d6d6abe01c0",
+      "mime_type": "application/x-tgsticker",
+      "size": 20298,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0001_5382305375846410902.tgs"
+    },
+    {
+      "id": 5382083403346620674,
+      "access_hash": 2845318740241346196,
+      "file_reference_hex": "006a15e851843897a664fafdc1450e82fb0f0806e9",
+      "mime_type": "application/x-tgsticker",
+      "size": 20479,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0002_5382083403346620674.tgs"
+    },
+    {
+      "id": 5386837171934080811,
+      "access_hash": -3350361538135208212,
+      "file_reference_hex": "006a15e85191eee7297650b2d839d4a9d7f2b4b72a",
+      "mime_type": "application/x-tgsticker",
+      "size": 15139,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0003_5386837171934080811.tgs"
+    },
+    {
+      "id": 5382031812199461969,
+      "access_hash": -20724646101994733,
+      "file_reference_hex": "006a15e851b374f6f13b4e0810cfd91f2039466815",
+      "mime_type": "application/x-tgsticker",
+      "size": 14844,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0004_5382031812199461969.tgs"
+    },
+    {
+      "id": 5382324312357222212,
+      "access_hash": 5621073736637281919,
+      "file_reference_hex": "006a15e85195003d524274a5927c6037b92b8b8b3f",
+      "mime_type": "application/x-tgsticker",
+      "size": 44030,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0005_5382324312357222212.tgs"
+    },
+    {
+      "id": 5381904406289593587,
+      "access_hash": -2590260117828412320,
+      "file_reference_hex": "006a15e8514f4d3b41a2d83d09ffcfc60dd236ab01",
+      "mime_type": "application/x-tgsticker",
+      "size": 32994,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0006_5381904406289593587.tgs"
+    },
+    {
+      "id": 5382085864362882943,
+      "access_hash": -8963345052398327004,
+      "file_reference_hex": "006a15e851197fd8feb7f4cf2d8475a81af7d4cf90",
+      "mime_type": "application/x-tgsticker",
+      "size": 13104,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🖕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0007_5382085864362882943.tgs"
+    },
+    {
+      "id": 5382214687611956357,
+      "access_hash": 6496405863024854034,
+      "file_reference_hex": "006a15e8511c9d6a56ac5a4f7d20304787e1bf2b6e",
+      "mime_type": "application/x-tgsticker",
+      "size": 22964,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0008_5382214687611956357.tgs"
+    },
+    {
+      "id": 5382100261093258426,
+      "access_hash": 6583424731799603241,
+      "file_reference_hex": "006a15e85164e1dfe17e4fa71a59cfa00cf5020f5b",
+      "mime_type": "application/x-tgsticker",
+      "size": 13799,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0009_5382100261093258426.tgs"
+    },
+    {
+      "id": 5382275946730499892,
+      "access_hash": 6752119061125593219,
+      "file_reference_hex": "006a15e851868b82a100ff30908dac505b33774a16",
+      "mime_type": "application/x-tgsticker",
+      "size": 18142,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0010_5382275946730499892.tgs"
+    },
+    {
+      "id": 5382272523641565867,
+      "access_hash": 118414986502831589,
+      "file_reference_hex": "006a15e851495dee2cdfe7a9c6cea13b09fe5b6bdd",
+      "mime_type": "application/x-tgsticker",
+      "size": 18861,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😵‍💫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0011_5382272523641565867.tgs"
+    },
+    {
+      "id": 5382296158846595150,
+      "access_hash": 2941670888645902469,
+      "file_reference_hex": "006a15e8519c50949ba64eba085338e3202c9bf890",
+      "mime_type": "application/x-tgsticker",
+      "size": 15497,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥺",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0012_5382296158846595150.tgs"
+    },
+    {
+      "id": 5382144778429280131,
+      "access_hash": 5007313467078985225,
+      "file_reference_hex": "006a15e851ef8f66ea9ac5af8c1a5457a40a82b287",
+      "mime_type": "application/x-tgsticker",
+      "size": 47486,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💪",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0013_5382144778429280131.tgs"
+    },
+    {
+      "id": 5391282673538836650,
+      "access_hash": 6630645410932983563,
+      "file_reference_hex": "006a15e851e2c6024784c4da7b53c45531029e7015",
+      "mime_type": "application/x-tgsticker",
+      "size": 17372,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0014_5391282673538836650.tgs"
+    },
+    {
+      "id": 5415588610726443410,
+      "access_hash": 8568670430478793047,
+      "file_reference_hex": "006a15e8512e67f69ea56ddd95f55a60fbd3ee4a81",
+      "mime_type": "application/x-tgsticker",
+      "size": 19836,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0015_5415588610726443410.tgs"
+    },
+    {
+      "id": 5416079070221841908,
+      "access_hash": -5979719849855197938,
+      "file_reference_hex": "006a15e851860de79ef7e124b33754834bded4f6f0",
+      "mime_type": "application/x-tgsticker",
+      "size": 15167,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👃",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0016_5416079070221841908.tgs"
+    },
+    {
+      "id": 5413834369989096852,
+      "access_hash": 6661202396719036733,
+      "file_reference_hex": "006a15e851408b912e4d86b0f199794653ed5d461c",
+      "mime_type": "application/x-tgsticker",
+      "size": 63906,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤢",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0017_5413834369989096852.tgs"
+    },
+    {
+      "id": 5415864785713509789,
+      "access_hash": 4684816605334686958,
+      "file_reference_hex": "006a15e851f265ebb1cba01d29903bee215ff76d28",
+      "mime_type": "application/x-tgsticker",
+      "size": 14660,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥶",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0018_5415864785713509789.tgs"
+    },
+    {
+      "id": 5416131979923961658,
+      "access_hash": 4579261919508934552,
+      "file_reference_hex": "006a15e851cfe847196b478046b955b026aa211ae3",
+      "mime_type": "application/x-tgsticker",
+      "size": 23839,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0019_5416131979923961658.tgs"
+    },
+    {
+      "id": 5213466199941201176,
+      "access_hash": -9213745736890409840,
+      "file_reference_hex": "006a15e8513b0515f6e89750f0934dc51a96d6decd",
+      "mime_type": "application/x-tgsticker",
+      "size": 9593,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🫡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0020_5213466199941201176.tgs"
+    },
+    {
+      "id": 5213030836286277051,
+      "access_hash": 1943731510746137523,
+      "file_reference_hex": "006a15e851c6a9f0f6a5ae9fc13f3e91aa48ddecb8",
+      "mime_type": "application/x-tgsticker",
+      "size": 13348,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🫵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0021_5213030836286277051.tgs"
+    },
+    {
+      "id": 5210699266045000862,
+      "access_hash": 281339708272676512,
+      "file_reference_hex": "006a15e851898586998c69d7d03f0ac5fec35373bd",
+      "mime_type": "application/x-tgsticker",
+      "size": 8819,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🫶",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0022_5210699266045000862.tgs"
+    },
+    {
+      "id": 5213129843872380418,
+      "access_hash": 6577552864682952988,
+      "file_reference_hex": "006a15e851a051a80657a45d48bdc6c56476ce4d07",
+      "mime_type": "application/x-tgsticker",
+      "size": 12991,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0023_5213129843872380418.tgs"
+    },
+    {
+      "id": 5213042299553986286,
+      "access_hash": -337509761844356842,
+      "file_reference_hex": "006a15e8515011e8c4fbd034ca27c2e2b1d7eb5801",
+      "mime_type": "application/x-tgsticker",
+      "size": 18204,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "✋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0024_5213042299553986286.tgs"
+    },
+    {
+      "id": 5462909529601623814,
+      "access_hash": -7676408402036642475,
+      "file_reference_hex": "006a15e8519d5312098b68563662803970b133ae53",
+      "mime_type": "application/x-tgsticker",
+      "size": 38793,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😶‍🌫️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0025_5462909529601623814.tgs"
+    },
+    {
+      "id": 5283179205691990448,
+      "access_hash": 3768064839106676494,
+      "file_reference_hex": "006a15e851f6e8152ab646176b5cefee23313df76a",
+      "mime_type": "application/x-tgsticker",
+      "size": 9412,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🏆",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0026_5283179205691990448.tgs"
+    },
+    {
+      "id": 5285410247928726633,
+      "access_hash": 3099527637013654184,
+      "file_reference_hex": "006a15e8512f7530759cabc252217dfff18dbd7627",
+      "mime_type": "application/x-tgsticker",
+      "size": 21314,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2562980648230846492,
+            "access_hash": 800996860490939712
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/AmanitaPhalloides_2562980648230846492/files/0027_5285410247928726633.tgs"
+    }
+  ]
+}

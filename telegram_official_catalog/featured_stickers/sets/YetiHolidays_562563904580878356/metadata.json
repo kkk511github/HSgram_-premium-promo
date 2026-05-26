@@ -1,0 +1,1458 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 562563904580878356,
+    "access_hash": 6911462653192579824,
+    "title": "Yeti on Holidays",
+    "short_name": "YetiHolidays",
+    "count": 26,
+    "hash": -1370340191,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x1c\\x06\\xad\\x02\\xdcfCK\\tGO\\x00]CBCHFJDBK\\x85PDIPCcJsBE\\x81\\x94I\\x9aF\\x84QBQIAW\\x8bm\\x92F\\x06\\x81DZ\\x8bVN\\x81E\\x8c]\\x8baCEYO_Tc_rH\\x02SL\\x02\\xa4o\\x8e\\x06z\\x8b\\x05\\x9bA\\x84\\x87D\\x8aF\\x8cH\\x99N\\xa7O\\x8aA\\x96\\x85\\x9f\\x83\\x88B\\x91K\\x9bN\\x9cH\\xb6\\x81\\x88\\x01\\x8b\\x86\\x82GHHQBR\\x87]\\x93h\\x9e\\\\\\x87\\x06\\\\\\x8a\\x08D\\xa7\\x9e\\xa5\\x88\\x02\\x8e\\x8b\\tF\\x8aY\\x98[\\xa3\\x80\\x80\\x8a\\x8b\\x8b\\x8e\\x83\\x8cG\\x8fH\\x98\\x81\\x86\\x87\\x93\\x88\\x9a\\x84\\x96W\\x83P\\x9a\\x85\\x8e\\x9e\\xad\\x96\\xbcD\\x87P\\x8bU\\x82\\x80\\x81ETESD\\x81\\x80\\x89\\x80\\x8b\\x81\\x90G\\xaaR\\xb7B\\x82F\\x81I\\x83h\\x94G\\x06\\x9fL\\x02\\x9f'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 8452
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": -1967822815,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        5294330577174926296
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛷",
+      "documents": [
+        5294330577174926296
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❄",
+      "documents": [
+        5294330577174926296,
+        5309861324946149455,
+        5296660107306734327,
+        5294452670210249603,
+        5213289784159507602,
+        5294466036148474644,
+        5294033253768892787,
+        5294125402292229077,
+        5294092159245358090,
+        5294488644856320110,
+        5294133425291137220,
+        5294042668337205526,
+        5294180072930939291,
+        5296658754392036839,
+        5296720254028747175,
+        5296381114821120653,
+        5296489133248616527,
+        5296654326280754175,
+        5294302642707633084,
+        5308038180048475549,
+        5309906997628375081,
+        5310061564911425384,
+        5312278506770534310,
+        5325994261492011198,
+        5222344073435692012
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        5309861324946149455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        5309861324946149455,
+        5294302642707633084
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        5309861324946149455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        5309861324946149455,
+        5296658754392036839
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5296660107306734327
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✨",
+      "documents": [
+        5296660107306734327,
+        5296381114821120653
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😁",
+      "documents": [
+        5296660107306734327
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        5294452670210249603
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😰",
+      "documents": [
+        5294452670210249603
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😬",
+      "documents": [
+        5294452670210249603,
+        5294180072930939291
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        5213289784159507602
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏔",
+      "documents": [
+        5213289784159507602
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        5213289784159507602
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌲",
+      "documents": [
+        5213289784159507602,
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌨",
+      "documents": [
+        5213289784159507602
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥳",
+      "documents": [
+        5294466036148474644,
+        5294033253768892787
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛷",
+      "documents": [
+        5294466036148474644
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏂",
+      "documents": [
+        5294466036148474644
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎉",
+      "documents": [
+        5294033253768892787,
+        5222344073435692012
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥸",
+      "documents": [
+        5294033253768892787
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎵",
+      "documents": [
+        5294033253768892787
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎶",
+      "documents": [
+        5294033253768892787,
+        5308038180048475549
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤗",
+      "documents": [
+        5294125402292229077,
+        5294302642707633084
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍👩‍👦",
+      "documents": [
+        5294125402292229077
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍👩‍👧",
+      "documents": [
+        5294125402292229077
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📸",
+      "documents": [
+        5294125402292229077
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥴",
+      "documents": [
+        5294092159245358090
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤪",
+      "documents": [
+        5294092159245358090
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥃",
+      "documents": [
+        5294092159245358090
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍵",
+      "documents": [
+        5294092159245358090
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😔",
+      "documents": [
+        5294488644856320110
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☹",
+      "documents": [
+        5294488644856320110
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍪",
+      "documents": [
+        5294488644856320110,
+        5296720254028747175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖕",
+      "documents": [
+        5294133425291137220
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😠",
+      "documents": [
+        5294133425291137220
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        5294133425291137220,
+        5310061564911425384
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎄",
+      "documents": [
+        5294133425291137220,
+        5294042668337205526,
+        5296654326280754175,
+        5308038180048475549,
+        5222344073435692012
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👫",
+      "documents": [
+        5294042668337205526
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👭",
+      "documents": [
+        5294042668337205526
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👬",
+      "documents": [
+        5294042668337205526
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌟",
+      "documents": [
+        5294042668337205526,
+        5222344073435692012
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⭐",
+      "documents": [
+        5294042668337205526,
+        5222344073435692012
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙈",
+      "documents": [
+        5294180072930939291
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😍",
+      "documents": [
+        5296658754392036839
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚜",
+      "documents": [
+        5296658754392036839
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛁",
+      "documents": [
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛀",
+      "documents": [
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧖‍♀",
+      "documents": [
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧖",
+      "documents": [
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧖‍♂",
+      "documents": [
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        5296323626683864133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵‍💫",
+      "documents": [
+        5296720254028747175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍭",
+      "documents": [
+        5296720254028747175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍬",
+      "documents": [
+        5296720254028747175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧁",
+      "documents": [
+        5296720254028747175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌺",
+      "documents": [
+        5296381114821120653
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        5296381114821120653
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛸",
+      "documents": [
+        5296489133248616527
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎁",
+      "documents": [
+        5296489133248616527,
+        5308038180048475549
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        5296489133248616527,
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎀",
+      "documents": [
+        5296489133248616527
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💻",
+      "documents": [
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛋",
+      "documents": [
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😪",
+      "documents": [
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😴",
+      "documents": [
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍕",
+      "documents": [
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥤",
+      "documents": [
+        5296654326280754175
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😙",
+      "documents": [
+        5294302642707633084
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥶",
+      "documents": [
+        5309906997628375081
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🐿",
+      "documents": [
+        5309906997628375081,
+        5312278506770534310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤬",
+      "documents": [
+        5310061564911425384
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        5312278506770534310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤨",
+      "documents": [
+        5312278506770534310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❓",
+      "documents": [
+        5312278506770534310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❔",
+      "documents": [
+        5312278506770534310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        5325994261492011198
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        5325994261492011198
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥺",
+      "documents": [
+        5325994261492011198
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5294330577174926296,
+      "access_hash": 5008911176921087232,
+      "file_reference_hex": "006a15f20fe14159a18247f8ebab542e1f0e36f37d",
+      "mime_type": "application/x-tgsticker",
+      "size": 23459,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0000_5294330577174926296.tgs"
+    },
+    {
+      "id": 5309861324946149455,
+      "access_hash": 3265742065144416666,
+      "file_reference_hex": "006a15f20fb0743494bddb4fb01c7d5fb01f237a9f",
+      "mime_type": "application/x-tgsticker",
+      "size": 13302,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0001_5309861324946149455.tgs"
+    },
+    {
+      "id": 5296660107306734327,
+      "access_hash": 6418899073354375182,
+      "file_reference_hex": "006a15f20f6bba3565d73ef1cc8b61a9f6649da043",
+      "mime_type": "application/x-tgsticker",
+      "size": 22851,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0002_5296660107306734327.tgs"
+    },
+    {
+      "id": 5294452670210249603,
+      "access_hash": -6742587651778348352,
+      "file_reference_hex": "006a15f20f79dba1151912bd4424a3d430fd9298fa",
+      "mime_type": "application/x-tgsticker",
+      "size": 30217,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0003_5294452670210249603.tgs"
+    },
+    {
+      "id": 5213289784159507602,
+      "access_hash": 6213980207644025816,
+      "file_reference_hex": "006a15f20f7df75ff5fe07eaa850f4e1aece9eac84",
+      "mime_type": "application/x-tgsticker",
+      "size": 55184,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0004_5213289784159507602.tgs"
+    },
+    {
+      "id": 5294466036148474644,
+      "access_hash": 6246949866062818069,
+      "file_reference_hex": "006a15f20f4a9a9c77c8988136dafb2a558d685f6b",
+      "mime_type": "application/x-tgsticker",
+      "size": 31161,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥳",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0005_5294466036148474644.tgs"
+    },
+    {
+      "id": 5294033253768892787,
+      "access_hash": -668882937204580109,
+      "file_reference_hex": "006a15f20fc7f148965e481b2df321db7904f2a028",
+      "mime_type": "application/x-tgsticker",
+      "size": 16864,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥳",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0006_5294033253768892787.tgs"
+    },
+    {
+      "id": 5294125402292229077,
+      "access_hash": -3859700643475047628,
+      "file_reference_hex": "006a15f20f435e68f2dd4081f3b7aa249de81706fe",
+      "mime_type": "application/x-tgsticker",
+      "size": 47597,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤗",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0007_5294125402292229077.tgs"
+    },
+    {
+      "id": 5294092159245358090,
+      "access_hash": 420809737626217516,
+      "file_reference_hex": "006a15f20f569acadb2f00a7046b045018835d264d",
+      "mime_type": "application/x-tgsticker",
+      "size": 20078,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥴",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0008_5294092159245358090.tgs"
+    },
+    {
+      "id": 5294488644856320110,
+      "access_hash": -7562140977454949027,
+      "file_reference_hex": "006a15f20f4a3911afed568b5fefd1f900b2b66327",
+      "mime_type": "application/x-tgsticker",
+      "size": 16772,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0009_5294488644856320110.tgs"
+    },
+    {
+      "id": 5294133425291137220,
+      "access_hash": 5047975665204644663,
+      "file_reference_hex": "006a15f20f42da6ce91e35e3aeeefb3a6de99d0cfa",
+      "mime_type": "application/x-tgsticker",
+      "size": 16885,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🖕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0010_5294133425291137220.tgs"
+    },
+    {
+      "id": 5294042668337205526,
+      "access_hash": 4819219056444536007,
+      "file_reference_hex": "006a15f20fa917f7c046bfe63ad0e97a31f8911571",
+      "mime_type": "application/x-tgsticker",
+      "size": 28968,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🎄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0011_5294042668337205526.tgs"
+    },
+    {
+      "id": 5294180072930939291,
+      "access_hash": -5409019073735985345,
+      "file_reference_hex": "006a15f20f9b054aae85fecac1ead3ea55fc789550",
+      "mime_type": "application/x-tgsticker",
+      "size": 20419,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0012_5294180072930939291.tgs"
+    },
+    {
+      "id": 5296658754392036839,
+      "access_hash": 8517333361618671354,
+      "file_reference_hex": "006a15f20f5c1808e68311c32c2977a4a70ad9690d",
+      "mime_type": "application/x-tgsticker",
+      "size": 24118,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0013_5296658754392036839.tgs"
+    },
+    {
+      "id": 5296323626683864133,
+      "access_hash": 2934276521889425574,
+      "file_reference_hex": "006a15f20f2253c5560a229337b7fab5473a1820d6",
+      "mime_type": "application/x-tgsticker",
+      "size": 23695,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🛁",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0014_5296323626683864133.tgs"
+    },
+    {
+      "id": 5296720254028747175,
+      "access_hash": -2540923365053970626,
+      "file_reference_hex": "006a15f20f07f8c12b2ee4526a0aa072323263ae1a",
+      "mime_type": "application/x-tgsticker",
+      "size": 24348,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😵‍💫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0015_5296720254028747175.tgs"
+    },
+    {
+      "id": 5296381114821120653,
+      "access_hash": -8328634665900648115,
+      "file_reference_hex": "006a15f20fa73ff41d945126342b1b8d936feea3b8",
+      "mime_type": "application/x-tgsticker",
+      "size": 15010,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🌺",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0016_5296381114821120653.tgs"
+    },
+    {
+      "id": 5296489133248616527,
+      "access_hash": 4727540890490445230,
+      "file_reference_hex": "006a15f20f3121539736ba20e853ed5efca1d605de",
+      "mime_type": "application/x-tgsticker",
+      "size": 26170,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "⛸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0017_5296489133248616527.tgs"
+    },
+    {
+      "id": 5296654326280754175,
+      "access_hash": -7813473041176362410,
+      "file_reference_hex": "006a15f20f370ed4af47028e621d3f56bc0a746a93",
+      "mime_type": "application/x-tgsticker",
+      "size": 35634,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0018_5296654326280754175.tgs"
+    },
+    {
+      "id": 5294302642707633084,
+      "access_hash": -2574027204833403037,
+      "file_reference_hex": "006a15f20fdac043d1b57c9b0c436dca245d953dbe",
+      "mime_type": "application/x-tgsticker",
+      "size": 25550,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤗",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0019_5294302642707633084.tgs"
+    },
+    {
+      "id": 5308038180048475549,
+      "access_hash": 1494294392158644566,
+      "file_reference_hex": "006a15f20ffeacbe85ae17023856165737a15921c9",
+      "mime_type": "application/x-tgsticker",
+      "size": 18535,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🎄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0020_5308038180048475549.tgs"
+    },
+    {
+      "id": 5309906997628375081,
+      "access_hash": -7582650160603362193,
+      "file_reference_hex": "006a15f20fd128c229a5c30d1ffe7f97fe9a27168a",
+      "mime_type": "application/x-tgsticker",
+      "size": 43886,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥶",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0021_5309906997628375081.tgs"
+    },
+    {
+      "id": 5310061564911425384,
+      "access_hash": -51871403579184180,
+      "file_reference_hex": "006a15f20fc369745a8cbf2ed4a9b7462c3bc0b8c4",
+      "mime_type": "application/x-tgsticker",
+      "size": 17387,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0022_5310061564911425384.tgs"
+    },
+    {
+      "id": 5312278506770534310,
+      "access_hash": 8207732851315150422,
+      "file_reference_hex": "006a15f20fb8f1e62680e4b35091a1e626875a3d2f",
+      "mime_type": "application/x-tgsticker",
+      "size": 13686,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0023_5312278506770534310.tgs"
+    },
+    {
+      "id": 5325994261492011198,
+      "access_hash": -7411610972372194353,
+      "file_reference_hex": "006a15f20f2d7b55473ff579146c78e5a5d549cdbf",
+      "mime_type": "application/x-tgsticker",
+      "size": 14611,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0024_5325994261492011198.tgs"
+    },
+    {
+      "id": 5222344073435692012,
+      "access_hash": -4320917191358909120,
+      "file_reference_hex": "006a15f20f6b2eb49f4605ce109537bcd2c12d7a0b",
+      "mime_type": "application/x-tgsticker",
+      "size": 29742,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🎄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 562563904580878356,
+            "access_hash": 6911462653192579824
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/YetiHolidays_562563904580878356/files/0025_5222344073435692012.tgs"
+    }
+  ]
+}

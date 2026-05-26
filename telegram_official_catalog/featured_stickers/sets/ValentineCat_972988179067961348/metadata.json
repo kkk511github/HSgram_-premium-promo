@@ -1,0 +1,981 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 972988179067961348,
+    "access_hash": 6484132519060840295,
+    "title": "Cat Valentine",
+    "short_name": "ValentineCat",
+    "count": 18,
+    "hash": -34994668,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b',\\x01\\xb1\\x05\\xdc`\\x92M\\x01G\\x05N\\x01G\\x01X\\x8ap\\x93G\\x05\\x89EBRNUNP\\x80m\\x9cz\\xa4u\\xa0L\\x05\\xa0N\\x00gDTGiF~\\x80[\\x88G\\x01\\xaaG\\x04\\x86\\x80\\x90\\x83\\x95\\x81\\x82\\x80\\x81CAE\\x81FBMBTAQ\\x89c\\x88t\\x80GGNHVC_\\x88O\\x01\\xa4P\\x06\\x9dP\\x88\\t\\xa6\\x8a\\t\\xb8\\x88\\x87\\x91\\x96\\x9a\\x99\\x85\\x83\\xa0\\x83\\xa5\\x80\\x83A\\x88Q\\x8bT\\x92S\\x8a\\x01H\\x05\\x8c\\tF\\t\\x9e\\x91\\x9c\\x89\\x02\\x9c\\x8c\\x00\\x80\\x91G\\xa5F\\xb5\\x82\\x90\\x8f\\xa2\\x91\\xb5\\x82\\x93\\x80\\xa7G\\xb9A\\x85J\\x8fE\\x8e\\x92A\\xabG\\xbb\\x86\\xa3\\x9f\\x93\\x8c\\x07E\\x8f\\tM\\x91]\\x98q\\x99'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 4282
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": -41653315,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        972988179067961454
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        972988179067961454
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😆",
+      "documents": [
+        972988179067961454
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😹",
+      "documents": [
+        972988179067961454
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🐱",
+      "documents": [
+        972988179067961454,
+        972988179067961446,
+        972988179067961445,
+        972988179067961461,
+        972988179067961455,
+        972988179067961443,
+        972988179067961441,
+        972988179067961459,
+        972988179067961452,
+        972988179067961453,
+        972988179067961463,
+        972988179067961451,
+        972988179067961464,
+        972988179067961458,
+        972988179067961460
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🐈",
+      "documents": [
+        972988179067961454,
+        972988179067961446,
+        972988179067961445,
+        972988179067961461,
+        972988179067961455,
+        972988179067961443,
+        972988179067961441,
+        972988179067961459,
+        972988179067961452,
+        972988179067961453,
+        972988179067961463,
+        972988179067961451,
+        972988179067961464,
+        972988179067961458,
+        972988179067961460,
+        5201744267822767308,
+        5199595396900330332,
+        5199616051398055853
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎀",
+      "documents": [
+        972988179067961454,
+        972988179067961446,
+        972988179067961445,
+        972988179067961461,
+        972988179067961455,
+        972988179067961443,
+        972988179067961441,
+        972988179067961459,
+        972988179067961452,
+        972988179067961453,
+        972988179067961463,
+        972988179067961451,
+        972988179067961464,
+        972988179067961458,
+        972988179067961460,
+        5201744267822767308,
+        5199595396900330332,
+        5199616051398055853
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        972988179067961446
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😽",
+      "documents": [
+        972988179067961446
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        972988179067961445,
+        5201744267822767308
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😺",
+      "documents": [
+        972988179067961445,
+        5201744267822767308
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        972988179067961461
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        972988179067961461
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙀",
+      "documents": [
+        972988179067961461
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        972988179067961455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        972988179067961455,
+        972988179067961460,
+        5201744267822767308
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😍",
+      "documents": [
+        972988179067961443
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤤",
+      "documents": [
+        972988179067961443
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😋",
+      "documents": [
+        972988179067961443
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😻",
+      "documents": [
+        972988179067961443,
+        5199595396900330332
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😌",
+      "documents": [
+        972988179067961441
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥺",
+      "documents": [
+        972988179067961441
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        972988179067961459,
+        5199595396900330332
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎈",
+      "documents": [
+        972988179067961459
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        972988179067961459
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        972988179067961452,
+        5199616051398055853
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        972988179067961452,
+        5199616051398055853
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💔",
+      "documents": [
+        972988179067961452,
+        5199616051398055853
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😿",
+      "documents": [
+        972988179067961452,
+        5199616051398055853
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💐",
+      "documents": [
+        972988179067961453
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌹",
+      "documents": [
+        972988179067961453,
+        5199595396900330332
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😃",
+      "documents": [
+        972988179067961453,
+        5201744267822767308
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💑",
+      "documents": [
+        972988179067961463
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍❤‍👩",
+      "documents": [
+        972988179067961463
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍❤‍👨",
+      "documents": [
+        972988179067961463
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        972988179067961451
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😤",
+      "documents": [
+        972988179067961451
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧻",
+      "documents": [
+        972988179067961451
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😾",
+      "documents": [
+        972988179067961451
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👫",
+      "documents": [
+        972988179067961464
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        972988179067961464
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤗",
+      "documents": [
+        972988179067961464
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        972988179067961458
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛌",
+      "documents": [
+        972988179067961458
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥂",
+      "documents": [
+        972988179067961460
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍾",
+      "documents": [
+        972988179067961460
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 972988179067961454,
+      "access_hash": 3307122742679451183,
+      "file_reference_hex": "006a15eecf62bd17e6f7a294031a7b5514e7440807",
+      "mime_type": "application/x-tgsticker",
+      "size": 9372,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0000_972988179067961454.tgs"
+    },
+    {
+      "id": 972988179067961446,
+      "access_hash": 8547929396673545172,
+      "file_reference_hex": "006a15eecfcbc5f5f2cfe502c039fa65c4d615198a",
+      "mime_type": "application/x-tgsticker",
+      "size": 9976,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0001_972988179067961446.tgs"
+    },
+    {
+      "id": 972988179067961445,
+      "access_hash": -2169958410583986802,
+      "file_reference_hex": "006a15eecf41ded67672e082525c14ef27d6380be6",
+      "mime_type": "application/x-tgsticker",
+      "size": 9791,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0002_972988179067961445.tgs"
+    },
+    {
+      "id": 972988179067961461,
+      "access_hash": -7991269352759967063,
+      "file_reference_hex": "006a15eecf945e95999ebbd59dc676bc1606f9e906",
+      "mime_type": "application/x-tgsticker",
+      "size": 8188,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0003_972988179067961461.tgs"
+    },
+    {
+      "id": 972988179067961455,
+      "access_hash": 5235158701921891297,
+      "file_reference_hex": "006a15eecf23a0ec1e1ba63815908c92336f0131fc",
+      "mime_type": "application/x-tgsticker",
+      "size": 8269,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0004_972988179067961455.tgs"
+    },
+    {
+      "id": 972988179067961443,
+      "access_hash": -8977193018540780073,
+      "file_reference_hex": "006a15eecf11fb4eb6b570833124d9c75ee21527cc",
+      "mime_type": "application/x-tgsticker",
+      "size": 9922,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0005_972988179067961443.tgs"
+    },
+    {
+      "id": 972988179067961441,
+      "access_hash": 938140204234116356,
+      "file_reference_hex": "006a15eecff44ff5233025b139c2be64cce73063b2",
+      "mime_type": "application/x-tgsticker",
+      "size": 6851,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0006_972988179067961441.tgs"
+    },
+    {
+      "id": 972988179067961459,
+      "access_hash": -9120597426155762652,
+      "file_reference_hex": "006a15eecf25f63eab5cbaa014874e1314fb112c86",
+      "mime_type": "application/x-tgsticker",
+      "size": 8317,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "❤️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0007_972988179067961459.tgs"
+    },
+    {
+      "id": 972988179067961452,
+      "access_hash": 1470337613582119192,
+      "file_reference_hex": "006a15eecfef855fb3e7fec570ba1d06f3168e7166",
+      "mime_type": "application/x-tgsticker",
+      "size": 8633,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0008_972988179067961452.tgs"
+    },
+    {
+      "id": 972988179067961453,
+      "access_hash": 2763098486881758933,
+      "file_reference_hex": "006a15eecf1e9351f884ebf17cd463795099cc4800",
+      "mime_type": "application/x-tgsticker",
+      "size": 12279,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💐",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0009_972988179067961453.tgs"
+    },
+    {
+      "id": 972988179067961463,
+      "access_hash": -8337654245515728911,
+      "file_reference_hex": "006a15eecf8a8fe03efbe589a29133ca57edd7c5b4",
+      "mime_type": "application/x-tgsticker",
+      "size": 14008,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0010_972988179067961463.tgs"
+    },
+    {
+      "id": 972988179067961451,
+      "access_hash": -8434174414279104040,
+      "file_reference_hex": "006a15eecf6b7431e78bb72911fcc7fbeff735b4ba",
+      "mime_type": "application/x-tgsticker",
+      "size": 26610,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0011_972988179067961451.tgs"
+    },
+    {
+      "id": 972988179067961464,
+      "access_hash": -2961805202733349901,
+      "file_reference_hex": "006a15eecf1fafaf45b2d618d8572c7e896d113677",
+      "mime_type": "application/x-tgsticker",
+      "size": 16272,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0012_972988179067961464.tgs"
+    },
+    {
+      "id": 972988179067961458,
+      "access_hash": -9095984272497629549,
+      "file_reference_hex": "006a15eecf96ce3f1f570797375b11562ad5abf1a9",
+      "mime_type": "application/x-tgsticker",
+      "size": 10289,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0013_972988179067961458.tgs"
+    },
+    {
+      "id": 972988179067961460,
+      "access_hash": -8972996209414539840,
+      "file_reference_hex": "006a15eecf9a1ed6d41ade4b8db685c41c4c414dcc",
+      "mime_type": "application/x-tgsticker",
+      "size": 10621,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0014_972988179067961460.tgs"
+    },
+    {
+      "id": 5201744267822767308,
+      "access_hash": -2227448502272492584,
+      "file_reference_hex": "006a15eecf1eee05cc8f8bd6057ab43fbe04d961ce",
+      "mime_type": "application/x-tgsticker",
+      "size": 11275,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0015_5201744267822767308.tgs"
+    },
+    {
+      "id": 5199595396900330332,
+      "access_hash": 6506732682176940753,
+      "file_reference_hex": "006a15eecf228181d5febf612913e23f7ca31ab84c",
+      "mime_type": "application/x-tgsticker",
+      "size": 14284,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "❤️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0016_5199595396900330332.tgs"
+    },
+    {
+      "id": 5199616051398055853,
+      "access_hash": -7220498355553870021,
+      "file_reference_hex": "006a15eecf0b8abaa1e2fb2b56941b197ecc9ee40a",
+      "mime_type": "application/x-tgsticker",
+      "size": 11795,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 972988179067961348,
+            "access_hash": 6484132519060840295
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/ValentineCat_972988179067961348/files/0017_5199616051398055853.tgs"
+    }
+  ]
+}

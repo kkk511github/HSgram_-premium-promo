@@ -1,0 +1,852 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 669159254791290908,
+    "access_hash": -8011343862619972964,
+    "title": "Cute Nurse",
+    "short_name": "CuteNurse",
+    "count": 17,
+    "hash": -958683802,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x18\\x07\\xb1\\t\\xdcK\\x81TD]JXNp\\\\G\\x01jCBK\\x87M\\x88S\\x89m\\x89\\x7fC[S]tPH\\x00\\x84J\\x8fS\\x92]\\x81D\\x81c\\x83l\\x8bG\\x02|n\\x7fH\\x03AS\\xa5e\\xb0q\\xbeF\\t\\x8a\\x05Q\\x05\\x96\\x01N\\x02\\x87\\x01\\x94\\x8a\\x00\\x88\\x05\\x8e\\x04\\x8d\\x08\\x8c\\x8f\\xb6\\xa2\\xb2\\xb8C\\x92q\\x9a}\\xafG\\x8d\\x87\\x9f\\x89\\xab\\x83\\x8cE\\x9cB\\xa8\\x83\\x90\\x94\\x9e\\x96\\xb0\\x85\\xa8]\\x86\\tF\\x07\\x86\\x04MAUM_OC\\x81G\\x08\\xb3I\\t\\xb5'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 12310
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": 753469445,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        669159254791291985,
+        669159254791291998
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😁",
+      "documents": [
+        669159254791291985
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        669159254791291985
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍⚕",
+      "documents": [
+        669159254791291985,
+        669159254791291990,
+        669159254791291987,
+        669159254791291996,
+        669159254791291992,
+        669159254791291988,
+        669159254791291989,
+        669159254791291991,
+        669159254791291986,
+        669159254791291993,
+        669159254791291994,
+        669159254791291995,
+        669159254791291997,
+        669159254791291998,
+        669159254791291999,
+        5386366834360467867,
+        5402332018073679834
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        669159254791291990
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        669159254791291990,
+        5402332018073679834
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        669159254791291987
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😷",
+      "documents": [
+        669159254791291987,
+        669159254791291986,
+        669159254791291994
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦠",
+      "documents": [
+        669159254791291987
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤧",
+      "documents": [
+        669159254791291996
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😥",
+      "documents": [
+        669159254791291996
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        669159254791291992
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        669159254791291992,
+        669159254791291998
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💉",
+      "documents": [
+        669159254791291992,
+        5402332018073679834
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        669159254791291988
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        669159254791291988
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤢",
+      "documents": [
+        669159254791291989
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤮",
+      "documents": [
+        669159254791291989
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        669159254791291991
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😐",
+      "documents": [
+        669159254791291991
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙁",
+      "documents": [
+        669159254791291991
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😉",
+      "documents": [
+        669159254791291986,
+        669159254791291995
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☝",
+      "documents": [
+        669159254791291993
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😠",
+      "documents": [
+        669159254791291993
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😎",
+      "documents": [
+        669159254791291994
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👈",
+      "documents": [
+        669159254791291995
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌝",
+      "documents": [
+        669159254791291995
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        669159254791291997
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❓",
+      "documents": [
+        669159254791291997
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤕",
+      "documents": [
+        669159254791291999
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💊",
+      "documents": [
+        669159254791291999,
+        5386366834360467867,
+        5402332018073679834
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥴",
+      "documents": [
+        5386366834360467867
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍄",
+      "documents": [
+        5386366834360467867
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌌",
+      "documents": [
+        5386366834360467867
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😍",
+      "documents": [
+        5402332018073679834
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        5402332018073679834
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🩷",
+      "documents": [
+        5402332018073679834
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 669159254791291985,
+      "access_hash": -5486327341243392776,
+      "file_reference_hex": "006a15f00e4e69ba3a8644b2c61e4bc26c28fccb3f",
+      "mime_type": "application/x-tgsticker",
+      "size": 36829,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0000_669159254791291985.tgs"
+    },
+    {
+      "id": 669159254791291990,
+      "access_hash": -6937901925298127319,
+      "file_reference_hex": "006a15f00e0e28a3ce632d94529afbdcfa4f8d6ea7",
+      "mime_type": "application/x-tgsticker",
+      "size": 33821,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0001_669159254791291990.tgs"
+    },
+    {
+      "id": 669159254791291987,
+      "access_hash": 1095276548535211513,
+      "file_reference_hex": "006a15f00e219c2c346ae67c5e61b3d43ec45c16a1",
+      "mime_type": "application/x-tgsticker",
+      "size": 64968,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0002_669159254791291987.tgs"
+    },
+    {
+      "id": 669159254791291996,
+      "access_hash": 6795866812991373360,
+      "file_reference_hex": "006a15f00e443e893704766f473f911c81d8a89b38",
+      "mime_type": "application/x-tgsticker",
+      "size": 51975,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤧",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0003_669159254791291996.tgs"
+    },
+    {
+      "id": 669159254791291992,
+      "access_hash": 8987179543681109559,
+      "file_reference_hex": "006a15f00e1c17b6e3f5357ffff11af5f808f5b250",
+      "mime_type": "application/x-tgsticker",
+      "size": 55931,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0004_669159254791291992.tgs"
+    },
+    {
+      "id": 669159254791291988,
+      "access_hash": 2066610036314348045,
+      "file_reference_hex": "006a15f00e09036462ecb77a9102154a37fe7a2e5b",
+      "mime_type": "application/x-tgsticker",
+      "size": 50994,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0005_669159254791291988.tgs"
+    },
+    {
+      "id": 669159254791291989,
+      "access_hash": 7159007699664924280,
+      "file_reference_hex": "006a15f00e9a8db4e9a8fb2fb1a5fba6aee31ce9a2",
+      "mime_type": "application/x-tgsticker",
+      "size": 32206,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤢",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0006_669159254791291989.tgs"
+    },
+    {
+      "id": 669159254791291991,
+      "access_hash": -1067816462069331364,
+      "file_reference_hex": "006a15f00efffe90f2c9be11e25a7603a1c4baf0ca",
+      "mime_type": "application/x-tgsticker",
+      "size": 38466,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🙂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0007_669159254791291991.tgs"
+    },
+    {
+      "id": 669159254791291986,
+      "access_hash": -7371864999852429266,
+      "file_reference_hex": "006a15f00e92fe0ab7e6fc16f6956917e254b7b1be",
+      "mime_type": "application/x-tgsticker",
+      "size": 42982,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0008_669159254791291986.tgs"
+    },
+    {
+      "id": 669159254791291993,
+      "access_hash": 5701565639227389254,
+      "file_reference_hex": "006a15f00ef64f05598586c01776bd58e8965dacdf",
+      "mime_type": "application/x-tgsticker",
+      "size": 48139,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☝️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0009_669159254791291993.tgs"
+    },
+    {
+      "id": 669159254791291994,
+      "access_hash": -7989191981633675008,
+      "file_reference_hex": "006a15f00e793056a66d9ae53691deb1cfae6c7ca3",
+      "mime_type": "application/x-tgsticker",
+      "size": 48949,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0010_669159254791291994.tgs"
+    },
+    {
+      "id": 669159254791291995,
+      "access_hash": -6512099611399700705,
+      "file_reference_hex": "006a15f00ef444739254b4c7309de50bd4f429758b",
+      "mime_type": "application/x-tgsticker",
+      "size": 50134,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0011_669159254791291995.tgs"
+    },
+    {
+      "id": 669159254791291997,
+      "access_hash": -547793926103381803,
+      "file_reference_hex": "006a15f00e916ea8ec3b4c54c18da7de847842ab57",
+      "mime_type": "application/x-tgsticker",
+      "size": 53490,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0012_669159254791291997.tgs"
+    },
+    {
+      "id": 669159254791291998,
+      "access_hash": -420777465813397024,
+      "file_reference_hex": "006a15f00e44b661296ec881e6a64828bb6b647089",
+      "mime_type": "application/x-tgsticker",
+      "size": 50451,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☺️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0013_669159254791291998.tgs"
+    },
+    {
+      "id": 669159254791291999,
+      "access_hash": -5348544540845254100,
+      "file_reference_hex": "006a15f00ea84872e7cd2f7d770686932f305b9675",
+      "mime_type": "application/x-tgsticker",
+      "size": 58177,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0014_669159254791291999.tgs"
+    },
+    {
+      "id": 5386366834360467867,
+      "access_hash": -3863266596096573903,
+      "file_reference_hex": "006a15f00eb85e0e6da3fda956ffeba50f09e6b862",
+      "mime_type": "application/x-tgsticker",
+      "size": 49604,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💊",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0015_5386366834360467867.tgs"
+    },
+    {
+      "id": 5402332018073679834,
+      "access_hash": -7964148408787135171,
+      "file_reference_hex": "006a15f00ee405ad86d7c3fc9f85c324ae2aac49fc",
+      "mime_type": "application/x-tgsticker",
+      "size": 35046,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290908,
+            "access_hash": -8011343862619972964
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/CuteNurse_669159254791290908/files/0016_5402332018073679834.tgs"
+    }
+  ]
+}

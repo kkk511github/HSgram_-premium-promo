@@ -1,0 +1,4332 @@
+{
+  "source": "messages.getFeaturedEmojiStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1145788388561911820,
+    "access_hash": 8921151400766591036,
+    "title": "Game Emoji",
+    "short_name": "GameEmoji",
+    "count": 100,
+    "hash": -586759006,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": true,
+    "text_color": false,
+    "channel_emoji_status": true,
+    "creator": false,
+    "installed_date": "2026-05-20 05:16:58+00:00",
+    "thumbs": [],
+    "thumb_dc_id": null,
+    "thumb_version": null,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5465465194056525619
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕹",
+      "documents": [
+        5465465194056525619,
+        5465262274031659421,
+        5462910521739063094,
+        5465225015190367274,
+        5463121572137022242,
+        5463412289883353404,
+        5462990652943904884,
+        5465198330558557107,
+        5463256910851546817,
+        5463277406435422003,
+        5465154440287757794,
+        5463054218459884779,
+        5463274047771000031,
+        5463392464314315076,
+        5463156928307801722,
+        5463081281048818043,
+        5465137208878969279,
+        5462882007451185227,
+        5463186335948878489,
+        5463071033256848094,
+        5463122435425448565,
+        5463139580934892960,
+        5463423955014529788,
+        5465443379917629504,
+        5463046637842608206,
+        5463358164705489689,
+        5463335865235288297,
+        5462921117423384478,
+        5463250708918711044,
+        5463413771647069835,
+        5463406036410969564,
+        5462995330163289902,
+        5465265370703080100,
+        5463345378587849154,
+        5462957817918926146,
+        5463172695132745432,
+        5463092727136661235,
+        5463137996091962323,
+        5462956611033117422,
+        5462990730253319917,
+        5453921696354419743
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        5465262274031659421
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😍",
+      "documents": [
+        5465262274031659421
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        5462910521739063094,
+        5375364347918827433
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👎",
+      "documents": [
+        5465225015190367274,
+        5255738543673721267
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        5463121572137022242
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        5463121572137022242
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤟",
+      "documents": [
+        5463412289883353404
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤘",
+      "documents": [
+        5463412289883353404
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😴",
+      "documents": [
+        5462990652943904884
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💤",
+      "documents": [
+        5462990652943904884
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💩",
+      "documents": [
+        5465198330558557107,
+        5255738543673721267
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤢",
+      "documents": [
+        5465198330558557107
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤮",
+      "documents": [
+        5465198330558557107
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤝",
+      "documents": [
+        5463256910851546817,
+        5372957680174384345
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗡",
+      "documents": [
+        5463277406435422003,
+        5454168390685965478,
+        5373342608028352831,
+        5373239082136650704
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚔",
+      "documents": [
+        5463277406435422003,
+        5454014806950429357
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛡",
+      "documents": [
+        5465154440287757794,
+        5454168390685965478,
+        5373173798633752502
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌡",
+      "documents": [
+        5463054218459884779
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵",
+      "documents": [
+        5463274047771000031,
+        5465137208878969279,
+        5465265370703080100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎯",
+      "documents": [
+        5463274047771000031
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👉",
+      "documents": [
+        5463392464314315076
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤕",
+      "documents": [
+        5463156928307801722
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💊",
+      "documents": [
+        5463081281048818043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💉",
+      "documents": [
+        5463081281048818043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🩺",
+      "documents": [
+        5463081281048818043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🩹",
+      "documents": [
+        5463081281048818043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚫",
+      "documents": [
+        5462882007451185227,
+        5375312095346704820
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚰",
+      "documents": [
+        5463186335948878489
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪦",
+      "documents": [
+        5463186335948878489,
+        5373239082136650704
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔝",
+      "documents": [
+        5463071033256848094
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⬆",
+      "documents": [
+        5463122435425448565,
+        5462995330163289902
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❓",
+      "documents": [
+        5463139580934892960
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👌",
+      "documents": [
+        5463423955014529788
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔓",
+      "documents": [
+        5465443379917629504
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔑",
+      "documents": [
+        5465443379917629504
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗝",
+      "documents": [
+        5465443379917629504
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪙",
+      "documents": [
+        5463046637842608206
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💰",
+      "documents": [
+        5463046637842608206,
+        5375312095346704820
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💸",
+      "documents": [
+        5463046637842608206,
+        5373174941095050893
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💵",
+      "documents": [
+        5463046637842608206,
+        5453901475648390219
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💴",
+      "documents": [
+        5463046637842608206,
+        5453901475648390219
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💶",
+      "documents": [
+        5463046637842608206,
+        5453901475648390219
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💷",
+      "documents": [
+        5463046637842608206,
+        5453901475648390219
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛔",
+      "documents": [
+        5463358164705489689
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤬",
+      "documents": [
+        5463335865235288297
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        5463335865235288297,
+        5373261050894370026
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛠",
+      "documents": [
+        5462921117423384478
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔧",
+      "documents": [
+        5462921117423384478
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪛",
+      "documents": [
+        5462921117423384478
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔩",
+      "documents": [
+        5462921117423384478
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚙",
+      "documents": [
+        5462921117423384478
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💀",
+      "documents": [
+        5463250708918711044
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🩸",
+      "documents": [
+        5463250708918711044
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💪",
+      "documents": [
+        5463413771647069835
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦾",
+      "documents": [
+        5463413771647069835
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎣",
+      "documents": [
+        5463406036410969564
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪝",
+      "documents": [
+        5463406036410969564
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪤",
+      "documents": [
+        5463406036410969564
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏫",
+      "documents": [
+        5462995330163289902
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵‍💫",
+      "documents": [
+        5465265370703080100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙈",
+      "documents": [
+        5463345378587849154
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙉",
+      "documents": [
+        5463345378587849154
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙊",
+      "documents": [
+        5463345378587849154
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❌",
+      "documents": [
+        5463345378587849154,
+        5454350746407419714
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖕",
+      "documents": [
+        5462957817918926146
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📦",
+      "documents": [
+        5463172695132745432
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎁",
+      "documents": [
+        5463172695132745432
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔮",
+      "documents": [
+        5463092727136661235
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        5463137996091962323
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        5463137996091962323
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📀",
+      "documents": [
+        5462956611033117422
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💿",
+      "documents": [
+        5462956611033117422
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💽",
+      "documents": [
+        5462956611033117422
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💾",
+      "documents": [
+        5462956611033117422
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔇",
+      "documents": [
+        5462990730253319917
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔕",
+      "documents": [
+        5462990730253319917
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎂",
+      "documents": [
+        5454089058345042483
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⌛",
+      "documents": [
+        5454415424319931791
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏳",
+      "documents": [
+        5454415424319931791
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☝",
+      "documents": [
+        5453958478454341679
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧙‍♀",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧙",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧙‍♂",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧞‍♀",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧞",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧞‍♂",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧚‍♀",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧚",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧚‍♂",
+      "documents": [
+        5454136337345037322
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👥",
+      "documents": [
+        5453957997418004470
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍽",
+      "documents": [
+        5454246314277619140
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍴",
+      "documents": [
+        5454246314277619140
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥄",
+      "documents": [
+        5454246314277619140
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥢",
+      "documents": [
+        5454246314277619140
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👏",
+      "documents": [
+        5454092060527181056
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔋",
+      "documents": [
+        5454125707300978880
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✉",
+      "documents": [
+        5454113432284446338
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📩",
+      "documents": [
+        5454113432284446338
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📨",
+      "documents": [
+        5454113432284446338
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔫",
+      "documents": [
+        5454177848203951217,
+        5373268949339227455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        5454182632797521992
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        5454182632797521992,
+        5373153324524650873
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥹",
+      "documents": [
+        5453966029006846697
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚑",
+      "documents": [
+        5453870826761765894
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🪖",
+      "documents": [
+        5454168390685965478
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✋",
+      "documents": [
+        5454380420336466255
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛍",
+      "documents": [
+        5453901475648390219
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎖",
+      "documents": [
+        5229045747130843073
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧠",
+      "documents": [
+        5226639745106330551
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤖",
+      "documents": [
+        5226639745106330551
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💣",
+      "documents": [
+        5226813248900187912
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌜",
+      "documents": [
+        5226662903569989373
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌛",
+      "documents": [
+        5226662903569989373
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👁",
+      "documents": [
+        5228822494730797152
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        5228822494730797152
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💔",
+      "documents": [
+        5226829990682707583
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏆",
+      "documents": [
+        5226431245918942763
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👾",
+      "documents": [
+        5226893221191237996
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙏",
+      "documents": [
+        5228878926306101271
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⭐",
+      "documents": [
+        5226928895189598791
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👑",
+      "documents": [
+        5229011542011299168
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛒",
+      "documents": [
+        5226656353744862682
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😈",
+      "documents": [
+        5228962845672096235
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⁉",
+      "documents": [
+        5226618356169194833
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "0⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "1⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "2⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "3⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "4⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "5⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "6⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "7⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "8⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "9⃣",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔟",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔢",
+      "documents": [
+        5226929552319594190
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔄",
+      "documents": [
+        5226702984204797593
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔃",
+      "documents": [
+        5226702984204797593
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔁",
+      "documents": [
+        5226702984204797593
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔙",
+      "documents": [
+        5253997076169115797
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔥",
+      "documents": [
+        5256047523620995497,
+        5373342608028352831
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💋",
+      "documents": [
+        5253922906378881072
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅‍♂",
+      "documents": [
+        5258160767789711124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅",
+      "documents": [
+        5258160767789711124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅‍♀",
+      "documents": [
+        5258160767789711124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏱",
+      "documents": [
+        5373236586760651455,
+        5373268949339227455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤙",
+      "documents": [
+        5373110220232870002
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💥",
+      "documents": [
+        5373342608028352831,
+        5373173798633752502,
+        5373268949339227455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😎",
+      "documents": [
+        5372965329511139384
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖥",
+      "documents": [
+        5375099322666859339
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚩",
+      "documents": [
+        5373304760776541441,
+        5373174941095050893
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☀",
+      "documents": [
+        5373021138316186413
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔪",
+      "documents": [
+        5373239082136650704
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗑",
+      "documents": [
+        5372825386591732174
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😧",
+      "documents": [
+        5375331860786200544
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😲",
+      "documents": [
+        5375331860786200544
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤜",
+      "documents": [
+        5375161616872520280
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤛",
+      "documents": [
+        5375161616872520280
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❗",
+      "documents": [
+        5373059848856421989
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "‼",
+      "documents": [
+        5373059848856421989
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5465465194056525619,
+      "access_hash": -1015525682559307160,
+      "file_reference_hex": "006a15f3713cdbbfab0677e3ea5efc50211a311c05",
+      "mime_type": "application/x-tgsticker",
+      "size": 28794,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0000_5465465194056525619.tgs"
+    },
+    {
+      "id": 5465262274031659421,
+      "access_hash": 893735877892519482,
+      "file_reference_hex": "006a15f3712e1f9db49cd6daf9197d84e0c5d97cc4",
+      "mime_type": "application/x-tgsticker",
+      "size": 18674,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0001_5465262274031659421.tgs"
+    },
+    {
+      "id": 5462910521739063094,
+      "access_hash": 3133786712570021334,
+      "file_reference_hex": "006a15f37100378dfbf3fd1e90079e711f2f1fd53e",
+      "mime_type": "application/x-tgsticker",
+      "size": 21338,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0002_5462910521739063094.tgs"
+    },
+    {
+      "id": 5465225015190367274,
+      "access_hash": -8421196125293333185,
+      "file_reference_hex": "006a15f37147539660caaeb11d35ed6fc65796fbb0",
+      "mime_type": "application/x-tgsticker",
+      "size": 31895,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0003_5465225015190367274.tgs"
+    },
+    {
+      "id": 5463121572137022242,
+      "access_hash": -1398575649421718908,
+      "file_reference_hex": "006a15f371cb72fa1d674f23981f6bff7b01aa3582",
+      "mime_type": "application/x-tgsticker",
+      "size": 31445,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0004_5463121572137022242.tgs"
+    },
+    {
+      "id": 5463412289883353404,
+      "access_hash": 6309181574895994283,
+      "file_reference_hex": "006a15f371c4efcdd25cc7abe7b3591a96399b408e",
+      "mime_type": "application/x-tgsticker",
+      "size": 61342,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤟",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0005_5463412289883353404.tgs"
+    },
+    {
+      "id": 5462990652943904884,
+      "access_hash": -6052446000149803203,
+      "file_reference_hex": "006a15f371a4122fff00e333f42c2b394e62560390",
+      "mime_type": "application/x-tgsticker",
+      "size": 28823,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😴",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0006_5462990652943904884.tgs"
+    },
+    {
+      "id": 5465198330558557107,
+      "access_hash": -6237056810769481899,
+      "file_reference_hex": "006a15f3710e73cf8be673dd47549a4d83bf71d3d0",
+      "mime_type": "application/x-tgsticker",
+      "size": 32890,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0007_5465198330558557107.tgs"
+    },
+    {
+      "id": 5463256910851546817,
+      "access_hash": -1734616194758046177,
+      "file_reference_hex": "006a15f37184100b4e82e3bb2b76b32c8738a7bd1a",
+      "mime_type": "application/x-tgsticker",
+      "size": 31222,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0008_5463256910851546817.tgs"
+    },
+    {
+      "id": 5463277406435422003,
+      "access_hash": 8782264311985628171,
+      "file_reference_hex": "006a15f371539b312603294beba80d1816d7eeae11",
+      "mime_type": "application/x-tgsticker",
+      "size": 27316,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🗡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0009_5463277406435422003.tgs"
+    },
+    {
+      "id": 5465154440287757794,
+      "access_hash": -3515449449848028985,
+      "file_reference_hex": "006a15f371421d121d040caa12d76b40a0f9e5b61b",
+      "mime_type": "application/x-tgsticker",
+      "size": 40368,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0010_5465154440287757794.tgs"
+    },
+    {
+      "id": 5463054218459884779,
+      "access_hash": 2278970389523994490,
+      "file_reference_hex": "006a15f3710e6a30ddf63f53528ff486dd9e440571",
+      "mime_type": "application/x-tgsticker",
+      "size": 57183,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0011_5463054218459884779.tgs"
+    },
+    {
+      "id": 5463274047771000031,
+      "access_hash": 3419069803631672725,
+      "file_reference_hex": "006a15f371c51ad645eb8a695aa1cfc462ac0c08ab",
+      "mime_type": "application/x-tgsticker",
+      "size": 37298,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0012_5463274047771000031.tgs"
+    },
+    {
+      "id": 5463392464314315076,
+      "access_hash": 7745368903346343749,
+      "file_reference_hex": "006a15f37139d7cb50ac730284090b49eda5ff0f0f",
+      "mime_type": "application/x-tgsticker",
+      "size": 23618,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0013_5463392464314315076.tgs"
+    },
+    {
+      "id": 5463156928307801722,
+      "access_hash": -494051210644823744,
+      "file_reference_hex": "006a15f371966bd843944efb4abd98ca54ecd2b782",
+      "mime_type": "application/x-tgsticker",
+      "size": 61525,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0014_5463156928307801722.tgs"
+    },
+    {
+      "id": 5463081281048818043,
+      "access_hash": -712374678596465399,
+      "file_reference_hex": "006a15f37123160725fd13bdccc185b31322d8bb13",
+      "mime_type": "application/x-tgsticker",
+      "size": 28475,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💊",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0015_5463081281048818043.tgs"
+    },
+    {
+      "id": 5465137208878969279,
+      "access_hash": -5399714833724187625,
+      "file_reference_hex": "006a15f371edc3f634f3f78bfcf2be17b01b2c05ec",
+      "mime_type": "application/x-tgsticker",
+      "size": 26850,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0016_5465137208878969279.tgs"
+    },
+    {
+      "id": 5462882007451185227,
+      "access_hash": -9067013198453466931,
+      "file_reference_hex": "006a15f37177b8624fae1b6a2f04f6d38e516b42ce",
+      "mime_type": "application/x-tgsticker",
+      "size": 48503,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0017_5462882007451185227.tgs"
+    },
+    {
+      "id": 5463186335948878489,
+      "access_hash": -2130555206183496909,
+      "file_reference_hex": "006a15f371431f2c0085b576cc9159a7d769091b04",
+      "mime_type": "application/x-tgsticker",
+      "size": 22997,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚰️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0018_5463186335948878489.tgs"
+    },
+    {
+      "id": 5463071033256848094,
+      "access_hash": 7151059008093999432,
+      "file_reference_hex": "006a15f371f343949ccae94469e1cf05602d63cc9e",
+      "mime_type": "application/x-tgsticker",
+      "size": 30543,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0019_5463071033256848094.tgs"
+    },
+    {
+      "id": 5463122435425448565,
+      "access_hash": -1984667891267570110,
+      "file_reference_hex": "006a15f3711d073152c616ec458d21e47dd529b6b7",
+      "mime_type": "application/x-tgsticker",
+      "size": 15571,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⬆️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0020_5463122435425448565.tgs"
+    },
+    {
+      "id": 5463139580934892960,
+      "access_hash": -6109003768143979004,
+      "file_reference_hex": "006a15f371f4a0406bdbda9509c638c3b9f40b2f16",
+      "mime_type": "application/x-tgsticker",
+      "size": 34020,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0021_5463139580934892960.tgs"
+    },
+    {
+      "id": 5463423955014529788,
+      "access_hash": -6940328021907684738,
+      "file_reference_hex": "006a15f37101cbc77a45ec46f1d9f8ce27ad9346ec",
+      "mime_type": "application/x-tgsticker",
+      "size": 25039,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0022_5463423955014529788.tgs"
+    },
+    {
+      "id": 5465443379917629504,
+      "access_hash": -3043813954531663634,
+      "file_reference_hex": "006a15f37100017aa4591014125ac4142b4729357c",
+      "mime_type": "application/x-tgsticker",
+      "size": 57041,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0023_5465443379917629504.tgs"
+    },
+    {
+      "id": 5463046637842608206,
+      "access_hash": 5190570358701760173,
+      "file_reference_hex": "006a15f371c5c045b4413e294f47b75062250e04db",
+      "mime_type": "application/x-tgsticker",
+      "size": 31138,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🪙",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0024_5463046637842608206.tgs"
+    },
+    {
+      "id": 5463358164705489689,
+      "access_hash": -8691825344768338689,
+      "file_reference_hex": "006a15f371200f40d87f97de076c617780638fb1c1",
+      "mime_type": "application/x-tgsticker",
+      "size": 56190,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⛔️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0025_5463358164705489689.tgs"
+    },
+    {
+      "id": 5463335865235288297,
+      "access_hash": 7322927861896022044,
+      "file_reference_hex": "006a15f3716f6567a88a054609c83632a634d9a10a",
+      "mime_type": "application/x-tgsticker",
+      "size": 59272,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0026_5463335865235288297.tgs"
+    },
+    {
+      "id": 5462921117423384478,
+      "access_hash": -8914752660375615646,
+      "file_reference_hex": "006a15f3717ae69075d11a00ca36f23ba6f1edd81f",
+      "mime_type": "application/x-tgsticker",
+      "size": 35880,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛠",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0027_5462921117423384478.tgs"
+    },
+    {
+      "id": 5463250708918711044,
+      "access_hash": 6624800857599930319,
+      "file_reference_hex": "006a15f371f780cd4a14b910fdcbe62e732daa0386",
+      "mime_type": "application/x-tgsticker",
+      "size": 36260,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0028_5463250708918711044.tgs"
+    },
+    {
+      "id": 5463413771647069835,
+      "access_hash": -6385338449776992074,
+      "file_reference_hex": "006a15f371f14ac5f9df84775e0bb32124fd9ce7cf",
+      "mime_type": "application/x-tgsticker",
+      "size": 50697,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💪",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0029_5463413771647069835.tgs"
+    },
+    {
+      "id": 5463406036410969564,
+      "access_hash": -5622064378597340034,
+      "file_reference_hex": "006a15f371a160cbef7fe4040c195151144039b05b",
+      "mime_type": "application/x-tgsticker",
+      "size": 22053,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0030_5463406036410969564.tgs"
+    },
+    {
+      "id": 5462995330163289902,
+      "access_hash": 850512578000956015,
+      "file_reference_hex": "006a15f37192f5f0b182854e891d3d587fa720fe45",
+      "mime_type": "application/x-tgsticker",
+      "size": 33750,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⏫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0031_5462995330163289902.tgs"
+    },
+    {
+      "id": 5465265370703080100,
+      "access_hash": 4340310679108196086,
+      "file_reference_hex": "006a15f3717044fd1f87cf2bf12308a1a252aed216",
+      "mime_type": "application/x-tgsticker",
+      "size": 41716,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0032_5465265370703080100.tgs"
+    },
+    {
+      "id": 5463345378587849154,
+      "access_hash": -2220377172193895740,
+      "file_reference_hex": "006a15f37132767273a298df32777703ea26caf440",
+      "mime_type": "application/x-tgsticker",
+      "size": 48028,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🙈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0033_5463345378587849154.tgs"
+    },
+    {
+      "id": 5462957817918926146,
+      "access_hash": -7699355986453615658,
+      "file_reference_hex": "006a15f3713eb9404657ea79879bc9a63b7605fdbb",
+      "mime_type": "application/x-tgsticker",
+      "size": 16947,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🖕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0034_5462957817918926146.tgs"
+    },
+    {
+      "id": 5463172695132745432,
+      "access_hash": 8658288552666078933,
+      "file_reference_hex": "006a15f37187113bd1a5355fafcb927a72b8a3ad2a",
+      "mime_type": "application/x-tgsticker",
+      "size": 32200,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📦",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0035_5463172695132745432.tgs"
+    },
+    {
+      "id": 5463092727136661235,
+      "access_hash": 2659741103472151411,
+      "file_reference_hex": "006a15f371c4afa836d594a27c4882359fe83c2a50",
+      "mime_type": "application/x-tgsticker",
+      "size": 40667,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0036_5463092727136661235.tgs"
+    },
+    {
+      "id": 5463137996091962323,
+      "access_hash": -5426560376360516763,
+      "file_reference_hex": "006a15f3711a74fabd5640edaa85b3f89062e06608",
+      "mime_type": "application/x-tgsticker",
+      "size": 29768,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0037_5463137996091962323.tgs"
+    },
+    {
+      "id": 5462956611033117422,
+      "access_hash": -8486935349882755521,
+      "file_reference_hex": "006a15f371e556486ac80b2285a5eb1b9876631ee9",
+      "mime_type": "application/x-tgsticker",
+      "size": 31886,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0038_5462956611033117422.tgs"
+    },
+    {
+      "id": 5462990730253319917,
+      "access_hash": -4045403472832248706,
+      "file_reference_hex": "006a15f3711f3bdc2e8a94b349fac2d43516f38f48",
+      "mime_type": "application/x-tgsticker",
+      "size": 31114,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔇",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0039_5462990730253319917.tgs"
+    },
+    {
+      "id": 5454089058345042483,
+      "access_hash": 6592739956013311552,
+      "file_reference_hex": "006a15f371457ab495a79d0471462a6876bd8d3d8c",
+      "mime_type": "application/x-tgsticker",
+      "size": 26447,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0040_5454089058345042483.tgs"
+    },
+    {
+      "id": 5454415424319931791,
+      "access_hash": 8681020636544936928,
+      "file_reference_hex": "006a15f371b0ef7352ea2329477b8021dd5116db90",
+      "mime_type": "application/x-tgsticker",
+      "size": 26120,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⌛️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0041_5454415424319931791.tgs"
+    },
+    {
+      "id": 5453958478454341679,
+      "access_hash": -2435684668905807187,
+      "file_reference_hex": "006a15f371bba920abe20a21f319e2b7ada972bab2",
+      "mime_type": "application/x-tgsticker",
+      "size": 22510,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "☝️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0042_5453958478454341679.tgs"
+    },
+    {
+      "id": 5454136337345037322,
+      "access_hash": -7670205614250542975,
+      "file_reference_hex": "006a15f37110f541fc86d46b112d6a5f71eaf165f6",
+      "mime_type": "application/x-tgsticker",
+      "size": 28961,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧙‍♀️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0043_5454136337345037322.tgs"
+    },
+    {
+      "id": 5453957997418004470,
+      "access_hash": 7859576516817931943,
+      "file_reference_hex": "006a15f3714627e002388630192d230e9e45897a50",
+      "mime_type": "application/x-tgsticker",
+      "size": 27641,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0044_5453957997418004470.tgs"
+    },
+    {
+      "id": 5454246314277619140,
+      "access_hash": 6044687893634771069,
+      "file_reference_hex": "006a15f3710ab2d5c52de0f759be92247706094d48",
+      "mime_type": "application/x-tgsticker",
+      "size": 21872,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🍽",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0045_5454246314277619140.tgs"
+    },
+    {
+      "id": 5454014806950429357,
+      "access_hash": -4127543659979983268,
+      "file_reference_hex": "006a15f371a3d5d4b984f16ddb5825eda1cd36c0de",
+      "mime_type": "application/x-tgsticker",
+      "size": 29433,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚔️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0046_5454014806950429357.tgs"
+    },
+    {
+      "id": 5454092060527181056,
+      "access_hash": 4846303013454698935,
+      "file_reference_hex": "006a15f37133163a29ce3bd56893b0e6d9b49bbc3c",
+      "mime_type": "application/x-tgsticker",
+      "size": 31297,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0047_5454092060527181056.tgs"
+    },
+    {
+      "id": 5454350746407419714,
+      "access_hash": 3744208872560472752,
+      "file_reference_hex": "006a15f371400ff8768fdf8176aa3cbfd1a4a90e3c",
+      "mime_type": "application/x-tgsticker",
+      "size": 23942,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0048_5454350746407419714.tgs"
+    },
+    {
+      "id": 5454125707300978880,
+      "access_hash": -3624719919766821742,
+      "file_reference_hex": "006a15f371c85faed1938e3c55bd653362f42d2245",
+      "mime_type": "application/x-tgsticker",
+      "size": 16954,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0049_5454125707300978880.tgs"
+    },
+    {
+      "id": 5454113432284446338,
+      "access_hash": 3477180322896337699,
+      "file_reference_hex": "006a15f3719d5f7dccdbe583e64b8ca336cf35cd88",
+      "mime_type": "application/x-tgsticker",
+      "size": 27425,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "✉️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0050_5454113432284446338.tgs"
+    },
+    {
+      "id": 5454177848203951217,
+      "access_hash": 977867538734125775,
+      "file_reference_hex": "006a15f3718d3887717fcf86ce7ee5270dfeb1bafa",
+      "mime_type": "application/x-tgsticker",
+      "size": 29076,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0051_5454177848203951217.tgs"
+    },
+    {
+      "id": 5454182632797521992,
+      "access_hash": -3428134663576411131,
+      "file_reference_hex": "006a15f371fc268f754a78de839175c6aed7ee299c",
+      "mime_type": "application/x-tgsticker",
+      "size": 31964,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0052_5454182632797521992.tgs"
+    },
+    {
+      "id": 5453921696354419743,
+      "access_hash": 7019683317055488809,
+      "file_reference_hex": "006a15f37147307f8496fe2bcbf91c44820b4d34d3",
+      "mime_type": "application/x-tgsticker",
+      "size": 27771,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🕹",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0053_5453921696354419743.tgs"
+    },
+    {
+      "id": 5453966029006846697,
+      "access_hash": -3871897459289815804,
+      "file_reference_hex": "006a15f371f27bfebe2419ee065ae95db20f61e991",
+      "mime_type": "application/x-tgsticker",
+      "size": 15449,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥹",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0054_5453966029006846697.tgs"
+    },
+    {
+      "id": 5453870826761765894,
+      "access_hash": 3385021332672488914,
+      "file_reference_hex": "006a15f371f5deb683b04bcd709caa883c76a071bd",
+      "mime_type": "application/x-tgsticker",
+      "size": 37528,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0055_5453870826761765894.tgs"
+    },
+    {
+      "id": 5454168390685965478,
+      "access_hash": 3880211450593831084,
+      "file_reference_hex": "006a15f371084f1c91f3b35fad04b9b4f2325e4b9f",
+      "mime_type": "application/x-tgsticker",
+      "size": 24957,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🪖",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0056_5454168390685965478.tgs"
+    },
+    {
+      "id": 5454380420336466255,
+      "access_hash": 1472244475904136084,
+      "file_reference_hex": "006a15f371b056147d2960c682550ee2909b483759",
+      "mime_type": "application/x-tgsticker",
+      "size": 20646,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "✋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0057_5454380420336466255.tgs"
+    },
+    {
+      "id": 5453901475648390219,
+      "access_hash": -517780340592168450,
+      "file_reference_hex": "006a15f371b71326ac874116b8e4f5a6d8760c4aec",
+      "mime_type": "application/x-tgsticker",
+      "size": 32143,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0058_5453901475648390219.tgs"
+    },
+    {
+      "id": 5229045747130843073,
+      "access_hash": 8913532209902939539,
+      "file_reference_hex": "006a15f3717d5a213b9300a3c109d10c91dfa036b7",
+      "mime_type": "application/x-tgsticker",
+      "size": 33039,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎖",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0059_5229045747130843073.tgs"
+    },
+    {
+      "id": 5226639745106330551,
+      "access_hash": -6776136463156302613,
+      "file_reference_hex": "006a15f371abd48639868495694be00ca8810445af",
+      "mime_type": "application/x-tgsticker",
+      "size": 32484,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🧠",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0060_5226639745106330551.tgs"
+    },
+    {
+      "id": 5226813248900187912,
+      "access_hash": -7194390799283636558,
+      "file_reference_hex": "006a15f3716238342a80853704b12570f72f7b8f1e",
+      "mime_type": "application/x-tgsticker",
+      "size": 35757,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0061_5226813248900187912.tgs"
+    },
+    {
+      "id": 5226662903569989373,
+      "access_hash": -4396653592547525004,
+      "file_reference_hex": "006a15f371466a6a4db2bacf53728eb1d7d7693b9e",
+      "mime_type": "application/x-tgsticker",
+      "size": 20476,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌜",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0062_5226662903569989373.tgs"
+    },
+    {
+      "id": 5228822494730797152,
+      "access_hash": 1183109111234137532,
+      "file_reference_hex": "006a15f371e3fa21d02e5f23e811f09671bdc2c6b1",
+      "mime_type": "application/x-tgsticker",
+      "size": 30271,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👁",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0063_5228822494730797152.tgs"
+    },
+    {
+      "id": 5226829990682707583,
+      "access_hash": 4276892532174420934,
+      "file_reference_hex": "006a15f3717e2d3b8a4883d55675b4095334e36405",
+      "mime_type": "application/x-tgsticker",
+      "size": 20749,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0064_5226829990682707583.tgs"
+    },
+    {
+      "id": 5226431245918942763,
+      "access_hash": 7684033583717325687,
+      "file_reference_hex": "006a15f37164b4c95e4d692f083f18af22d4497be6",
+      "mime_type": "application/x-tgsticker",
+      "size": 21338,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🏆",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0065_5226431245918942763.tgs"
+    },
+    {
+      "id": 5226893221191237996,
+      "access_hash": -5218822270508341886,
+      "file_reference_hex": "006a15f3710d53c38fbcd1310b81aad9895c20fa0e",
+      "mime_type": "application/x-tgsticker",
+      "size": 17506,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👾",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0066_5226893221191237996.tgs"
+    },
+    {
+      "id": 5228878926306101271,
+      "access_hash": -4782529400111951681,
+      "file_reference_hex": "006a15f371173a840b33bf9157387a15eb0c22fb16",
+      "mime_type": "application/x-tgsticker",
+      "size": 24781,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🙏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0067_5228878926306101271.tgs"
+    },
+    {
+      "id": 5226928895189598791,
+      "access_hash": 1234007677736748978,
+      "file_reference_hex": "006a15f3711a6fb440050263a4efed1ba2d8880e99",
+      "mime_type": "application/x-tgsticker",
+      "size": 18876,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⭐️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0068_5226928895189598791.tgs"
+    },
+    {
+      "id": 5229011542011299168,
+      "access_hash": 6972666943299182316,
+      "file_reference_hex": "006a15f3711d8570a3fbf1eae37852d67004c49427",
+      "mime_type": "application/x-tgsticker",
+      "size": 29427,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0069_5229011542011299168.tgs"
+    },
+    {
+      "id": 5226656353744862682,
+      "access_hash": 3622224994065722185,
+      "file_reference_hex": "006a15f37181c5b624afb8fd694bb3c7f54ad33713",
+      "mime_type": "application/x-tgsticker",
+      "size": 25203,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛒",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0070_5226656353744862682.tgs"
+    },
+    {
+      "id": 5228962845672096235,
+      "access_hash": 5746537651588310384,
+      "file_reference_hex": "006a15f371324d0fbc2ac5f0feb187ed9dab00a144",
+      "mime_type": "application/x-tgsticker",
+      "size": 25522,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0071_5228962845672096235.tgs"
+    },
+    {
+      "id": 5226618356169194833,
+      "access_hash": -3109099451950401600,
+      "file_reference_hex": "006a15f371e4a90be4699fea561d699662c3420255",
+      "mime_type": "application/x-tgsticker",
+      "size": 35950,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⁉️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0072_5226618356169194833.tgs"
+    },
+    {
+      "id": 5226929552319594190,
+      "access_hash": 6394331060946458509,
+      "file_reference_hex": "006a15f37167a5f304a585d6d21c841f9fd09b2921",
+      "mime_type": "application/x-tgsticker",
+      "size": 41213,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "0️⃣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0073_5226929552319594190.tgs"
+    },
+    {
+      "id": 5226702984204797593,
+      "access_hash": -6461271473396282562,
+      "file_reference_hex": "006a15f3711e7e285df1bc0616ef4cdcdd3441a7bd",
+      "mime_type": "application/x-tgsticker",
+      "size": 51202,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0074_5226702984204797593.tgs"
+    },
+    {
+      "id": 5253997076169115797,
+      "access_hash": -5456472725010301533,
+      "file_reference_hex": "006a15f3715ef6113e6a7238f31f9384fd9df2f979",
+      "mime_type": "application/x-tgsticker",
+      "size": 16355,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔙",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0075_5253997076169115797.tgs"
+    },
+    {
+      "id": 5256047523620995497,
+      "access_hash": 933104385669324131,
+      "file_reference_hex": "006a15f3719886040709498a0247792b3171c2394c",
+      "mime_type": "application/x-tgsticker",
+      "size": 25508,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0076_5256047523620995497.tgs"
+    },
+    {
+      "id": 5255738543673721267,
+      "access_hash": 8789524363084198923,
+      "file_reference_hex": "006a15f3713a03f0ecf76e01a5e837ddcc200eab9e",
+      "mime_type": "application/x-tgsticker",
+      "size": 39200,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0077_5255738543673721267.tgs"
+    },
+    {
+      "id": 5253922906378881072,
+      "access_hash": 2756055233822772313,
+      "file_reference_hex": "006a15f371a24f5d2dfde6c6052cb5a04ce7e7f25a",
+      "mime_type": "application/x-tgsticker",
+      "size": 36005,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0078_5253922906378881072.tgs"
+    },
+    {
+      "id": 5258160767789711124,
+      "access_hash": -2085293803874028440,
+      "file_reference_hex": "006a15f37159c181462335a626cc0e9294fb5693b0",
+      "mime_type": "application/x-tgsticker",
+      "size": 33110,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🙅‍♂️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0079_5258160767789711124.tgs"
+    },
+    {
+      "id": 5373236586760651455,
+      "access_hash": 4186991008214289365,
+      "file_reference_hex": "006a15f3715a3ee28ac302c97a4606e1d606825763",
+      "mime_type": "application/x-tgsticker",
+      "size": 33803,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⏱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0080_5373236586760651455.tgs"
+    },
+    {
+      "id": 5375364347918827433,
+      "access_hash": -2317790409611815488,
+      "file_reference_hex": "006a15f371c11eb35fe4a646f1c161c976da32d561",
+      "mime_type": "application/x-tgsticker",
+      "size": 24384,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0081_5375364347918827433.tgs"
+    },
+    {
+      "id": 5373110220232870002,
+      "access_hash": 2419887489539476834,
+      "file_reference_hex": "006a15f37107808cf58269c7b6fd338f0d2eb82e37",
+      "mime_type": "application/x-tgsticker",
+      "size": 25267,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤙",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0082_5373110220232870002.tgs"
+    },
+    {
+      "id": 5373342608028352831,
+      "access_hash": -2981737349693557398,
+      "file_reference_hex": "006a15f371c2b68b4a388c93fb31b8debac3594414",
+      "mime_type": "application/x-tgsticker",
+      "size": 31225,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🗡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0083_5373342608028352831.tgs"
+    },
+    {
+      "id": 5373153324524650873,
+      "access_hash": -9031564832084520030,
+      "file_reference_hex": "006a15f37188eb0171a405f9c12da2135175c1164e",
+      "mime_type": "application/x-tgsticker",
+      "size": 21755,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0084_5373153324524650873.tgs"
+    },
+    {
+      "id": 5373173798633752502,
+      "access_hash": -3222521698417844924,
+      "file_reference_hex": "006a15f3717376cbd8bc53b217c281f3545e9c8759",
+      "mime_type": "application/x-tgsticker",
+      "size": 48736,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0085_5373173798633752502.tgs"
+    },
+    {
+      "id": 5373268949339227455,
+      "access_hash": 1885751957916464102,
+      "file_reference_hex": "006a15f371bf62f3913d31f18fd895342e9ad4cfcd",
+      "mime_type": "application/x-tgsticker",
+      "size": 40041,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0086_5373268949339227455.tgs"
+    },
+    {
+      "id": 5372965329511139384,
+      "access_hash": -779763844529675971,
+      "file_reference_hex": "006a15f3713276d735cf436b6778df359f3425eff0",
+      "mime_type": "application/x-tgsticker",
+      "size": 19892,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0087_5372965329511139384.tgs"
+    },
+    {
+      "id": 5375312095346704820,
+      "access_hash": -6430054367747515404,
+      "file_reference_hex": "006a15f371673bb98fdf384bb7aaad7692c7325f3b",
+      "mime_type": "application/x-tgsticker",
+      "size": 30737,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0088_5375312095346704820.tgs"
+    },
+    {
+      "id": 5375099322666859339,
+      "access_hash": -7493966760555615796,
+      "file_reference_hex": "006a15f371123cd5c226c3fbadb723ab15b77c884f",
+      "mime_type": "application/x-tgsticker",
+      "size": 42812,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🖥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0089_5375099322666859339.tgs"
+    },
+    {
+      "id": 5373304760776541441,
+      "access_hash": -7883597597415243716,
+      "file_reference_hex": "006a15f371d83c79f06855186f434e71661139ba10",
+      "mime_type": "application/x-tgsticker",
+      "size": 28635,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0090_5373304760776541441.tgs"
+    },
+    {
+      "id": 5373021138316186413,
+      "access_hash": -5955691532954656107,
+      "file_reference_hex": "006a15f371211a514d87ae780fca749e617323ba29",
+      "mime_type": "application/x-tgsticker",
+      "size": 33876,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "☀️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0091_5373021138316186413.tgs"
+    },
+    {
+      "id": 5373239082136650704,
+      "access_hash": -6541698146033585760,
+      "file_reference_hex": "006a15f371a0c881ea07cb3ac26c9ff472ca5c719b",
+      "mime_type": "application/x-tgsticker",
+      "size": 27687,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔪",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0092_5373239082136650704.tgs"
+    },
+    {
+      "id": 5372825386591732174,
+      "access_hash": -1306644533861099070,
+      "file_reference_hex": "006a15f371dbb725ef52afb205a76c7de75f1500f3",
+      "mime_type": "application/x-tgsticker",
+      "size": 30594,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🗑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0093_5372825386591732174.tgs"
+    },
+    {
+      "id": 5373174941095050893,
+      "access_hash": -495996676823778867,
+      "file_reference_hex": "006a15f371d4cdb70ff96300bc3d16ccfc519ff6e3",
+      "mime_type": "application/x-tgsticker",
+      "size": 36149,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0094_5373174941095050893.tgs"
+    },
+    {
+      "id": 5375331860786200544,
+      "access_hash": 3952874518182763996,
+      "file_reference_hex": "006a15f371ca630af6b064a7e5647ac2c8dd022b29",
+      "mime_type": "application/x-tgsticker",
+      "size": 29377,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😧",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0095_5375331860786200544.tgs"
+    },
+    {
+      "id": 5375161616872520280,
+      "access_hash": -1091996007706944608,
+      "file_reference_hex": "006a15f37147cba4f0604919a4c5f8f13e2a93e651",
+      "mime_type": "application/x-tgsticker",
+      "size": 34209,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤜",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0096_5375161616872520280.tgs"
+    },
+    {
+      "id": 5373261050894370026,
+      "access_hash": -7197759742498414616,
+      "file_reference_hex": "006a15f371da5083242051e3bc38681735f2e94c23",
+      "mime_type": "application/x-tgsticker",
+      "size": 24793,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0097_5373261050894370026.tgs"
+    },
+    {
+      "id": 5373059848856421989,
+      "access_hash": -6868394281299629171,
+      "file_reference_hex": "006a15f37134949cb77b3f3dba8bd3a50b676b2375",
+      "mime_type": "application/x-tgsticker",
+      "size": 40216,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❗️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0098_5373059848856421989.tgs"
+    },
+    {
+      "id": 5372957680174384345,
+      "access_hash": -1395100677501459107,
+      "file_reference_hex": "006a15f3719abe8e3c9b02d33d9cb40d75cf548cf0",
+      "mime_type": "application/x-tgsticker",
+      "size": 24698,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1145788388561911820,
+            "access_hash": 8921151400766591036
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/GameEmoji_1145788388561911820/files/0099_5372957680174384345.tgs"
+    }
+  ]
+}

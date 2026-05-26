@@ -1,0 +1,1170 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1048388279864393750,
+    "access_hash": 4263131544806276574,
+    "title": "Santa Girl",
+    "short_name": "SantaGirlHNY",
+    "count": 21,
+    "hash": -1339858362,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\r\\x07\\xb3\\x02\\xdc]\\x81M\\x03LM\\x05o\\x80H\\x8fH\\x95M\\x8eM\\x98^\\x9fp\\x80\\x80LGLGMI]XcfEL\\x96K\\x9aM\\x95I\\xa3b\\xacv\\x82DS\\x85dHPMXdQw\\x88V\\xa8^\\xaaj\\x85\\\\\\x84v\\x8fH\\x01\\x9fG\\x04\\x8b\\x08J\\x08\\x93\\x05J\\x00\\x98\\x83\\xb3\\x8f\\x87\\x00\\x9e\\x86\\x85\\x8a\\x8e\\x92\\x91\\x86\\x81\\x90J\\x99H\\x84\\x81\\x88\\x88\\x88\\x8d\\x80\\x83G\\x8aC\\x8b\\x8a\\x83\\xabA\\x9c\\x96B\\x84K\\x86H\\x8a\\x88\\x89\\x99\\x83\\x9c\\x93\\x81\\x88K\\x8dK\\x8f\\x80\\x94\\x8d\\xa9\\x8c\\xbeA\\x9eQ\\x95U\\x9aD\\x89\\x85\\xaa\\x87\\xb3\\x85\\x99\\x8d\\xb3\\x9f\\x86\\x08\\x87\\x87\\xad\\x92\\xae\\x97\\x86\\x95R\\xadc\\xb3F\\x83M\\x84S\\x84B\\x80EAE\\x80\\x85\\x92\\xb8\\x96\\xb7\\xa4A\\x91`\\x9cl\\xa2e\\x92H\\x04\\x99L\\x04\\x94I\\x81TF\\\\EN\\x80\\\\\\x84k\\x84O\\x80aIpHZ\\x82r\\x8bG\\x08\\x8b'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 12180
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": -279005496,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        5307630591947052114
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤭",
+      "documents": [
+        5307630591947052114,
+        5308006908391593486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎄",
+      "documents": [
+        5307630591947052114,
+        5307970770536763699,
+        5323464895121855734,
+        5373092417593413672,
+        5332395227346899956,
+        5308006908391593486,
+        5307855704067937165,
+        5307829603551679903,
+        5308016782521406813,
+        5307571630636012437,
+        5330297715643388690,
+        5330504672937514085,
+        5334917730359317068,
+        5332683028810437134,
+        5336870935456650821,
+        5339393455648936586,
+        5339479634167730080,
+        5371076286930228257,
+        5371078765126357100,
+        5370652347888309663,
+        5418181894799899680
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        5307970770536763699
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💙",
+      "documents": [
+        5307970770536763699
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❄",
+      "documents": [
+        5307970770536763699,
+        5418181894799899680
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5323464895121855734
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👌",
+      "documents": [
+        5323464895121855734
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✅",
+      "documents": [
+        5323464895121855734
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🆗",
+      "documents": [
+        5323464895121855734
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        5373092417593413672
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😲",
+      "documents": [
+        5373092417593413672,
+        5307855704067937165
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        5373092417593413672
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😧",
+      "documents": [
+        5373092417593413672
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧝",
+      "documents": [
+        5373092417593413672,
+        5334917730359317068,
+        5339393455648936586,
+        5371076286930228257,
+        5371078765126357100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        5332395227346899956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😁",
+      "documents": [
+        5332395227346899956,
+        5334917730359317068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙋‍♀",
+      "documents": [
+        5332395227346899956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤫",
+      "documents": [
+        5308006908391593486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙊",
+      "documents": [
+        5308006908391593486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤩",
+      "documents": [
+        5307855704067937165
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎉",
+      "documents": [
+        5307829603551679903
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎊",
+      "documents": [
+        5307829603551679903
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        5307829603551679903,
+        5308016782521406813
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👏",
+      "documents": [
+        5308016782521406813
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        5308016782521406813
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✨",
+      "documents": [
+        5308016782521406813,
+        5339479634167730080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👊",
+      "documents": [
+        5307571630636012437
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👎",
+      "documents": [
+        5307571630636012437
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😠",
+      "documents": [
+        5307571630636012437,
+        5330297715643388690
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        5330297715643388690
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☹",
+      "documents": [
+        5330297715643388690,
+        5330504672937514085
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😖",
+      "documents": [
+        5330504672937514085,
+        5370652347888309663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍬",
+      "documents": [
+        5330504672937514085,
+        5332683028810437134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💝",
+      "documents": [
+        5334917730359317068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎁",
+      "documents": [
+        5334917730359317068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥲",
+      "documents": [
+        5332683028810437134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍔",
+      "documents": [
+        5332683028810437134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤗",
+      "documents": [
+        5336870935456650821
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👐",
+      "documents": [
+        5336870935456650821
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫂",
+      "documents": [
+        5336870935456650821
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        5336870935456650821,
+        5371076286930228257
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😌",
+      "documents": [
+        5336870935456650821
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😤",
+      "documents": [
+        5339393455648936586,
+        5371078765126357100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💻",
+      "documents": [
+        5339393455648936586,
+        5371076286930228257
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵",
+      "documents": [
+        5339393455648936586
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤞",
+      "documents": [
+        5339479634167730080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💭",
+      "documents": [
+        5339479634167730080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        5339479634167730080
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍿",
+      "documents": [
+        5371076286930228257
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        5371076286930228257
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥤",
+      "documents": [
+        5371076286930228257
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💃",
+      "documents": [
+        5371078765126357100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👯‍♀",
+      "documents": [
+        5371078765126357100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕺",
+      "documents": [
+        5371078765126357100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎶",
+      "documents": [
+        5371078765126357100
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤯",
+      "documents": [
+        5370652347888309663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤦‍♀",
+      "documents": [
+        5370652347888309663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤦",
+      "documents": [
+        5370652347888309663
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥶",
+      "documents": [
+        5418181894799899680
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧊",
+      "documents": [
+        5418181894799899680
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌨",
+      "documents": [
+        5418181894799899680
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧑‍🎄",
+      "documents": [
+        5418181894799899680
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5307630591947052114,
+      "access_hash": -9185497911537825232,
+      "file_reference_hex": "006a15f1bed8affb30d5c1030f961959ea0fa3b7c8",
+      "mime_type": "application/x-tgsticker",
+      "size": 24671,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0000_5307630591947052114.tgs"
+    },
+    {
+      "id": 5307970770536763699,
+      "access_hash": -2661296136846050004,
+      "file_reference_hex": "006a15f1be0cf8c154e87dd09d6fe27e650537453c",
+      "mime_type": "application/x-tgsticker",
+      "size": 30457,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0001_5307970770536763699.tgs"
+    },
+    {
+      "id": 5323464895121855734,
+      "access_hash": -6279495616350735126,
+      "file_reference_hex": "006a15f1bef61088784d5a7f4c6e9c0cfdba725962",
+      "mime_type": "application/x-tgsticker",
+      "size": 17298,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0002_5323464895121855734.tgs"
+    },
+    {
+      "id": 5373092417593413672,
+      "access_hash": 8811668521001320587,
+      "file_reference_hex": "006a15f1be31f017038c2124020d4ec688a5bf0de9",
+      "mime_type": "application/x-tgsticker",
+      "size": 23221,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0003_5373092417593413672.tgs"
+    },
+    {
+      "id": 5332395227346899956,
+      "access_hash": 3922337457097515745,
+      "file_reference_hex": "006a15f1be01f44865aad3398fd577df7b49332390",
+      "mime_type": "application/x-tgsticker",
+      "size": 36288,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0004_5332395227346899956.tgs"
+    },
+    {
+      "id": 5308006908391593486,
+      "access_hash": -564132425868946879,
+      "file_reference_hex": "006a15f1be8da202705849a9a441d776607a777364",
+      "mime_type": "application/x-tgsticker",
+      "size": 22888,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0005_5308006908391593486.tgs"
+    },
+    {
+      "id": 5307855704067937165,
+      "access_hash": -881999788644760996,
+      "file_reference_hex": "006a15f1beddc77802a08ad60600637a39845bae66",
+      "mime_type": "application/x-tgsticker",
+      "size": 19129,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0006_5307855704067937165.tgs"
+    },
+    {
+      "id": 5307829603551679903,
+      "access_hash": 9488514360788441,
+      "file_reference_hex": "006a15f1be7f3060f6a8878ee2483facb22a926441",
+      "mime_type": "application/x-tgsticker",
+      "size": 23466,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🎉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0007_5307829603551679903.tgs"
+    },
+    {
+      "id": 5308016782521406813,
+      "access_hash": -6631738952480850141,
+      "file_reference_hex": "006a15f1be64621bbc11c29d948594ceb8229449b3",
+      "mime_type": "application/x-tgsticker",
+      "size": 21627,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0008_5308016782521406813.tgs"
+    },
+    {
+      "id": 5307571630636012437,
+      "access_hash": -1056050761154328871,
+      "file_reference_hex": "006a15f1be60e389a6e483ff50405af031795920c1",
+      "mime_type": "application/x-tgsticker",
+      "size": 28780,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👊",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0009_5307571630636012437.tgs"
+    },
+    {
+      "id": 5330297715643388690,
+      "access_hash": 5957168094006757876,
+      "file_reference_hex": "006a15f1bed761a965c8ed89cabaf9538c7be52f99",
+      "mime_type": "application/x-tgsticker",
+      "size": 22313,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0010_5330297715643388690.tgs"
+    },
+    {
+      "id": 5330504672937514085,
+      "access_hash": 6143860102138004362,
+      "file_reference_hex": "006a15f1befd106caed58658c9499003cb33005468",
+      "mime_type": "application/x-tgsticker",
+      "size": 18490,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😖",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0011_5330504672937514085.tgs"
+    },
+    {
+      "id": 5334917730359317068,
+      "access_hash": 4872347826412298402,
+      "file_reference_hex": "006a15f1be915cfac141dc9b6b331e1434a1d384ff",
+      "mime_type": "application/x-tgsticker",
+      "size": 26738,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0012_5334917730359317068.tgs"
+    },
+    {
+      "id": 5332683028810437134,
+      "access_hash": 7057628762943688830,
+      "file_reference_hex": "006a15f1beafff4480432ecfb9fa778c966e860808",
+      "mime_type": "application/x-tgsticker",
+      "size": 14486,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0013_5332683028810437134.tgs"
+    },
+    {
+      "id": 5336870935456650821,
+      "access_hash": 8042664210427324403,
+      "file_reference_hex": "006a15f1beee82e26554f3a71406d6709f24dc7e29",
+      "mime_type": "application/x-tgsticker",
+      "size": 20776,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤗",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0014_5336870935456650821.tgs"
+    },
+    {
+      "id": 5339393455648936586,
+      "access_hash": -8595129441048108867,
+      "file_reference_hex": "006a15f1be1e7b06c65af6106e0e87c78750c56a93",
+      "mime_type": "application/x-tgsticker",
+      "size": 28407,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😤",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0015_5339393455648936586.tgs"
+    },
+    {
+      "id": 5339479634167730080,
+      "access_hash": -4891711595091492743,
+      "file_reference_hex": "006a15f1be38b815074b761654f9ed67f7745a48bb",
+      "mime_type": "application/x-tgsticker",
+      "size": 17829,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤞",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0016_5339479634167730080.tgs"
+    },
+    {
+      "id": 5371076286930228257,
+      "access_hash": 5846874376081404362,
+      "file_reference_hex": "006a15f1be1e56e4cdbcf9e5408eccbb263cfdbb11",
+      "mime_type": "application/x-tgsticker",
+      "size": 25751,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🍿",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0017_5371076286930228257.tgs"
+    },
+    {
+      "id": 5371078765126357100,
+      "access_hash": 391753575753478207,
+      "file_reference_hex": "006a15f1be3df5c6a5cd82f967474ac55f5ec5076e",
+      "mime_type": "application/x-tgsticker",
+      "size": 25209,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💃",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0018_5371078765126357100.tgs"
+    },
+    {
+      "id": 5370652347888309663,
+      "access_hash": -7984787291299861104,
+      "file_reference_hex": "006a15f1be79c80f7e0f70e4a4e3f56f5e7cab950b",
+      "mime_type": "application/x-tgsticker",
+      "size": 14686,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0019_5370652347888309663.tgs"
+    },
+    {
+      "id": 5418181894799899680,
+      "access_hash": 4310484259988595131,
+      "file_reference_hex": "006a15f1be28de07235c627efacc7387233d19846e",
+      "mime_type": "application/x-tgsticker",
+      "size": 38245,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥶",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1048388279864393750,
+            "access_hash": 4263131544806276574
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SantaGirlHNY_1048388279864393750/files/0020_5418181894799899680.tgs"
+    }
+  ]
+}

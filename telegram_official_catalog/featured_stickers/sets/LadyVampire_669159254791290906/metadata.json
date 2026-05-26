@@ -1,0 +1,844 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 669159254791290906,
+    "access_hash": -1130332279343607420,
+    "title": "Lady Vampire",
+    "short_name": "LadyVampire",
+    "count": 16,
+    "hash": -292173786,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'#\\x00\\xb3\\x01\\xdcQ\\x87YPdRPCh\\x91{\\x90eAF\\x08^J\\x00jcMI\\x06\\x9bL\\x03IV_\\x95G\\x07\\x9aJ\\x07\\x87gc}\\\\I\\t\\x89j\\xadG\\x01\\x87\\x03J\\x07\\x8fT\\x90q\\x9dG\\x01\\xa6\\x7f\\x8b\\x06I\\x03\\x92\\x02x\\x98\\x8d\\x9f\\xa2\\xb0\\xb4\\x89\\x8a\\x9b\\x8f\\xa5\\x99\\x8e\\x8e\\x88\\x00\\x8d\\x07\\x88\\x03\\x8f\\x05\\x8a\\xaea\\x88\\x00\\\\\\x8b\\x00\\x85\\xa1\\xb5\\x86\\x04\\x97\\x89\\t[\\x9fF\\x06\\x85I\\t\\x8a\\x81\\x80\\x92\\x82\\x8e\\x8fF\\x91Y\\x9bk\\x9b'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 27022
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": -981692846,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        669159254791291951
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        669159254791291951
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧛‍♀",
+      "documents": [
+        669159254791291951,
+        669159254791291957,
+        669159254791291966,
+        669159254791291965,
+        669159254791291953,
+        669159254791291954,
+        669159254791291955,
+        669159254791291952,
+        669159254791291956,
+        669159254791291958,
+        669159254791291959,
+        669159254791291961,
+        669159254791291962,
+        669159254791291963,
+        669159254791291964,
+        5203995831413268540
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        669159254791291957,
+        5203995831413268540
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        669159254791291957
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        669159254791291966
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😉",
+      "documents": [
+        669159254791291966,
+        669159254791291954
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        669159254791291965,
+        669159254791291952
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        669159254791291965,
+        669159254791291952
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👏",
+      "documents": [
+        669159254791291953
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        669159254791291953
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        669159254791291954,
+        669159254791291956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😏",
+      "documents": [
+        669159254791291954
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😞",
+      "documents": [
+        669159254791291955
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😔",
+      "documents": [
+        669159254791291955
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥴",
+      "documents": [
+        669159254791291955
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍷",
+      "documents": [
+        669159254791291955
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍸",
+      "documents": [
+        669159254791291955
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        669159254791291956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦇",
+      "documents": [
+        669159254791291956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💖",
+      "documents": [
+        669159254791291956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧡",
+      "documents": [
+        669159254791291956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        669159254791291958
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        669159254791291958
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        669159254791291959
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        669159254791291961
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😖",
+      "documents": [
+        669159254791291961
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💃",
+      "documents": [
+        669159254791291962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕺",
+      "documents": [
+        669159254791291962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        669159254791291962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😆",
+      "documents": [
+        669159254791291962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎶",
+      "documents": [
+        669159254791291962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎵",
+      "documents": [
+        669159254791291962
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        669159254791291963
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😫",
+      "documents": [
+        669159254791291963
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😩",
+      "documents": [
+        669159254791291963
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        669159254791291964
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙁",
+      "documents": [
+        669159254791291964
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😒",
+      "documents": [
+        669159254791291964
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍❤‍💋‍👨",
+      "documents": [
+        5203995831413268540
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍❤‍👨",
+      "documents": [
+        5203995831413268540
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 669159254791291951,
+      "access_hash": -6251171248678326926,
+      "file_reference_hex": "006a15e9c751bf270d4e47c5df8327198256545c3f",
+      "mime_type": "application/x-tgsticker",
+      "size": 53930,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0000_669159254791291951.tgs"
+    },
+    {
+      "id": 669159254791291957,
+      "access_hash": 754022623582987866,
+      "file_reference_hex": "006a15e9c790efe3e0aca56d6c4ae62ce7c9a94619",
+      "mime_type": "application/x-tgsticker",
+      "size": 50339,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0001_669159254791291957.tgs"
+    },
+    {
+      "id": 669159254791291966,
+      "access_hash": -4085999158635284866,
+      "file_reference_hex": "006a15e9c7366d19e2f37d7dec531cc4657101d920",
+      "mime_type": "application/x-tgsticker",
+      "size": 43793,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0002_669159254791291966.tgs"
+    },
+    {
+      "id": 669159254791291965,
+      "access_hash": -7424205448243650965,
+      "file_reference_hex": "006a15e9c73d45932636e6411694143a1148da3f15",
+      "mime_type": "application/x-tgsticker",
+      "size": 39744,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0003_669159254791291965.tgs"
+    },
+    {
+      "id": 669159254791291953,
+      "access_hash": -5324003109685943869,
+      "file_reference_hex": "006a15e9c79d71d1d1eef1b25baf2de7d5ef4c90ba",
+      "mime_type": "application/x-tgsticker",
+      "size": 39033,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0004_669159254791291953.tgs"
+    },
+    {
+      "id": 669159254791291954,
+      "access_hash": 1583016579355555459,
+      "file_reference_hex": "006a15e9c780c03c107fcccbe7bdc29d4899f2d9f5",
+      "mime_type": "application/x-tgsticker",
+      "size": 46084,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0005_669159254791291954.tgs"
+    },
+    {
+      "id": 669159254791291955,
+      "access_hash": -8063143706395480017,
+      "file_reference_hex": "006a15e9c781c8d37d762caf268f8798b85bbe7908",
+      "mime_type": "application/x-tgsticker",
+      "size": 60302,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😞",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0006_669159254791291955.tgs"
+    },
+    {
+      "id": 669159254791291952,
+      "access_hash": 1248202242033411941,
+      "file_reference_hex": "006a15e9c7374099d0cdab25bf8eb29d6b29c862e6",
+      "mime_type": "application/x-tgsticker",
+      "size": 49395,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0007_669159254791291952.tgs"
+    },
+    {
+      "id": 669159254791291956,
+      "access_hash": 6019293532052497472,
+      "file_reference_hex": "006a15e9c76b2f6314d9496c4f4afb9d6e19faa797",
+      "mime_type": "application/x-tgsticker",
+      "size": 15038,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "❤️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0008_669159254791291956.tgs"
+    },
+    {
+      "id": 669159254791291958,
+      "access_hash": -3843228262013972824,
+      "file_reference_hex": "006a15e9c7aa6a42fba92ad0d50a0f05e1a4315333",
+      "mime_type": "application/x-tgsticker",
+      "size": 47917,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☺️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0009_669159254791291958.tgs"
+    },
+    {
+      "id": 669159254791291959,
+      "access_hash": 6972004108919431254,
+      "file_reference_hex": "006a15e9c79f44e5b2329019d212ef1e4db5828ac7",
+      "mime_type": "application/x-tgsticker",
+      "size": 40382,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0010_669159254791291959.tgs"
+    },
+    {
+      "id": 669159254791291961,
+      "access_hash": -8318485696031028060,
+      "file_reference_hex": "006a15e9c7089ebd855459bc3f48c98b00153ab480",
+      "mime_type": "application/x-tgsticker",
+      "size": 48206,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0011_669159254791291961.tgs"
+    },
+    {
+      "id": 669159254791291962,
+      "access_hash": 9062375569908984127,
+      "file_reference_hex": "006a15e9c7cd2a2c9d2c7a11893b73e38abd31f28f",
+      "mime_type": "application/x-tgsticker",
+      "size": 46768,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💃",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0012_669159254791291962.tgs"
+    },
+    {
+      "id": 669159254791291963,
+      "access_hash": -6402308047569013636,
+      "file_reference_hex": "006a15e9c77916830b5b4e4a5f2eece8c9cc191a95",
+      "mime_type": "application/x-tgsticker",
+      "size": 55304,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0013_669159254791291963.tgs"
+    },
+    {
+      "id": 669159254791291964,
+      "access_hash": -2893170628449473913,
+      "file_reference_hex": "006a15e9c763a1bc2f98e444a3116e69bb783fdd43",
+      "mime_type": "application/x-tgsticker",
+      "size": 45400,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😢",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0014_669159254791291964.tgs"
+    },
+    {
+      "id": 5203995831413268540,
+      "access_hash": 1344806179584288049,
+      "file_reference_hex": "006a15e9c79ea20aa198071fa88ba61c810a21293a",
+      "mime_type": "application/x-tgsticker",
+      "size": 24047,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 669159254791290906,
+            "access_hash": -1130332279343607420
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/LadyVampire_669159254791290906/files/0015_5203995831413268540.tgs"
+    }
+  ]
+}

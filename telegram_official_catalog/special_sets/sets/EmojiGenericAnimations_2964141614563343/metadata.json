@@ -1,0 +1,226 @@
+{
+  "source": "emoji_generic_animations",
+  "set": {
+    "_": "StickerSet",
+    "id": 2964141614563343,
+    "access_hash": 5337548068392726264,
+    "title": "EmojiGenericAnimations",
+    "short_name": "EmojiGenericAnimations",
+    "count": 6,
+    "hash": 1923450083,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [],
+    "thumb_dc_id": null,
+    "thumb_version": null,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "💥",
+      "documents": [
+        5229133562032167774,
+        5215229846656918231,
+        5215576562186852510,
+        5215678129573470738,
+        5215311661488939907,
+        5217601604907179480
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5229133562032167774,
+      "access_hash": 5721306982396185534,
+      "file_reference_hex": "006a15fe13f82fcba2aedaf62fc715addccba8c9aa",
+      "mime_type": "application/x-tgsticker",
+      "size": 11294,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2964141614563343,
+            "access_hash": 5337548068392726264
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/EmojiGenericAnimations_2964141614563343/files/0000_5229133562032167774.tgs"
+    },
+    {
+      "id": 5215229846656918231,
+      "access_hash": 5775391738906355962,
+      "file_reference_hex": "006a15fe13394ecb68fdcd16e552d01835488d5ddb",
+      "mime_type": "application/x-tgsticker",
+      "size": 10491,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2964141614563343,
+            "access_hash": 5337548068392726264
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/EmojiGenericAnimations_2964141614563343/files/0001_5215229846656918231.tgs"
+    },
+    {
+      "id": 5215576562186852510,
+      "access_hash": -3840881027842952105,
+      "file_reference_hex": "006a15fe13668b46960c6c36d94e4dbbfe803d7eb3",
+      "mime_type": "application/x-tgsticker",
+      "size": 6854,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2964141614563343,
+            "access_hash": 5337548068392726264
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/EmojiGenericAnimations_2964141614563343/files/0002_5215576562186852510.tgs"
+    },
+    {
+      "id": 5215678129573470738,
+      "access_hash": 1326612552234345662,
+      "file_reference_hex": "006a15fe1331a996e15e00e3fe8eaeabecf516c9f8",
+      "mime_type": "application/x-tgsticker",
+      "size": 12848,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2964141614563343,
+            "access_hash": 5337548068392726264
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/EmojiGenericAnimations_2964141614563343/files/0003_5215678129573470738.tgs"
+    },
+    {
+      "id": 5215311661488939907,
+      "access_hash": 1477614698765887747,
+      "file_reference_hex": "006a15fe135449cae07d4de2b1aa8f16b666c60781",
+      "mime_type": "application/x-tgsticker",
+      "size": 6182,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2964141614563343,
+            "access_hash": 5337548068392726264
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/EmojiGenericAnimations_2964141614563343/files/0004_5215311661488939907.tgs"
+    },
+    {
+      "id": 5217601604907179480,
+      "access_hash": -41716647094560325,
+      "file_reference_hex": "006a15fe13513b08b710bcf06096229aba0d67beee",
+      "mime_type": "application/x-tgsticker",
+      "size": 5188,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 2964141614563343,
+            "access_hash": 5337548068392726264
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/EmojiGenericAnimations_2964141614563343/files/0005_5217601604907179480.tgs"
+    }
+  ]
+}

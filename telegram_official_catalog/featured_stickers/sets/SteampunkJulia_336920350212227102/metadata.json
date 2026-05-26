@@ -1,0 +1,1455 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 336920350212227102,
+    "access_hash": 6103533663086037937,
+    "title": "Steamy Julia",
+    "short_name": "SteampunkJulia",
+    "count": 28,
+    "hash": -2120149605,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x0e\\x03\\xae\\x02\\xdc_MfuoH\\x02ADG\\x86S\\x8dM\\x86z\\x97F\\x06\\x81EP\\x95Q\\x8faHZ[gPF\\x08\\x83G\\x88L\\x89S\\x83KG^Fk\\x81L\\x8bS\\x8d]\\x83JIcBw\\x84K\\x99]\\x9a`\\x82FAMAT\\x80T\\x8dh\\x9es\\x95N\\xa6G\\xbcJ\\x93C\\xa3O\\xb8M\\x95\\x82\\xa3\\x94\\xb8\\x94\\x91\\x80\\x9eW\\xb2Y\\x9aC\\xaf\\x8e\\x87\\x01\\x94\\x95\\x86\\xa5A\\xba\\x8c\\xa6\\x99\\x93\\xb4\\x9d\\x86\\x07\\x86\\x8a\\x94\\x8e\\x9a\\x9b\\x8b\\x98\\x80\\xa6\\x82\\xba\\x83\\x92\\x8d\\x9a\\x8a\\xb3\\x80\\x86I\\x91H\\x97\\x81\\x8f\\x91\\x9b\\x8c\\xb3C\\x8dT\\x9aT\\xa7\\x81\\x8c\\x95\\x90\\x90\\x9cF\\x92k\\x8aw\\x85MF\\\\Q]QD\\x91W\\x88\\x00m\\x88\\x00\\\\\\x80\\x88H\\x05EH\\x05A\\x80Q\\x97R\\x98X\\x9c|\\xb9I\\t\\xb4`CF\\x06cH\\x05zEFFSMSN\\x80\\x95\\x88\\x01E\\x88\\x08'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 19681
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": -1314735932,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        336920350212228928
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        336920350212228928,
+        336920350212228939
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        336920350212228928
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        336920350212228922
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👄",
+      "documents": [
+        336920350212228922
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💋",
+      "documents": [
+        336920350212228922
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💛",
+      "documents": [
+        336920350212228922
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        336920350212228915,
+        336920350212228948
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        336920350212228915,
+        336920350212228948
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛠",
+      "documents": [
+        336920350212228915
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤖",
+      "documents": [
+        336920350212228915,
+        336920350212228954
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        336920350212228925
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        336920350212228925
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😲",
+      "documents": [
+        336920350212228925,
+        336920350212228952
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        336920350212228926
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤚",
+      "documents": [
+        336920350212228926,
+        336920350212228933
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😃",
+      "documents": [
+        336920350212228926
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        336920350212228930
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚙",
+      "documents": [
+        336920350212228930
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👿",
+      "documents": [
+        336920350212228935
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        336920350212228935
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤬",
+      "documents": [
+        336920350212228935
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👑",
+      "documents": [
+        336920350212228935
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😎",
+      "documents": [
+        336920350212228907
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💥",
+      "documents": [
+        336920350212228907
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😤",
+      "documents": [
+        336920350212228907,
+        336920350212228952
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤨",
+      "documents": [
+        336920350212228937
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😑",
+      "documents": [
+        336920350212228937
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😉",
+      "documents": [
+        336920350212228910,
+        336920350212228941
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⭐",
+      "documents": [
+        336920350212228910
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌟",
+      "documents": [
+        336920350212228910
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤩",
+      "documents": [
+        336920350212228910
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥺",
+      "documents": [
+        336920350212228946
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙏",
+      "documents": [
+        336920350212228946
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤫",
+      "documents": [
+        336920350212228914
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍🔧",
+      "documents": [
+        336920350212228914
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔧",
+      "documents": [
+        336920350212228914
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎚",
+      "documents": [
+        336920350212228914
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎛",
+      "documents": [
+        336920350212228914
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        336920350212228941,
+        5274264700421413486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔥",
+      "documents": [
+        336920350212228941
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        336920350212228918,
+        5274264700421413486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        336920350212228918
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😛",
+      "documents": [
+        336920350212228956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😝",
+      "documents": [
+        336920350212228956
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😠",
+      "documents": [
+        336920350212228956,
+        336920350212228916
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        336920350212228939
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥳",
+      "documents": [
+        336920350212228939
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎉",
+      "documents": [
+        336920350212228939
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎊",
+      "documents": [
+        336920350212228939
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😩",
+      "documents": [
+        336920350212228921
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        336920350212228921
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕰",
+      "documents": [
+        336920350212228916
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏰",
+      "documents": [
+        336920350212228916
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💃",
+      "documents": [
+        336920350212228954,
+        336920350212228938
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👾",
+      "documents": [
+        336920350212228954
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😐",
+      "documents": [
+        336920350212228954
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤦‍♀",
+      "documents": [
+        336920350212228933
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙄",
+      "documents": [
+        336920350212228933
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍑",
+      "documents": [
+        336920350212228938
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔞",
+      "documents": [
+        336920350212228938
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😏",
+      "documents": [
+        336920350212228938,
+        336920350212228944
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎼",
+      "documents": [
+        336920350212228938,
+        5274264700421413486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😈",
+      "documents": [
+        336920350212228944
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😫",
+      "documents": [
+        336920350212228952
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵",
+      "documents": [
+        336920350212228952
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👏",
+      "documents": [
+        336920350212228948
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☹",
+      "documents": [
+        336920350212228948
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧐",
+      "documents": [
+        336920350212228949
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤓",
+      "documents": [
+        336920350212228949
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎩",
+      "documents": [
+        336920350212228949
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦠",
+      "documents": [
+        336920350212228976
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😷",
+      "documents": [
+        336920350212228976
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        5274264700421413486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤯",
+      "documents": [
+        5274227037853194904
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😖",
+      "documents": [
+        5274227037853194904
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 336920350212228928,
+      "access_hash": -3852814505816611711,
+      "file_reference_hex": "006a15ed2e7fe9e7635feacc440040260c962d9e76",
+      "mime_type": "application/x-tgsticker",
+      "size": 37558,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0000_336920350212228928.tgs"
+    },
+    {
+      "id": 336920350212228922,
+      "access_hash": 1360012718873469385,
+      "file_reference_hex": "006a15ed2ee2770f02491a775e2f32dfe228d398d9",
+      "mime_type": "application/x-tgsticker",
+      "size": 48502,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0001_336920350212228922.tgs"
+    },
+    {
+      "id": 336920350212228915,
+      "access_hash": 2819869529018027807,
+      "file_reference_hex": "006a15ed2e757a8c5a0dc45cab0528388a4b231359",
+      "mime_type": "application/x-tgsticker",
+      "size": 50690,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0002_336920350212228915.tgs"
+    },
+    {
+      "id": 336920350212228925,
+      "access_hash": 2558150671875395652,
+      "file_reference_hex": "006a15ed2ec0f4a24cfb9eaf868237f6cb652b29c8",
+      "mime_type": "application/x-tgsticker",
+      "size": 41964,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0003_336920350212228925.tgs"
+    },
+    {
+      "id": 336920350212228926,
+      "access_hash": -682267025246364497,
+      "file_reference_hex": "006a15ed2ea20362c34fa7e0b9bff82bb0c4296f5e",
+      "mime_type": "application/x-tgsticker",
+      "size": 41994,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0004_336920350212228926.tgs"
+    },
+    {
+      "id": 336920350212228930,
+      "access_hash": -3723379067047093635,
+      "file_reference_hex": "006a15ed2e6a334e0ca1b9ef82fc281112f8c62196",
+      "mime_type": "application/x-tgsticker",
+      "size": 57204,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0005_336920350212228930.tgs"
+    },
+    {
+      "id": 336920350212228935,
+      "access_hash": 3774766091144040666,
+      "file_reference_hex": "006a15ed2e89296fbc7f77ccc3bb08342a42015ccc",
+      "mime_type": "application/x-tgsticker",
+      "size": 60875,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👿",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0006_336920350212228935.tgs"
+    },
+    {
+      "id": 336920350212228907,
+      "access_hash": -3423100835735209351,
+      "file_reference_hex": "006a15ed2ed7acf59367423ad88d4d7aa4f18d44bd",
+      "mime_type": "application/x-tgsticker",
+      "size": 64924,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0007_336920350212228907.tgs"
+    },
+    {
+      "id": 336920350212228937,
+      "access_hash": -6789795199765667807,
+      "file_reference_hex": "006a15ed2e91959f4659831e7e7fb1d140c77b6ea3",
+      "mime_type": "application/x-tgsticker",
+      "size": 24947,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0008_336920350212228937.tgs"
+    },
+    {
+      "id": 336920350212228910,
+      "access_hash": -7700578963723622148,
+      "file_reference_hex": "006a15ed2e99707a4f87ebc9a4a81235d2b8bcc2b0",
+      "mime_type": "application/x-tgsticker",
+      "size": 30611,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0009_336920350212228910.tgs"
+    },
+    {
+      "id": 336920350212228946,
+      "access_hash": -7212439334707685226,
+      "file_reference_hex": "006a15ed2e5ea9ab6080575f03de2451975dc00729",
+      "mime_type": "application/x-tgsticker",
+      "size": 34489,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥺",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0010_336920350212228946.tgs"
+    },
+    {
+      "id": 336920350212228914,
+      "access_hash": -1580951786322953952,
+      "file_reference_hex": "006a15ed2e3a02b9235071a8f48c007201542a7f8f",
+      "mime_type": "application/x-tgsticker",
+      "size": 63221,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0011_336920350212228914.tgs"
+    },
+    {
+      "id": 336920350212228941,
+      "access_hash": 5993283284642399997,
+      "file_reference_hex": "006a15ed2edcd0806dd025b7a9d9ed8cf279cf6d5a",
+      "mime_type": "application/x-tgsticker",
+      "size": 42016,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "❤️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0012_336920350212228941.tgs"
+    },
+    {
+      "id": 336920350212228918,
+      "access_hash": 3917940213333333770,
+      "file_reference_hex": "006a15ed2e159f238c2f732dd90a346e4c2aac78de",
+      "mime_type": "application/x-tgsticker",
+      "size": 59975,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☺️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0013_336920350212228918.tgs"
+    },
+    {
+      "id": 336920350212228956,
+      "access_hash": -2039546448346897845,
+      "file_reference_hex": "006a15ed2eb01af05ef0e091b7fe10d7cd8c75f153",
+      "mime_type": "application/x-tgsticker",
+      "size": 40371,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😛",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0014_336920350212228956.tgs"
+    },
+    {
+      "id": 336920350212228939,
+      "access_hash": 3318987603094913688,
+      "file_reference_hex": "006a15ed2eb43ad0e47b6310464e09d1bac45e9e29",
+      "mime_type": "application/x-tgsticker",
+      "size": 37120,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0015_336920350212228939.tgs"
+    },
+    {
+      "id": 336920350212228921,
+      "access_hash": 3160648229644543953,
+      "file_reference_hex": "006a15ed2e5b8e1781760cb25896c5d4293256ca62",
+      "mime_type": "application/x-tgsticker",
+      "size": 23542,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0016_336920350212228921.tgs"
+    },
+    {
+      "id": 336920350212228916,
+      "access_hash": 2216059404476215415,
+      "file_reference_hex": "006a15ed2e991cb4868bead5d5313d1feb8d333544",
+      "mime_type": "application/x-tgsticker",
+      "size": 47435,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🕰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0017_336920350212228916.tgs"
+    },
+    {
+      "id": 336920350212228954,
+      "access_hash": -5259886097004907390,
+      "file_reference_hex": "006a15ed2ea8c6b3a86fd3fe08c01f9cdffe272849",
+      "mime_type": "application/x-tgsticker",
+      "size": 44624,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💃",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0018_336920350212228954.tgs"
+    },
+    {
+      "id": 336920350212228933,
+      "access_hash": 8041563039451881850,
+      "file_reference_hex": "006a15ed2e4e587e2a70f4edb09826e2e31c5155b8",
+      "mime_type": "application/x-tgsticker",
+      "size": 30717,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤦‍♀️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0019_336920350212228933.tgs"
+    },
+    {
+      "id": 336920350212228938,
+      "access_hash": -2250429413946867165,
+      "file_reference_hex": "006a15ed2ec4ab76cef01c3b50779198461cf72688",
+      "mime_type": "application/x-tgsticker",
+      "size": 28093,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🍑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0020_336920350212228938.tgs"
+    },
+    {
+      "id": 336920350212228944,
+      "access_hash": -5597995368457497460,
+      "file_reference_hex": "006a15ed2e81d94f88e5fac9780ae79c91e4dba7a2",
+      "mime_type": "application/x-tgsticker",
+      "size": 24023,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0021_336920350212228944.tgs"
+    },
+    {
+      "id": 336920350212228952,
+      "access_hash": -4922243007041478243,
+      "file_reference_hex": "006a15ed2e355ea52ac40c209a7fc299a1231bea9b",
+      "mime_type": "application/x-tgsticker",
+      "size": 44656,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0022_336920350212228952.tgs"
+    },
+    {
+      "id": 336920350212228948,
+      "access_hash": 8884378984453733133,
+      "file_reference_hex": "006a15ed2ee17b65d7098b99175c862beee69c7cb1",
+      "mime_type": "application/x-tgsticker",
+      "size": 39683,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0023_336920350212228948.tgs"
+    },
+    {
+      "id": 336920350212228949,
+      "access_hash": -822202077904882258,
+      "file_reference_hex": "006a15ed2e6f1e8dfef49a3ad249291ff351463c73",
+      "mime_type": "application/x-tgsticker",
+      "size": 25031,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🧐",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0024_336920350212228949.tgs"
+    },
+    {
+      "id": 336920350212228976,
+      "access_hash": -8657243148746351126,
+      "file_reference_hex": "006a15ed2eb3d6372be780c420b642ab2e0129ca0b",
+      "mime_type": "application/x-tgsticker",
+      "size": 28855,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🦠",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0025_336920350212228976.tgs"
+    },
+    {
+      "id": 5274264700421413486,
+      "access_hash": -4362836229279666907,
+      "file_reference_hex": "006a15ed2e36e3254b8c1cee7ddc2db47d46192214",
+      "mime_type": "application/x-tgsticker",
+      "size": 45105,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "❤️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0026_5274264700421413486.tgs"
+    },
+    {
+      "id": 5274227037853194904,
+      "access_hash": 1768727964166387438,
+      "file_reference_hex": "006a15ed2e82f4ca1113ddd5d36479b82682c1a232",
+      "mime_type": "application/x-tgsticker",
+      "size": 51956,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 336920350212227102,
+            "access_hash": 6103533663086037937
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/SteampunkJulia_336920350212227102/files/0027_5274227037853194904.tgs"
+    }
+  ]
+}

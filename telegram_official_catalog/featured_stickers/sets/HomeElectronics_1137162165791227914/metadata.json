@@ -1,0 +1,1973 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1137162165791227914,
+    "access_hash": -3096984164108765940,
+    "title": "Home Electronics",
+    "short_name": "HomeElectronics",
+    "count": 29,
+    "hash": -1262960039,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x1a\\x04\\xb3\\x01\\xdcG\\x00\\x83M\\tYR\\tG\\x04S\\x06S\\x07\\x99t\\x04\\x9c\\x01i\\x07\\x99\\x01\\x8a\\x05\\x91\\t\\xb0\\x02I\\x02\\xb1\\x01\\xf3\\xcc\\x19\\x05\\xaf\\x04\\xdc\\x06\\x06\\x81\\x9c\\x80\\xa3`\\x85V\\x9cd\\xa0{\\x81\\x81]\\x8fF\\x06\\x8fV\\x80G\\x07[H\\x01ZN\\x85[\\x98i\\x9fG\\x84O\\x87V\\x88C\\x81JCI\\x80\\x8c\\xa6\\x8b\\x06\\xbf\\x8f\\x02\\xbf\\xf3\\xcc.\\x05\\x9f\\x08\\xdc\\x14F\\x05\\x87M\\tcS\\x03CEFQKNI\\x86B\\x9bW\\x9fI\\x82uFyAH\\x8d\\x98\\x95\\xa1\\xa2\\x90\\x97\\x97\\xb0\\x99\\x87\\x06\\x80\\x84D\\x9fB\\xa0\\x95\\x8f\\xb2\\x90\\x87\\x00\\xa3\\xf3\\xcc\\x0b\\x04\\x99\\x06\\xdc\\x02o\\x97I\\x01\\xbfK\\x08\\x83A\\x98L\\x98M\\x82UIgC~\\x82G\\x90U\\x88TF\\t\\x8eL\\x08\\x86\\tO\\x03\\x8d\\x04B\\x85J\\x94I\\x99\\x82\\x86\\x8cD\\x93D\\x8a\\x80\\x92\\x89\\x97\\x92\\x89\\x8e\\x91\\xa3\\x9c\\xa8'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 7537
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": 533553047,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "😂",
+      "documents": [
+        1137162165791228129
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😆",
+      "documents": [
+        1137162165791228129
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😅",
+      "documents": [
+        1137162165791228129
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        1137162165791228129
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😹",
+      "documents": [
+        1137162165791228129
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        1137162165791228117
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥰",
+      "documents": [
+        1137162165791228117,
+        1137162165791228126,
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😗",
+      "documents": [
+        1137162165791228117
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😙",
+      "documents": [
+        1137162165791228117
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😚",
+      "documents": [
+        1137162165791228117
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😽",
+      "documents": [
+        1137162165791228117
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💋",
+      "documents": [
+        1137162165791228117,
+        1137162165791228143
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌬",
+      "documents": [
+        1137162165791228117,
+        1137162165791228128
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        1137162165791228125
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👌",
+      "documents": [
+        1137162165791228125
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😃",
+      "documents": [
+        1137162165791228125,
+        5427195935937549570
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📱",
+      "documents": [
+        1137162165791228125,
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        1137162165791228123
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😱",
+      "documents": [
+        1137162165791228123
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😰",
+      "documents": [
+        1137162165791228123,
+        1137162165791228142,
+        5381818360914791298
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙀",
+      "documents": [
+        1137162165791228123,
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍞",
+      "documents": [
+        1137162165791228123
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎚",
+      "documents": [
+        1137162165791228123
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        1137162165791228136,
+        5427195935937549570
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖐",
+      "documents": [
+        1137162165791228136
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖖",
+      "documents": [
+        1137162165791228136
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍪",
+      "documents": [
+        1137162165791228136
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍽",
+      "documents": [
+        1137162165791228136,
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😀",
+      "documents": [
+        1137162165791228136
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏃‍♂",
+      "documents": [
+        1137162165791228116
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏃‍♀",
+      "documents": [
+        1137162165791228116
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💨",
+      "documents": [
+        1137162165791228116,
+        1137162165791228130
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏎",
+      "documents": [
+        1137162165791228116
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏱",
+      "documents": [
+        1137162165791228116
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⌛",
+      "documents": [
+        1137162165791228116
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😳",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😟",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😯",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😧",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😮",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😲",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦵",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦶",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚖",
+      "documents": [
+        1137162165791228118
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤤",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😋",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍔",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍬",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍭",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍴",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍫",
+      "documents": [
+        1137162165791228119
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☕",
+      "documents": [
+        1137162165791228122
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😴",
+      "documents": [
+        1137162165791228122,
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥴",
+      "documents": [
+        1137162165791228122
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😪",
+      "documents": [
+        1137162165791228122,
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍵",
+      "documents": [
+        1137162165791228122
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤓",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💻",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍💻",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍💻",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👓",
+      "documents": [
+        1137162165791228124,
+        5381818360914791298
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💼",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖥",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⌨",
+      "documents": [
+        1137162165791228124
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        1137162165791228126,
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😍",
+      "documents": [
+        1137162165791228126,
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😻",
+      "documents": [
+        1137162165791228126,
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥮",
+      "documents": [
+        1137162165791228126
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥧",
+      "documents": [
+        1137162165791228126
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧡",
+      "documents": [
+        1137162165791228126
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💛",
+      "documents": [
+        1137162165791228126
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        1137162165791228126,
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥶",
+      "documents": [
+        1137162165791228128
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❄",
+      "documents": [
+        1137162165791228128
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌨",
+      "documents": [
+        1137162165791228128
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🦠",
+      "documents": [
+        1137162165791228130
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤒",
+      "documents": [
+        1137162165791228130
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😷",
+      "documents": [
+        1137162165791228130
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        1137162165791228131
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😢",
+      "documents": [
+        1137162165791228131,
+        1137162165791228142
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😩",
+      "documents": [
+        1137162165791228131
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😥",
+      "documents": [
+        1137162165791228131,
+        1137162165791228142
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😿",
+      "documents": [
+        1137162165791228131
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💦",
+      "documents": [
+        1137162165791228131
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥱",
+      "documents": [
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💤",
+      "documents": [
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛏",
+      "documents": [
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏰",
+      "documents": [
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕰",
+      "documents": [
+        1137162165791228132
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☝",
+      "documents": [
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👆",
+      "documents": [
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍🦳",
+      "documents": [
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👴",
+      "documents": [
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👵",
+      "documents": [
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📞",
+      "documents": [
+        1137162165791228133
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😑",
+      "documents": [
+        1137162165791228134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤨",
+      "documents": [
+        1137162165791228134,
+        1137162165791228137
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        1137162165791228134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎧",
+      "documents": [
+        1137162165791228134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😈",
+      "documents": [
+        1137162165791228135
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👿",
+      "documents": [
+        1137162165791228135
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👹",
+      "documents": [
+        1137162165791228135
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👺",
+      "documents": [
+        1137162165791228135
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😏",
+      "documents": [
+        1137162165791228135,
+        1137162165791228141
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔥",
+      "documents": [
+        1137162165791228135
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        1137162165791228137
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧐",
+      "documents": [
+        1137162165791228137
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❓",
+      "documents": [
+        1137162165791228137
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❔",
+      "documents": [
+        1137162165791228137
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⌚",
+      "documents": [
+        1137162165791228137
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📶",
+      "documents": [
+        1137162165791228139
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😎",
+      "documents": [
+        1137162165791228141
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕶",
+      "documents": [
+        1137162165791228141,
+        5381818360914791298
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👈",
+      "documents": [
+        1137162165791228141
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✨",
+      "documents": [
+        1137162165791228141,
+        1137162165791228144
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😞",
+      "documents": [
+        1137162165791228142
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😔",
+      "documents": [
+        1137162165791228142
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💄",
+      "documents": [
+        1137162165791228143
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👄",
+      "documents": [
+        1137162165791228143
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💅",
+      "documents": [
+        1137162165791228143
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎉",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥳",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕺",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💃",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎊",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔉",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎶",
+      "documents": [
+        1137162165791228145
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌈",
+      "documents": [
+        1137162165791228144
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤪",
+      "documents": [
+        1137162165791228144
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥺",
+      "documents": [
+        1137162165791228144
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤩",
+      "documents": [
+        1137162165791228144
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😛",
+      "documents": [
+        1137162165791228144
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😓",
+      "documents": [
+        5381818360914791298
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍🍳",
+      "documents": [
+        5427195935937549570
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💩",
+      "documents": [
+        5197248197273078492
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😐",
+      "documents": [
+        5197248197273078492
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖨",
+      "documents": [
+        5197248197273078492
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👎",
+      "documents": [
+        5244583564418241559
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😝",
+      "documents": [
+        5244583564418241559
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅‍♂",
+      "documents": [
+        5244583564418241559
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅",
+      "documents": [
+        5244583564418241559
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅‍♀",
+      "documents": [
+        5244583564418241559
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧼",
+      "documents": [
+        5244583564418241559
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 1137162165791228129,
+      "access_hash": 549241610762140800,
+      "file_reference_hex": "006a15eb3d4ce0b197656c0f7552da2275e11b4aa5",
+      "mime_type": "application/x-tgsticker",
+      "size": 22454,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0000_1137162165791228129.tgs"
+    },
+    {
+      "id": 1137162165791228117,
+      "access_hash": -8041831388188926833,
+      "file_reference_hex": "006a15eb3db5fc57cb7682f9eaf116e25cdef17ac3",
+      "mime_type": "application/x-tgsticker",
+      "size": 18548,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0001_1137162165791228117.tgs"
+    },
+    {
+      "id": 1137162165791228125,
+      "access_hash": 4341587309434460650,
+      "file_reference_hex": "006a15eb3da35c67a294b6624e5aeed266601d1866",
+      "mime_type": "application/x-tgsticker",
+      "size": 15810,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0002_1137162165791228125.tgs"
+    },
+    {
+      "id": 1137162165791228123,
+      "access_hash": -8203438462061267434,
+      "file_reference_hex": "006a15eb3d6d1ad9153c858233c7c210eea7460de7",
+      "mime_type": "application/x-tgsticker",
+      "size": 14543,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0003_1137162165791228123.tgs"
+    },
+    {
+      "id": 1137162165791228136,
+      "access_hash": -3238137181760124862,
+      "file_reference_hex": "006a15eb3d0f68533e31acc8de1cbb5d432cf00585",
+      "mime_type": "application/x-tgsticker",
+      "size": 17154,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0004_1137162165791228136.tgs"
+    },
+    {
+      "id": 1137162165791228116,
+      "access_hash": -760662331606974474,
+      "file_reference_hex": "006a15eb3d1166272a67e03503352ed9fa916dbc64",
+      "mime_type": "application/x-tgsticker",
+      "size": 13577,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🏃‍♂️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0005_1137162165791228116.tgs"
+    },
+    {
+      "id": 1137162165791228118,
+      "access_hash": -3587769576518324032,
+      "file_reference_hex": "006a15eb3d30a8b3a2981149358ca01677d9a0058e",
+      "mime_type": "application/x-tgsticker",
+      "size": 20718,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😳",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0006_1137162165791228118.tgs"
+    },
+    {
+      "id": 1137162165791228119,
+      "access_hash": 2726769961218180639,
+      "file_reference_hex": "006a15eb3d600820aa006c9ed3c68b3e681a516419",
+      "mime_type": "application/x-tgsticker",
+      "size": 16169,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤤",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0007_1137162165791228119.tgs"
+    },
+    {
+      "id": 1137162165791228122,
+      "access_hash": -4339669320643330500,
+      "file_reference_hex": "006a15eb3d50c61a5b5feb4b39375ea89ab5d1d3b9",
+      "mime_type": "application/x-tgsticker",
+      "size": 16015,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☕️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0008_1137162165791228122.tgs"
+    },
+    {
+      "id": 1137162165791228124,
+      "access_hash": 9002903991205288016,
+      "file_reference_hex": "006a15eb3dba3f2df4130cb9d8a490eca02be5488e",
+      "mime_type": "application/x-tgsticker",
+      "size": 12838,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0009_1137162165791228124.tgs"
+    },
+    {
+      "id": 1137162165791228126,
+      "access_hash": 1813868186255794442,
+      "file_reference_hex": "006a15eb3d5cd1729c4e3ea90860dbefef82927b3c",
+      "mime_type": "application/x-tgsticker",
+      "size": 24826,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "❤️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0010_1137162165791228126.tgs"
+    },
+    {
+      "id": 1137162165791228128,
+      "access_hash": -1543169738608172958,
+      "file_reference_hex": "006a15eb3d8c3db14b4fe5ab14d3926f28eff15e12",
+      "mime_type": "application/x-tgsticker",
+      "size": 11242,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥶",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0011_1137162165791228128.tgs"
+    },
+    {
+      "id": 1137162165791228130,
+      "access_hash": -3170248069059902078,
+      "file_reference_hex": "006a15eb3dcc1e57cfc1198f5fa08ed8203ad2f818",
+      "mime_type": "application/x-tgsticker",
+      "size": 33821,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🦠",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0012_1137162165791228130.tgs"
+    },
+    {
+      "id": 1137162165791228131,
+      "access_hash": -4780677981040800226,
+      "file_reference_hex": "006a15eb3d8ce48c52b1a8d144f9c310d79506d351",
+      "mime_type": "application/x-tgsticker",
+      "size": 25977,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0013_1137162165791228131.tgs"
+    },
+    {
+      "id": 1137162165791228132,
+      "access_hash": 1950874560031009738,
+      "file_reference_hex": "006a15eb3db0b62aab9b9c76df295dba2c8ce9a384",
+      "mime_type": "application/x-tgsticker",
+      "size": 19353,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😴",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0014_1137162165791228132.tgs"
+    },
+    {
+      "id": 1137162165791228133,
+      "access_hash": -8945465028955212535,
+      "file_reference_hex": "006a15eb3d463d1bc20caed4dd3cbe27ae35135a01",
+      "mime_type": "application/x-tgsticker",
+      "size": 20052,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0015_1137162165791228133.tgs"
+    },
+    {
+      "id": 1137162165791228134,
+      "access_hash": 5831414065421398623,
+      "file_reference_hex": "006a15eb3d06f8cb5848c9746b415c677a30606f31",
+      "mime_type": "application/x-tgsticker",
+      "size": 21224,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0016_1137162165791228134.tgs"
+    },
+    {
+      "id": 1137162165791228135,
+      "access_hash": 7686781619899563458,
+      "file_reference_hex": "006a15eb3dd5216e76e13e9e37b7ee3600078a4b44",
+      "mime_type": "application/x-tgsticker",
+      "size": 24708,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0017_1137162165791228135.tgs"
+    },
+    {
+      "id": 1137162165791228137,
+      "access_hash": -8372596841787598055,
+      "file_reference_hex": "006a15eb3db2c6b6b67e3b2c125b627b5d98ea760f",
+      "mime_type": "application/x-tgsticker",
+      "size": 12418,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0018_1137162165791228137.tgs"
+    },
+    {
+      "id": 1137162165791228139,
+      "access_hash": -4932573387464875048,
+      "file_reference_hex": "006a15eb3da8c0b0f9b5cc3893c7f2565256c6f890",
+      "mime_type": "application/x-tgsticker",
+      "size": 16592,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0019_1137162165791228139.tgs"
+    },
+    {
+      "id": 1137162165791228141,
+      "access_hash": -437166096753288754,
+      "file_reference_hex": "006a15eb3d78adcc0a250da8fe678f7504761ac4bb",
+      "mime_type": "application/x-tgsticker",
+      "size": 17079,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0020_1137162165791228141.tgs"
+    },
+    {
+      "id": 1137162165791228142,
+      "access_hash": 1995866512935320147,
+      "file_reference_hex": "006a15eb3d205c2d5849a9a3da034737902fa6274c",
+      "mime_type": "application/x-tgsticker",
+      "size": 14106,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0021_1137162165791228142.tgs"
+    },
+    {
+      "id": 1137162165791228143,
+      "access_hash": 4854203414401826844,
+      "file_reference_hex": "006a15eb3daf82c6fb0ecada4cfb551aa0ae09b045",
+      "mime_type": "application/x-tgsticker",
+      "size": 18855,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0022_1137162165791228143.tgs"
+    },
+    {
+      "id": 1137162165791228145,
+      "access_hash": 5149866509187885991,
+      "file_reference_hex": "006a15eb3d14dc00d9c58b775bef3c143e0ee74aca",
+      "mime_type": "application/x-tgsticker",
+      "size": 21574,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🎉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0023_1137162165791228145.tgs"
+    },
+    {
+      "id": 1137162165791228144,
+      "access_hash": -5359235673102319026,
+      "file_reference_hex": "006a15eb3d3c049ffebd0dd994254184954d18e344",
+      "mime_type": "application/x-tgsticker",
+      "size": 30977,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🌈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0024_1137162165791228144.tgs"
+    },
+    {
+      "id": 5381818360914791298,
+      "access_hash": 5506242664327329205,
+      "file_reference_hex": "006a15eb3d399b064c57fea576b8653840ca430e13",
+      "mime_type": "application/x-tgsticker",
+      "size": 28213,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😰",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0025_5381818360914791298.tgs"
+    },
+    {
+      "id": 5427195935937549570,
+      "access_hash": -1439231340143771461,
+      "file_reference_hex": "006a15eb3d7777b2cc6e808a4705042fc761ce00e5",
+      "mime_type": "application/x-tgsticker",
+      "size": 25175,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0026_5427195935937549570.tgs"
+    },
+    {
+      "id": 5197248197273078492,
+      "access_hash": 5336967784213940808,
+      "file_reference_hex": "006a15eb3de62de8a590c0cdec66cdf41c40151c0e",
+      "mime_type": "application/x-tgsticker",
+      "size": 19326,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "💩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0027_5197248197273078492.tgs"
+    },
+    {
+      "id": 5244583564418241559,
+      "access_hash": -787808286193120116,
+      "file_reference_hex": "006a15eb3d4cec85abea6dde42a756beaa4334c50a",
+      "mime_type": "application/x-tgsticker",
+      "size": 43322,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1137162165791227914,
+            "access_hash": -3096984164108765940
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/HomeElectronics_1137162165791227914/files/0028_5244583564418241559.tgs"
+    }
+  ]
+}

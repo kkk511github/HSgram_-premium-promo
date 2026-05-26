@@ -1,0 +1,4277 @@
+{
+  "source": "messages.getFeaturedEmojiStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 1269403972611866648,
+    "access_hash": -1217643586248257457,
+    "title": "News Emoji",
+    "short_name": "NewsEmoji",
+    "count": 100,
+    "hash": -438938308,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": true,
+    "text_color": false,
+    "channel_emoji_status": true,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [],
+    "thumb_dc_id": null,
+    "thumb_version": null,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        5210956306952758910
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        5461117441612462242
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙃",
+      "documents": [
+        5461117441612462242
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😊",
+      "documents": [
+        5461117441612462242
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☺",
+      "documents": [
+        5461117441612462242
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚡",
+      "documents": [
+        5456140674028019486
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☄",
+      "documents": [
+        5224607267797606837
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛍",
+      "documents": [
+        5229064374403998351,
+        5406683434124859552
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛔",
+      "documents": [
+        5260293700088511294
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚫",
+      "documents": [
+        5240241223632954241
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❗",
+      "documents": [
+        5274099962655816924,
+        5420323339723881652,
+        5382357040008021292
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "‼",
+      "documents": [
+        5274099962655816924,
+        5440660757194744323,
+        5420323339723881652,
+        5382357040008021292
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⁉",
+      "documents": [
+        5314504236132747481
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❓",
+      "documents": [
+        5436113877181941026,
+        5452069934089641166
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❔",
+      "documents": [
+        5436113877181941026
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚠",
+      "documents": [
+        5447644880824181073,
+        5420323339723881652
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌐",
+      "documents": [
+        5447410659077661506,
+        5282843764451195532
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💬",
+      "documents": [
+        5443038326535759644
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💭",
+      "documents": [
+        5467538555158943525
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📊",
+      "documents": [
+        5231200819986047254
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔼",
+      "documents": [
+        5449683594425410231,
+        5415655814079723871
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔽",
+      "documents": [
+        5447183459602669338,
+        5406745015365943482
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕯",
+      "documents": [
+        5451882707875276247
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📈",
+      "documents": [
+        5244837092042750681
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📉",
+      "documents": [
+        5246762912428603768
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✔",
+      "documents": [
+        5206607081334906820
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❌",
+      "documents": [
+        5210952531676504517
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🆒",
+      "documents": [
+        5222079954421818267
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔔",
+      "documents": [
+        5458603043203327669
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥸",
+      "documents": [
+        5391112412445288650
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤡",
+      "documents": [
+        5269531045165816230
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🫦",
+      "documents": [
+        5395444514028529554
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📌",
+      "documents": [
+        5397782960512444700,
+        5391032818111363540
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💵",
+      "documents": [
+        5409048419211682843
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💰",
+      "documents": [
+        5409048419211682843
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💸",
+      "documents": [
+        5409048419211682843,
+        5233326571099534068,
+        5231449120635370684,
+        5278751923338490157,
+        5290017777174722330,
+        5231005931550030290
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💲",
+      "documents": [
+        5409048419211682843
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💶",
+      "documents": [
+        5233326571099534068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🇪🇺",
+      "documents": [
+        5233326571099534068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🇷🇺",
+      "documents": [
+        5231449120635370684
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💴",
+      "documents": [
+        5278751923338490157
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🇯🇵",
+      "documents": [
+        5278751923338490157
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🇨🇳",
+      "documents": [
+        5278751923338490157
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💷",
+      "documents": [
+        5290017777174722330
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🇬🇧",
+      "documents": [
+        5290017777174722330
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💱",
+      "documents": [
+        5402186569006210455
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "▶",
+      "documents": [
+        5264919878082509254,
+        5348125953090403204
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔴",
+      "documents": [
+        5411225014148014586
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🟢",
+      "documents": [
+        5416081784641168838
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "➡",
+      "documents": [
+        5416117059207572332
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔥",
+      "documents": [
+        5424972470023104089
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💥",
+      "documents": [
+        5276032951342088188
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧨",
+      "documents": [
+        5276032951342088188
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎙",
+      "documents": [
+        5294339927318739359
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎤",
+      "documents": [
+        5294339927318739359,
+        5224736245665511429
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📣",
+      "documents": [
+        5424818078833715060
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤫",
+      "documents": [
+        5431609822288033666
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👎",
+      "documents": [
+        5449875686837726134
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗣",
+      "documents": [
+        5460795800101594035
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔍",
+      "documents": [
+        5231012545799666522
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🛡",
+      "documents": [
+        5251203410396458957
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔗",
+      "documents": [
+        5271604874419647061
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖥",
+      "documents": [
+        5282843764451195532
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💻",
+      "documents": [
+        5282843764451195532
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "©",
+      "documents": [
+        5323442290708985472
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "ℹ",
+      "documents": [
+        5334544901428229844
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5337080053119336309,
+        5397916757333654639
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💕",
+      "documents": [
+        5337080053119336309
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❤",
+      "documents": [
+        5337080053119336309
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏸",
+      "documents": [
+        5359543311897998264
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💯",
+      "documents": [
+        5341498088408234504
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔄",
+      "documents": [
+        5375338737028841420
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔝",
+      "documents": [
+        5415655814079723871
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⬆",
+      "documents": [
+        5415655814079723871
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🆕",
+      "documents": [
+        5382357040008021292
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔜",
+      "documents": [
+        5440621591387980068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕒",
+      "documents": [
+        5440621591387980068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕐",
+      "documents": [
+        5440621591387980068,
+        5386367538735104399
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕑",
+      "documents": [
+        5440621591387980068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⌛",
+      "documents": [
+        5440621591387980068,
+        5386367538735104399
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕰",
+      "documents": [
+        5440621591387980068
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📍",
+      "documents": [
+        5391032818111363540
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗺",
+      "documents": [
+        5391032818111363540
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "➕",
+      "documents": [
+        5397916757333654639
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💎",
+      "documents": [
+        5427168083074628963
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⭐",
+      "documents": [
+        5438496463044752972
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌟",
+      "documents": [
+        5438496463044752972
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💫",
+      "documents": [
+        5438496463044752972
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✨",
+      "documents": [
+        5325547803936572038
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👑",
+      "documents": [
+        5217822164362739968
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤴",
+      "documents": [
+        5217822164362739968
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗑",
+      "documents": [
+        5445267414562389170
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔖",
+      "documents": [
+        5222444124698853913
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📕",
+      "documents": [
+        5222444124698853913
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📖",
+      "documents": [
+        5222444124698853913
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📚",
+      "documents": [
+        5222444124698853913
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✉",
+      "documents": [
+        5253742260054409879
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📩",
+      "documents": [
+        5253742260054409879
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📨",
+      "documents": [
+        5253742260054409879
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📬",
+      "documents": [
+        5253742260054409879
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔒",
+      "documents": [
+        5296369303661067030
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔓",
+      "documents": [
+        5296369303661067030
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔐",
+      "documents": [
+        5296369303661067030
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😮",
+      "documents": [
+        5303479226882603449
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😲",
+      "documents": [
+        5303479226882603449
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😯",
+      "documents": [
+        5303479226882603449
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📎",
+      "documents": [
+        5305265301917549162
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖇",
+      "documents": [
+        5305265301917549162
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⚙",
+      "documents": [
+        5341715473882955310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔧",
+      "documents": [
+        5341715473882955310
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎮",
+      "documents": [
+        5361741454685256344
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕹",
+      "documents": [
+        5361741454685256344
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👾",
+      "documents": [
+        5361741454685256344
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔈",
+      "documents": [
+        5388632425314140043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔉",
+      "documents": [
+        5388632425314140043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🔊",
+      "documents": [
+        5388632425314140043
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏳",
+      "documents": [
+        5386367538735104399
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⬇",
+      "documents": [
+        5406745015365943482
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☀",
+      "documents": [
+        5402477260982731644
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌞",
+      "documents": [
+        5402477260982731644
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌤",
+      "documents": [
+        5402477260982731644
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌧",
+      "documents": [
+        5399913388845322366
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌩",
+      "documents": [
+        5399913388845322366
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌨",
+      "documents": [
+        5399913388845322366,
+        5449449325434266744
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌦",
+      "documents": [
+        5399913388845322366
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☁",
+      "documents": [
+        5399913388845322366
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💧",
+      "documents": [
+        5399913388845322366,
+        5393512611968995988
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💦",
+      "documents": [
+        5399913388845322366,
+        5393512611968995988
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌛",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌜",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌙",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌝",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌚",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌗",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌕",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌖",
+      "documents": [
+        5449569374065152798
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❄",
+      "documents": [
+        5449449325434266744
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌈",
+      "documents": [
+        5409109841538994759
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🗓",
+      "documents": [
+        5413879192267805083
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📅",
+      "documents": [
+        5413879192267805083
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💡",
+      "documents": [
+        5422439311196834318
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥇",
+      "documents": [
+        5440539497383087970
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏅",
+      "documents": [
+        5440539497383087970,
+        5447203607294265305,
+        5453902265922376865
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎖",
+      "documents": [
+        5440539497383087970,
+        5447203607294265305,
+        5453902265922376865
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥈",
+      "documents": [
+        5447203607294265305
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥉",
+      "documents": [
+        5453902265922376865
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎵",
+      "documents": [
+        5463107823946717464
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎶",
+      "documents": [
+        5463107823946717464
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🆓",
+      "documents": [
+        5406756500108501710
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "✏",
+      "documents": [
+        5395444784611480792
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "📝",
+      "documents": [
+        5395444784611480792
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖊",
+      "documents": [
+        5395444784611480792
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚨",
+      "documents": [
+        5395695537687123235
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏠",
+      "documents": [
+        5416041192905265756
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏡",
+      "documents": [
+        5416041192905265756
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🏘",
+      "documents": [
+        5416041192905265756
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🚩",
+      "documents": [
+        5460755126761312667
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎉",
+      "documents": [
+        5461151367559141950
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🎊",
+      "documents": [
+        5461151367559141950
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥳",
+      "documents": [
+        5461151367559141950
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5210956306952758910,
+      "access_hash": -3037197277739549655,
+      "file_reference_hex": "006a15f406eae68684aafe1fc07daaf13cf0e71857",
+      "mime_type": "application/x-tgsticker",
+      "size": 2757,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👀",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0000_5210956306952758910.tgs"
+    },
+    {
+      "id": 5461117441612462242,
+      "access_hash": -642763237761319537,
+      "file_reference_hex": "006a15f406a1ae691ba5d6eaf0ceba7dd52024ed29",
+      "mime_type": "application/x-tgsticker",
+      "size": 18535,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🙂",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0001_5461117441612462242.tgs"
+    },
+    {
+      "id": 5456140674028019486,
+      "access_hash": -4570011136970856287,
+      "file_reference_hex": "006a15f406f490a380304260e1ffd095fecc6f30ff",
+      "mime_type": "application/x-tgsticker",
+      "size": 4759,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚡️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0002_5456140674028019486.tgs"
+    },
+    {
+      "id": 5224607267797606837,
+      "access_hash": -8721840604864340569,
+      "file_reference_hex": "006a15f4066e44513d38d30edea7b9697a9e5e717c",
+      "mime_type": "application/x-tgsticker",
+      "size": 6195,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "☄️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0003_5224607267797606837.tgs"
+    },
+    {
+      "id": 5229064374403998351,
+      "access_hash": 4209953991893248846,
+      "file_reference_hex": "006a15f406a119028b07f19ad3ebe99c69f1539dba",
+      "mime_type": "application/x-tgsticker",
+      "size": 12534,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0004_5229064374403998351.tgs"
+    },
+    {
+      "id": 5260293700088511294,
+      "access_hash": -2413954423791782640,
+      "file_reference_hex": "006a15f406f68f918ac888e7d3883a13241f392468",
+      "mime_type": "application/x-tgsticker",
+      "size": 4574,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⛔️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0005_5260293700088511294.tgs"
+    },
+    {
+      "id": 5240241223632954241,
+      "access_hash": -6534686099330935658,
+      "file_reference_hex": "006a15f406dab209188ca312eaa84d941be952aca1",
+      "mime_type": "application/x-tgsticker",
+      "size": 2710,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0006_5240241223632954241.tgs"
+    },
+    {
+      "id": 5274099962655816924,
+      "access_hash": -4416623628462819923,
+      "file_reference_hex": "006a15f406579bfa3e15df69fa72d57c52f70c10b1",
+      "mime_type": "application/x-tgsticker",
+      "size": 21336,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❗️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0007_5274099962655816924.tgs"
+    },
+    {
+      "id": 5440660757194744323,
+      "access_hash": -4599730112864779920,
+      "file_reference_hex": "006a15f4064a78b94190d85c2f6006082bafad3b5c",
+      "mime_type": "application/x-tgsticker",
+      "size": 5500,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "‼️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0008_5440660757194744323.tgs"
+    },
+    {
+      "id": 5314504236132747481,
+      "access_hash": 9042915175768627880,
+      "file_reference_hex": "006a15f4061d0a506f940c6d6cc9d4f064a0ddf3b0",
+      "mime_type": "application/x-tgsticker",
+      "size": 12631,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⁉️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0009_5314504236132747481.tgs"
+    },
+    {
+      "id": 5436113877181941026,
+      "access_hash": 3602961787200629809,
+      "file_reference_hex": "006a15f4068d0bb1462fbc50ac160cace7c9a7a5ae",
+      "mime_type": "application/x-tgsticker",
+      "size": 13072,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0010_5436113877181941026.tgs"
+    },
+    {
+      "id": 5447644880824181073,
+      "access_hash": -8137041847954714639,
+      "file_reference_hex": "006a15f406765a742a8b3457f07d57f0791c6f766b",
+      "mime_type": "application/x-tgsticker",
+      "size": 3103,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚠️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0011_5447644880824181073.tgs"
+    },
+    {
+      "id": 5420323339723881652,
+      "access_hash": -9014943092255359841,
+      "file_reference_hex": "006a15f406e4f99136dbd0e72675695acf654b50cc",
+      "mime_type": "application/x-tgsticker",
+      "size": 21336,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚠️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0012_5420323339723881652.tgs"
+    },
+    {
+      "id": 5447410659077661506,
+      "access_hash": -538951099094994076,
+      "file_reference_hex": "006a15f40685f8ca8762fd941445be13432e0ab1a1",
+      "mime_type": "application/x-tgsticker",
+      "size": 1678,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌐",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0013_5447410659077661506.tgs"
+    },
+    {
+      "id": 5443038326535759644,
+      "access_hash": 826018044178471531,
+      "file_reference_hex": "006a15f4068377b84dcff3f671e7d74e01047d28db",
+      "mime_type": "application/x-tgsticker",
+      "size": 7075,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0014_5443038326535759644.tgs"
+    },
+    {
+      "id": 5467538555158943525,
+      "access_hash": 6855990277554821568,
+      "file_reference_hex": "006a15f4065701af597d4a2e97c29cea4449522905",
+      "mime_type": "application/x-tgsticker",
+      "size": 9067,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0015_5467538555158943525.tgs"
+    },
+    {
+      "id": 5452069934089641166,
+      "access_hash": -7629312928535679432,
+      "file_reference_hex": "006a15f406f83493160d133864501e6057199ceefa",
+      "mime_type": "application/x-tgsticker",
+      "size": 6537,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0016_5452069934089641166.tgs"
+    },
+    {
+      "id": 5231200819986047254,
+      "access_hash": 6695930173410374118,
+      "file_reference_hex": "006a15f4061826262b8eec4c4eb6e5575b1a0c6d34",
+      "mime_type": "application/x-tgsticker",
+      "size": 1695,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📊",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0017_5231200819986047254.tgs"
+    },
+    {
+      "id": 5449683594425410231,
+      "access_hash": -3536184101226131845,
+      "file_reference_hex": "006a15f40692bc0b2a1e95975d6bb299847c13a597",
+      "mime_type": "application/x-tgsticker",
+      "size": 1954,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔼",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0018_5449683594425410231.tgs"
+    },
+    {
+      "id": 5447183459602669338,
+      "access_hash": -3795846584810475193,
+      "file_reference_hex": "006a15f40660cd429332b61a0ea97c37250b927a17",
+      "mime_type": "application/x-tgsticker",
+      "size": 2019,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔽",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0019_5447183459602669338.tgs"
+    },
+    {
+      "id": 5451882707875276247,
+      "access_hash": -1196104296522731172,
+      "file_reference_hex": "006a15f40602e69dcc41da89d72755178fa52fb60e",
+      "mime_type": "application/x-tgsticker",
+      "size": 2817,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🕯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0020_5451882707875276247.tgs"
+    },
+    {
+      "id": 5244837092042750681,
+      "access_hash": 3211633289833502425,
+      "file_reference_hex": "006a15f40652c7dfbfbb6bdb5822cd6928aa9941de",
+      "mime_type": "application/x-tgsticker",
+      "size": 2716,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0021_5244837092042750681.tgs"
+    },
+    {
+      "id": 5246762912428603768,
+      "access_hash": -1335292440783220861,
+      "file_reference_hex": "006a15f406d741b8192da7cb75e05bfb66e98a47e8",
+      "mime_type": "application/x-tgsticker",
+      "size": 2588,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0022_5246762912428603768.tgs"
+    },
+    {
+      "id": 5206607081334906820,
+      "access_hash": 5635636709401767927,
+      "file_reference_hex": "006a15f406f32f62b76784f70ce7cf269c90fcd03e",
+      "mime_type": "application/x-tgsticker",
+      "size": 4874,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "✔️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0023_5206607081334906820.tgs"
+    },
+    {
+      "id": 5210952531676504517,
+      "access_hash": 6188545351508246729,
+      "file_reference_hex": "006a15f4069d15af9c3207d5e710e13fb5bd81a5f1",
+      "mime_type": "application/x-tgsticker",
+      "size": 2657,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0024_5210952531676504517.tgs"
+    },
+    {
+      "id": 5222079954421818267,
+      "access_hash": -4477112630308699492,
+      "file_reference_hex": "006a15f406cfdf55acddb1e6fc47488967fb995102",
+      "mime_type": "application/x-tgsticker",
+      "size": 5997,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🆒",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0025_5222079954421818267.tgs"
+    },
+    {
+      "id": 5458603043203327669,
+      "access_hash": 3206603540598496171,
+      "file_reference_hex": "006a15f4060c0a970ed038f6cd78c29b0701909b9d",
+      "mime_type": "application/x-tgsticker",
+      "size": 7637,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0026_5458603043203327669.tgs"
+    },
+    {
+      "id": 5391112412445288650,
+      "access_hash": -4879643376905725117,
+      "file_reference_hex": "006a15f406ecb423e0f836ab19ca931b37a95535b1",
+      "mime_type": "application/x-tgsticker",
+      "size": 2699,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0027_5391112412445288650.tgs"
+    },
+    {
+      "id": 5269531045165816230,
+      "access_hash": 1001730446297689446,
+      "file_reference_hex": "006a15f406bb962b74bcb9e4b7fa30c1c45feb2fe7",
+      "mime_type": "application/x-tgsticker",
+      "size": 10566,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0028_5269531045165816230.tgs"
+    },
+    {
+      "id": 5395444514028529554,
+      "access_hash": 7757416717438784433,
+      "file_reference_hex": "006a15f4066ce21d4e59dba65162d7f7e1a79e4710",
+      "mime_type": "application/x-tgsticker",
+      "size": 8640,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🫦",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0029_5395444514028529554.tgs"
+    },
+    {
+      "id": 5397782960512444700,
+      "access_hash": 8997872595557575250,
+      "file_reference_hex": "006a15f4060858418c2e9310c1aca160eb9653b3f5",
+      "mime_type": "application/x-tgsticker",
+      "size": 8819,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0030_5397782960512444700.tgs"
+    },
+    {
+      "id": 5409048419211682843,
+      "access_hash": 1700171262211845721,
+      "file_reference_hex": "006a15f406035d391dd1f06d302ff02ffb0fdd0d8f",
+      "mime_type": "application/x-tgsticker",
+      "size": 24072,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0031_5409048419211682843.tgs"
+    },
+    {
+      "id": 5233326571099534068,
+      "access_hash": 7179209695291043541,
+      "file_reference_hex": "006a15f40666b783b1bfe980db087ee8e8bb307ca1",
+      "mime_type": "application/x-tgsticker",
+      "size": 29769,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0032_5233326571099534068.tgs"
+    },
+    {
+      "id": 5231449120635370684,
+      "access_hash": 2930938294852901289,
+      "file_reference_hex": "006a15f406f47ddb6f0a7372d9f720fbcaabd132ce",
+      "mime_type": "application/x-tgsticker",
+      "size": 17742,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0033_5231449120635370684.tgs"
+    },
+    {
+      "id": 5278751923338490157,
+      "access_hash": -3154205909784966224,
+      "file_reference_hex": "006a15f406a242c7daa946fcfd37caa2b3af2b614b",
+      "mime_type": "application/x-tgsticker",
+      "size": 20678,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0034_5278751923338490157.tgs"
+    },
+    {
+      "id": 5290017777174722330,
+      "access_hash": 9140590210057554726,
+      "file_reference_hex": "006a15f40641bf4b900425802aaf2fcef49a900533",
+      "mime_type": "application/x-tgsticker",
+      "size": 20330,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0035_5290017777174722330.tgs"
+    },
+    {
+      "id": 5231005931550030290,
+      "access_hash": -4791564510661341810,
+      "file_reference_hex": "006a15f406153231570bd66420abae9aae71e1babb",
+      "mime_type": "application/x-tgsticker",
+      "size": 23060,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0036_5231005931550030290.tgs"
+    },
+    {
+      "id": 5402186569006210455,
+      "access_hash": 2241421466742479427,
+      "file_reference_hex": "006a15f406d43cb2efb0665663c5773bde653603e1",
+      "mime_type": "application/x-tgsticker",
+      "size": 60226,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0037_5402186569006210455.tgs"
+    },
+    {
+      "id": 5264919878082509254,
+      "access_hash": -4823393349158350004,
+      "file_reference_hex": "006a15f406a309a185450a047fbb3195ca43879dbe",
+      "mime_type": "application/x-tgsticker",
+      "size": 2864,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "▶️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0038_5264919878082509254.tgs"
+    },
+    {
+      "id": 5411225014148014586,
+      "access_hash": 931122319253895017,
+      "file_reference_hex": "006a15f4061fcb5113a62ccb94952faada4738444f",
+      "mime_type": "application/x-tgsticker",
+      "size": 2531,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔴",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0039_5411225014148014586.tgs"
+    },
+    {
+      "id": 5416081784641168838,
+      "access_hash": -1431467890150105741,
+      "file_reference_hex": "006a15f406158acd410672f8e46725dfed6f17d3ef",
+      "mime_type": "application/x-tgsticker",
+      "size": 1813,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🟢",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0040_5416081784641168838.tgs"
+    },
+    {
+      "id": 5416117059207572332,
+      "access_hash": 4552203846165441689,
+      "file_reference_hex": "006a15f4067252ce6c1712682f98efcda25a3a9b20",
+      "mime_type": "application/x-tgsticker",
+      "size": 2042,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "➡️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0041_5416117059207572332.tgs"
+    },
+    {
+      "id": 5424972470023104089,
+      "access_hash": 1232937794484407076,
+      "file_reference_hex": "006a15f4069b646286511c80bc3d38fa8565271ec6",
+      "mime_type": "application/x-tgsticker",
+      "size": 10482,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0042_5424972470023104089.tgs"
+    },
+    {
+      "id": 5276032951342088188,
+      "access_hash": -861004187533117646,
+      "file_reference_hex": "006a15f4069d84aea001fb927e03242d406ecca288",
+      "mime_type": "application/x-tgsticker",
+      "size": 11809,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0043_5276032951342088188.tgs"
+    },
+    {
+      "id": 5294339927318739359,
+      "access_hash": -19708703647747350,
+      "file_reference_hex": "006a15f406254bf71634319b8b6366b9ce7704d5c5",
+      "mime_type": "application/x-tgsticker",
+      "size": 5277,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎙",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0044_5294339927318739359.tgs"
+    },
+    {
+      "id": 5224736245665511429,
+      "access_hash": -5012130833820703358,
+      "file_reference_hex": "006a15f40636a49005295672015f6270ca59d38031",
+      "mime_type": "application/x-tgsticker",
+      "size": 8622,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎤",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0045_5224736245665511429.tgs"
+    },
+    {
+      "id": 5424818078833715060,
+      "access_hash": -6620705824898813040,
+      "file_reference_hex": "006a15f40643bb50e41a4830aef834c35ba5469e95",
+      "mime_type": "application/x-tgsticker",
+      "size": 5403,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0046_5424818078833715060.tgs"
+    },
+    {
+      "id": 5431609822288033666,
+      "access_hash": -5314169278232703814,
+      "file_reference_hex": "006a15f40684f512ca728df30ecb3dffa0b18d0eed",
+      "mime_type": "application/x-tgsticker",
+      "size": 5282,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🤫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0047_5431609822288033666.tgs"
+    },
+    {
+      "id": 5449875686837726134,
+      "access_hash": 2713872352157655877,
+      "file_reference_hex": "006a15f406296e094f8b8742f788f6ebbefde76db6",
+      "mime_type": "application/x-tgsticker",
+      "size": 45708,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0048_5449875686837726134.tgs"
+    },
+    {
+      "id": 5460795800101594035,
+      "access_hash": 188875419003539316,
+      "file_reference_hex": "006a15f406e9a65359b8b669e24d44fab99cffb8f4",
+      "mime_type": "application/x-tgsticker",
+      "size": 6414,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🗣️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0049_5460795800101594035.tgs"
+    },
+    {
+      "id": 5231012545799666522,
+      "access_hash": -5222382859190694062,
+      "file_reference_hex": "006a15f40666a2c22002a79fc150350a9efb6270f9",
+      "mime_type": "application/x-tgsticker",
+      "size": 5171,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0050_5231012545799666522.tgs"
+    },
+    {
+      "id": 5251203410396458957,
+      "access_hash": 5481847011248092708,
+      "file_reference_hex": "006a15f406f2ee06f008b7c69f00e36d9de74ee40e",
+      "mime_type": "application/x-tgsticker",
+      "size": 6786,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0051_5251203410396458957.tgs"
+    },
+    {
+      "id": 5271604874419647061,
+      "access_hash": 3361043432621289842,
+      "file_reference_hex": "006a15f4061d99dbcfc0c115670a548b35bde85a44",
+      "mime_type": "application/x-tgsticker",
+      "size": 6886,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔗",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0052_5271604874419647061.tgs"
+    },
+    {
+      "id": 5282843764451195532,
+      "access_hash": 4316253100351633470,
+      "file_reference_hex": "006a15f4067553319884aade7c4c3e1f1bfa854d08",
+      "mime_type": "application/x-tgsticker",
+      "size": 4812,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🖥",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0053_5282843764451195532.tgs"
+    },
+    {
+      "id": 5323442290708985472,
+      "access_hash": -2071021014680619780,
+      "file_reference_hex": "006a15f4069a04a3e837df86b5c31efd2b580f42db",
+      "mime_type": "application/x-tgsticker",
+      "size": 22907,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "©",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0054_5323442290708985472.tgs"
+    },
+    {
+      "id": 5334544901428229844,
+      "access_hash": 1374174546997850626,
+      "file_reference_hex": "006a15f4067f071a24054d5401e7cdcb90db84df07",
+      "mime_type": "application/x-tgsticker",
+      "size": 18551,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "ℹ️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0055_5334544901428229844.tgs"
+    },
+    {
+      "id": 5337080053119336309,
+      "access_hash": -7572298795368973020,
+      "file_reference_hex": "006a15f406cec212fad48aa14801546eac5c65f6e8",
+      "mime_type": "application/x-tgsticker",
+      "size": 8167,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0056_5337080053119336309.tgs"
+    },
+    {
+      "id": 5348125953090403204,
+      "access_hash": -2763872701422126994,
+      "file_reference_hex": "006a15f406efd90c77d56fa139912954e4fff6ae00",
+      "mime_type": "application/x-tgsticker",
+      "size": 8955,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "▶️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0057_5348125953090403204.tgs"
+    },
+    {
+      "id": 5359543311897998264,
+      "access_hash": 5711763004750398160,
+      "file_reference_hex": "006a15f406574b7e67dfc3ae4c629cea2f2a03fff3",
+      "mime_type": "application/x-tgsticker",
+      "size": 6558,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⏸",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0058_5359543311897998264.tgs"
+    },
+    {
+      "id": 5341498088408234504,
+      "access_hash": 1460940842974370535,
+      "file_reference_hex": "006a15f406dd94f7f79d26c64e6f35c804a8da3641",
+      "mime_type": "application/x-tgsticker",
+      "size": 7260,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💯",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0059_5341498088408234504.tgs"
+    },
+    {
+      "id": 5375338737028841420,
+      "access_hash": -2279089419667696198,
+      "file_reference_hex": "006a15f4068c89050ca55e4158df859c9c65c74501",
+      "mime_type": "application/x-tgsticker",
+      "size": 10025,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0060_5375338737028841420.tgs"
+    },
+    {
+      "id": 5415655814079723871,
+      "access_hash": -4187281980121347373,
+      "file_reference_hex": "006a15f4063c275a0a7ffcc88899545a2bfe94f310",
+      "mime_type": "application/x-tgsticker",
+      "size": 9227,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔝",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0061_5415655814079723871.tgs"
+    },
+    {
+      "id": 5382357040008021292,
+      "access_hash": 3594455018845661400,
+      "file_reference_hex": "006a15f4067f4f0b2527744a4cd783dfbc66c4beec",
+      "mime_type": "application/x-tgsticker",
+      "size": 3006,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🆕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0062_5382357040008021292.tgs"
+    },
+    {
+      "id": 5440621591387980068,
+      "access_hash": -8338733822885234956,
+      "file_reference_hex": "006a15f406b9c97190be6c5aa08278626adc7d1450",
+      "mime_type": "application/x-tgsticker",
+      "size": 8419,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔜",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0063_5440621591387980068.tgs"
+    },
+    {
+      "id": 5391032818111363540,
+      "access_hash": -8914687550689612124,
+      "file_reference_hex": "006a15f40626179e5747494450b67b632e58fc8441",
+      "mime_type": "application/x-tgsticker",
+      "size": 10878,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0064_5391032818111363540.tgs"
+    },
+    {
+      "id": 5397916757333654639,
+      "access_hash": 8277687711329561975,
+      "file_reference_hex": "006a15f406548c15d315e888a3c9c6d85768317db1",
+      "mime_type": "application/x-tgsticker",
+      "size": 7932,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "➕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0065_5397916757333654639.tgs"
+    },
+    {
+      "id": 5427168083074628963,
+      "access_hash": 2870623584013821391,
+      "file_reference_hex": "006a15f40688ddfe87c1db52ccf96045bf96386764",
+      "mime_type": "application/x-tgsticker",
+      "size": 9094,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0066_5427168083074628963.tgs"
+    },
+    {
+      "id": 5438496463044752972,
+      "access_hash": -3330658553224376594,
+      "file_reference_hex": "006a15f40648787d66cd9c0622ad23bce7ec62b21f",
+      "mime_type": "application/x-tgsticker",
+      "size": 16284,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⭐️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0067_5438496463044752972.tgs"
+    },
+    {
+      "id": 5325547803936572038,
+      "access_hash": 8217733357236532862,
+      "file_reference_hex": "006a15f4069e6100dc1df242f35236bd6eb97a5b07",
+      "mime_type": "application/x-tgsticker",
+      "size": 15608,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "✨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0068_5325547803936572038.tgs"
+    },
+    {
+      "id": 5217822164362739968,
+      "access_hash": 342127708594060260,
+      "file_reference_hex": "006a15f406bf5194848e22c8d1cdf51d77c7743d7f",
+      "mime_type": "application/x-tgsticker",
+      "size": 30570,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "👑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0069_5217822164362739968.tgs"
+    },
+    {
+      "id": 5445267414562389170,
+      "access_hash": 6163200192964002008,
+      "file_reference_hex": "006a15f406fe6a50b864e82901c2dd76abc88c1224",
+      "mime_type": "application/x-tgsticker",
+      "size": 3947,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🗑",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0070_5445267414562389170.tgs"
+    },
+    {
+      "id": 5222444124698853913,
+      "access_hash": 9134528538741334899,
+      "file_reference_hex": "006a15f40636e6821645022ab459bac26e288c50d1",
+      "mime_type": "application/x-tgsticker",
+      "size": 3255,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔖",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0071_5222444124698853913.tgs"
+    },
+    {
+      "id": 5253742260054409879,
+      "access_hash": 3697987241949035631,
+      "file_reference_hex": "006a15f406883e41812bc1eb95eb76a9569c64cfee",
+      "mime_type": "application/x-tgsticker",
+      "size": 3346,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "✉️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0072_5253742260054409879.tgs"
+    },
+    {
+      "id": 5296369303661067030,
+      "access_hash": 4257600582600805527,
+      "file_reference_hex": "006a15f406f0e150b3e9de850690c18d2fb6436bf1",
+      "mime_type": "application/x-tgsticker",
+      "size": 5953,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔒",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0073_5296369303661067030.tgs"
+    },
+    {
+      "id": 5303479226882603449,
+      "access_hash": -6753478485965798810,
+      "file_reference_hex": "006a15f40601061151976237f4893c764039179c73",
+      "mime_type": "application/x-tgsticker",
+      "size": 5271,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "😮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0074_5303479226882603449.tgs"
+    },
+    {
+      "id": 5305265301917549162,
+      "access_hash": -7883864471673718018,
+      "file_reference_hex": "006a15f406ada94639d205c6d5dedec2efc2a0ec7c",
+      "mime_type": "application/x-tgsticker",
+      "size": 5313,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "📎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0075_5305265301917549162.tgs"
+    },
+    {
+      "id": 5341715473882955310,
+      "access_hash": -4823251780352103995,
+      "file_reference_hex": "006a15f40605e108fc34697d9a5bbb24891f13e3f0",
+      "mime_type": "application/x-tgsticker",
+      "size": 59861,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⚙️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0076_5341715473882955310.tgs"
+    },
+    {
+      "id": 5361741454685256344,
+      "access_hash": 4781274017627233340,
+      "file_reference_hex": "006a15f40634fafdc7e8e66c8a09e50f8b31dd1e40",
+      "mime_type": "application/x-tgsticker",
+      "size": 22851,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎮",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0077_5361741454685256344.tgs"
+    },
+    {
+      "id": 5388632425314140043,
+      "access_hash": -8834095487141246392,
+      "file_reference_hex": "006a15f4062517e402813ae7824e5449dd4b1e44e5",
+      "mime_type": "application/x-tgsticker",
+      "size": 6746,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🔈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0078_5388632425314140043.tgs"
+    },
+    {
+      "id": 5386367538735104399,
+      "access_hash": -4582591704042772787,
+      "file_reference_hex": "006a15f406cd42e4d2ccf12186fdd401277e07fe4c",
+      "mime_type": "application/x-tgsticker",
+      "size": 2073,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⌛",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0079_5386367538735104399.tgs"
+    },
+    {
+      "id": 5406745015365943482,
+      "access_hash": 2349151940857612774,
+      "file_reference_hex": "006a15f406b9e2ec3407397ee28372ab4b8743ef51",
+      "mime_type": "application/x-tgsticker",
+      "size": 8892,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "⬇️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0080_5406745015365943482.tgs"
+    },
+    {
+      "id": 5402477260982731644,
+      "access_hash": 8221690214590095250,
+      "file_reference_hex": "006a15f4060a709992140055a3f0c4f1dbf3d1d1c3",
+      "mime_type": "application/x-tgsticker",
+      "size": 3924,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "☀️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0081_5402477260982731644.tgs"
+    },
+    {
+      "id": 5399913388845322366,
+      "access_hash": 6866611781872436618,
+      "file_reference_hex": "006a15f406b518abc2c40cea9e48b4b3c66c299734",
+      "mime_type": "application/x-tgsticker",
+      "size": 5506,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌧",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0082_5399913388845322366.tgs"
+    },
+    {
+      "id": 5449569374065152798,
+      "access_hash": 5350254076485065802,
+      "file_reference_hex": "006a15f40631105fd4200607387b8ffe1bad50a24a",
+      "mime_type": "application/x-tgsticker",
+      "size": 5809,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌛",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0083_5449569374065152798.tgs"
+    },
+    {
+      "id": 5449449325434266744,
+      "access_hash": 562492244535167880,
+      "file_reference_hex": "006a15f406e71c065c55bdc295c1b680ffded9b3b1",
+      "mime_type": "application/x-tgsticker",
+      "size": 3666,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "❄️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0084_5449449325434266744.tgs"
+    },
+    {
+      "id": 5409109841538994759,
+      "access_hash": 4171982041362739814,
+      "file_reference_hex": "006a15f40668236bfd3b08865a988b43666d613a4a",
+      "mime_type": "application/x-tgsticker",
+      "size": 6714,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🌈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0085_5409109841538994759.tgs"
+    },
+    {
+      "id": 5393512611968995988,
+      "access_hash": 395122587351335782,
+      "file_reference_hex": "006a15f4065250a108916763ca8a1d5e00c7573ebd",
+      "mime_type": "application/x-tgsticker",
+      "size": 6888,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💧",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0086_5393512611968995988.tgs"
+    },
+    {
+      "id": 5413879192267805083,
+      "access_hash": -1928260015732895933,
+      "file_reference_hex": "006a15f4062733977c12aabcfd5d0f87bfa1554b53",
+      "mime_type": "application/x-tgsticker",
+      "size": 8120,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🗓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0087_5413879192267805083.tgs"
+    },
+    {
+      "id": 5422439311196834318,
+      "access_hash": 5633241854320811613,
+      "file_reference_hex": "006a15f4069105539fa2ffcef40dc0b92fe1d5024d",
+      "mime_type": "application/x-tgsticker",
+      "size": 5078,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "💡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0088_5422439311196834318.tgs"
+    },
+    {
+      "id": 5440539497383087970,
+      "access_hash": -8893425054675471525,
+      "file_reference_hex": "006a15f406f5e8f7bc8686fc78ddf9bff4f060dad5",
+      "mime_type": "application/x-tgsticker",
+      "size": 5931,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥇",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0089_5440539497383087970.tgs"
+    },
+    {
+      "id": 5447203607294265305,
+      "access_hash": -1025412229601393919,
+      "file_reference_hex": "006a15f406cdc714b7de645a91428e6a2df94f534f",
+      "mime_type": "application/x-tgsticker",
+      "size": 5878,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥈",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0090_5447203607294265305.tgs"
+    },
+    {
+      "id": 5453902265922376865,
+      "access_hash": -4047134049575186869,
+      "file_reference_hex": "006a15f406c0b1b227554d435b449334c967fc031c",
+      "mime_type": "application/x-tgsticker",
+      "size": 5899,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🥉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0091_5453902265922376865.tgs"
+    },
+    {
+      "id": 5463107823946717464,
+      "access_hash": 8639244394213378561,
+      "file_reference_hex": "006a15f406e68425ee1f935581e0888086ca2ba2a1",
+      "mime_type": "application/x-tgsticker",
+      "size": 13196,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0092_5463107823946717464.tgs"
+    },
+    {
+      "id": 5406756500108501710,
+      "access_hash": -3289267961989778436,
+      "file_reference_hex": "006a15f406b27148a98a47f154a8e9af70120a0339",
+      "mime_type": "application/x-tgsticker",
+      "size": 5525,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🆓",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0093_5406756500108501710.tgs"
+    },
+    {
+      "id": 5395444784611480792,
+      "access_hash": 8161197753092020366,
+      "file_reference_hex": "006a15f406ae99a179c9dabd2a6c143bbb90bc7620",
+      "mime_type": "application/x-tgsticker",
+      "size": 9352,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "✏️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0094_5395444784611480792.tgs"
+    },
+    {
+      "id": 5395695537687123235,
+      "access_hash": -5119130937268144809,
+      "file_reference_hex": "006a15f406673b5d4ce6cf13217befebf213439a5a",
+      "mime_type": "application/x-tgsticker",
+      "size": 11355,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0095_5395695537687123235.tgs"
+    },
+    {
+      "id": 5406683434124859552,
+      "access_hash": -7688478311376064936,
+      "file_reference_hex": "006a15f4067bf116fef82dda4bc237c871f8a44bbf",
+      "mime_type": "application/x-tgsticker",
+      "size": 10027,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🛍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0096_5406683434124859552.tgs"
+    },
+    {
+      "id": 5416041192905265756,
+      "access_hash": -7654807719406563501,
+      "file_reference_hex": "006a15f406e1ed7de96fb836478770636f3ec37e0b",
+      "mime_type": "application/x-tgsticker",
+      "size": 18222,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🏠",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0097_5416041192905265756.tgs"
+    },
+    {
+      "id": 5460755126761312667,
+      "access_hash": -2355904296274362713,
+      "file_reference_hex": "006a15f406c1540fad1e373431a848373143495e67",
+      "mime_type": "application/x-tgsticker",
+      "size": 3471,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🚩",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0098_5460755126761312667.tgs"
+    },
+    {
+      "id": 5461151367559141950,
+      "access_hash": 5867817595137545083,
+      "file_reference_hex": "006a15f4068e8342d1c86f35a2c266af07c497e7a7",
+      "mime_type": "application/x-tgsticker",
+      "size": 6672,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeCustomEmoji",
+          "alt": "🎉",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 1269403972611866648,
+            "access_hash": -1217643586248257457
+          },
+          "free": false,
+          "text_color": false
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/NewsEmoji_1269403972611866648/files/0099_5461151367559141950.tgs"
+    }
+  ]
+}

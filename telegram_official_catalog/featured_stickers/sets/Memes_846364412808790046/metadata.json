@@ -1,0 +1,1431 @@
+{
+  "source": "messages.getFeaturedStickers",
+  "set": {
+    "_": "StickerSet",
+    "id": 846364412808790046,
+    "access_hash": -623568092804049303,
+    "title": "Classic Memes",
+    "short_name": "Memes",
+    "count": 31,
+    "hash": 1451230009,
+    "archived": false,
+    "official": false,
+    "masks": false,
+    "emojis": false,
+    "text_color": false,
+    "channel_emoji_status": false,
+    "creator": false,
+    "installed_date": null,
+    "thumbs": [
+      {
+        "_": "PhotoPathSize",
+        "type": "j",
+        "bytes": "b'\\x1c\\x02\\xb1\\x08\\xdcF\\x06\\x82M\\x07SR\\x08}meG\\x04H\\x08H\\x02N\\x05ZS\\x05\\x8f\\x07`\\x07\\xa1\\tZ\\x04\\x98\\x03\\x88\\x05\\x93\\x02\\xae\\x01F\\t\\xaf\\x00'"
+      },
+      {
+        "_": "PhotoSize",
+        "type": "a",
+        "w": 100,
+        "h": 100,
+        "size": 19863
+      }
+    ],
+    "thumb_dc_id": 2,
+    "thumb_version": 1060469265,
+    "thumb_document_id": null
+  },
+  "packs": [
+    {
+      "_": "StickerPack",
+      "emoticon": "🤣",
+      "documents": [
+        5361607348626394829,
+        5319002905137647550
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😘",
+      "documents": [
+        5255862608099020461
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😗",
+      "documents": [
+        5255862608099020461
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👍",
+      "documents": [
+        5253462193826958869
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙂",
+      "documents": [
+        5253462193826958869,
+        5471881995455826743
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😨",
+      "documents": [
+        5244545773000985791
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👀",
+      "documents": [
+        5244545773000985791
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👌",
+      "documents": [
+        5256146870509506429
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😔",
+      "documents": [
+        5256146870509506429
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👋",
+      "documents": [
+        5204306542232341937
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😃",
+      "documents": [
+        5204306542232341937
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👶",
+      "documents": [
+        5204306542232341937
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😡",
+      "documents": [
+        5472090464578441722
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😠",
+      "documents": [
+        5472090464578441722,
+        5318927116144742815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤔",
+      "documents": [
+        5472049194237693306
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😑",
+      "documents": [
+        5472049194237693306
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🖕",
+      "documents": [
+        5398063718229610111
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😅",
+      "documents": [
+        5359395303030001051
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😭",
+      "documents": [
+        5472138392118495730,
+        5474132249081286483,
+        5398034439437553613
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😥",
+      "documents": [
+        5472138392118495730,
+        5474132249081286483
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😎",
+      "documents": [
+        5451889150326214119,
+        5253905979912752441
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤷‍♂",
+      "documents": [
+        5472010324783664355
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤷",
+      "documents": [
+        5472010324783664355
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤷‍♀",
+      "documents": [
+        5472010324783664355
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😏",
+      "documents": [
+        5253905979912752441
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☕",
+      "documents": [
+        5471881995455826743
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🌞",
+      "documents": [
+        5471881995455826743
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🍷",
+      "documents": [
+        5472178240825069429
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧐",
+      "documents": [
+        5472178240825069429
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😫",
+      "documents": [
+        5474132249081286483
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😩",
+      "documents": [
+        5474132249081286483
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👺",
+      "documents": [
+        5474132249081286483
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👹",
+      "documents": [
+        5474132249081286483
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😆",
+      "documents": [
+        5195456946802526845
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😄",
+      "documents": [
+        5195456946802526845,
+        5449833505963904533
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😦",
+      "documents": [
+        5235837082563251491
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😧",
+      "documents": [
+        5235837082563251491
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😳",
+      "documents": [
+        5235837082563251491
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☝",
+      "documents": [
+        5235837082563251491
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👆",
+      "documents": [
+        5235837082563251491
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🥲",
+      "documents": [
+        5244655208767687976
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😬",
+      "documents": [
+        5244655208767687976,
+        5321556873080475581
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "☹",
+      "documents": [
+        5253780223270326288
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙁",
+      "documents": [
+        5253780223270326288
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "😵",
+      "documents": [
+        5318794676533203530
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤦‍♂",
+      "documents": [
+        5321474744715841479
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤦",
+      "documents": [
+        5321474744715841479
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🤦‍♀",
+      "documents": [
+        5321474744715841479
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅‍♂",
+      "documents": [
+        5318927116144742815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅",
+      "documents": [
+        5318927116144742815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙅‍♀",
+      "documents": [
+        5318927116144742815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "❌",
+      "documents": [
+        5318927116144742815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⛔",
+      "documents": [
+        5318927116144742815
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🙄",
+      "documents": [
+        5449775012804299730
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "⏱",
+      "documents": [
+        5449461355637640797
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👨‍💻",
+      "documents": [
+        5190483263004620832
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🧑‍💻",
+      "documents": [
+        5190483263004620832
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "👩‍💻",
+      "documents": [
+        5190483263004620832
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "💼",
+      "documents": [
+        5190483263004620832
+      ]
+    },
+    {
+      "_": "StickerPack",
+      "emoticon": "🕰",
+      "documents": [
+        5190483263004620832
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": 5361607348626394829,
+      "access_hash": -4335082200581247805,
+      "file_reference_hex": "006a15f054cf6a4b3f740dd4d792db5a7e7fb16a4c",
+      "mime_type": "application/x-tgsticker",
+      "size": 63754,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0000_5361607348626394829.tgs"
+    },
+    {
+      "id": 5255862608099020461,
+      "access_hash": 7587667854025796021,
+      "file_reference_hex": "006a15f05407acdd248560748c6cc04575b28a8e8b",
+      "mime_type": "application/x-tgsticker",
+      "size": 26511,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😘",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0001_5255862608099020461.tgs"
+    },
+    {
+      "id": 5253462193826958869,
+      "access_hash": 5684835495024574491,
+      "file_reference_hex": "006a15f054dcc31f553fc2d120108779c7cd81a8eb",
+      "mime_type": "application/x-tgsticker",
+      "size": 55261,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👍",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0002_5253462193826958869.tgs"
+    },
+    {
+      "id": 5244545773000985791,
+      "access_hash": -6842960378755488651,
+      "file_reference_hex": "006a15f054a022f78713a0f9e9bdfbcf24b30932d2",
+      "mime_type": "application/x-tgsticker",
+      "size": 26822,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😨",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0003_5244545773000985791.tgs"
+    },
+    {
+      "id": 5256146870509506429,
+      "access_hash": -2988236104722815352,
+      "file_reference_hex": "006a15f0546f955269eebe733fc85547b7fa6a1f0c",
+      "mime_type": "application/x-tgsticker",
+      "size": 19733,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👌",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0004_5256146870509506429.tgs"
+    },
+    {
+      "id": 5204306542232341937,
+      "access_hash": 6493425643020825800,
+      "file_reference_hex": "006a15f05426b939e441bb16fbdab90f292b3de908",
+      "mime_type": "application/x-tgsticker",
+      "size": 38931,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👋",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0005_5204306542232341937.tgs"
+    },
+    {
+      "id": 5472090464578441722,
+      "access_hash": -2435937239117738367,
+      "file_reference_hex": "006a15f054dc288b994de1779cf74a06e6ae690dde",
+      "mime_type": "application/x-tgsticker",
+      "size": 25640,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😡",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0006_5472090464578441722.tgs"
+    },
+    {
+      "id": 5472049194237693306,
+      "access_hash": -4489960793401688578,
+      "file_reference_hex": "006a15f054ab7e472dd7990b92a4788a0773741e46",
+      "mime_type": "application/x-tgsticker",
+      "size": 20422,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤔",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0007_5472049194237693306.tgs"
+    },
+    {
+      "id": 5398063718229610111,
+      "access_hash": 3080526712682127495,
+      "file_reference_hex": "006a15f05465d507163a0c53ec49020c7a468ede45",
+      "mime_type": "application/x-tgsticker",
+      "size": 17251,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🖕",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0008_5398063718229610111.tgs"
+    },
+    {
+      "id": 5359395303030001051,
+      "access_hash": 2973716524588848596,
+      "file_reference_hex": "006a15f05405206b2770f0ab34bf875af2964dc6fd",
+      "mime_type": "application/x-tgsticker",
+      "size": 57023,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😅",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0009_5359395303030001051.tgs"
+    },
+    {
+      "id": 5472138392118495730,
+      "access_hash": 2996481749300684914,
+      "file_reference_hex": "006a15f0547afa38702c589f9689524cffdb36e641",
+      "mime_type": "application/x-tgsticker",
+      "size": 32232,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0010_5472138392118495730.tgs"
+    },
+    {
+      "id": 5451889150326214119,
+      "access_hash": -8553078560580176856,
+      "file_reference_hex": "006a15f05487203c01b1ffbf90dd758b7cc8ff8551",
+      "mime_type": "application/x-tgsticker",
+      "size": 23118,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😎",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0011_5451889150326214119.tgs"
+    },
+    {
+      "id": 5472010324783664355,
+      "access_hash": 1170250847998354155,
+      "file_reference_hex": "006a15f054e8d8b49a8a1fc35388b0f7368d22c4cb",
+      "mime_type": "application/x-tgsticker",
+      "size": 29098,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤷‍♂️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0012_5472010324783664355.tgs"
+    },
+    {
+      "id": 5253905979912752441,
+      "access_hash": 6572588879916133549,
+      "file_reference_hex": "006a15f0540a48c7a56b06a547ca75f4a29562f1ed",
+      "mime_type": "application/x-tgsticker",
+      "size": 13644,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😏",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0013_5253905979912752441.tgs"
+    },
+    {
+      "id": 5471881995455826743,
+      "access_hash": 4945603350826481977,
+      "file_reference_hex": "006a15f054e75a3d1e57e489332b1de2a53d0cf1e9",
+      "mime_type": "application/x-tgsticker",
+      "size": 25806,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☕️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0014_5471881995455826743.tgs"
+    },
+    {
+      "id": 5472178240825069429,
+      "access_hash": -6935438764918446195,
+      "file_reference_hex": "006a15f05470521d99e97485882290d6fde459cff0",
+      "mime_type": "application/x-tgsticker",
+      "size": 22488,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🍷",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0015_5472178240825069429.tgs"
+    },
+    {
+      "id": 5474132249081286483,
+      "access_hash": -7146547222983965416,
+      "file_reference_hex": "006a15f05459527ba2b1b2d58c5c52d5f7c4664440",
+      "mime_type": "application/x-tgsticker",
+      "size": 31532,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😫",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0016_5474132249081286483.tgs"
+    },
+    {
+      "id": 5195456946802526845,
+      "access_hash": 5155227159825954874,
+      "file_reference_hex": "006a15f0542ccc997bf1d7efa6237933d30a604696",
+      "mime_type": "application/x-tgsticker",
+      "size": 19818,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😆",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0017_5195456946802526845.tgs"
+    },
+    {
+      "id": 5235837082563251491,
+      "access_hash": -348692660502538715,
+      "file_reference_hex": "006a15f054154a9ba321e088455d9961319803e0ef",
+      "mime_type": "application/x-tgsticker",
+      "size": 15653,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😦",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0018_5235837082563251491.tgs"
+    },
+    {
+      "id": 5244655208767687976,
+      "access_hash": -3985172441288235499,
+      "file_reference_hex": "006a15f054f186ca1603dc68a00d5f4cfb1f68e19f",
+      "mime_type": "application/x-tgsticker",
+      "size": 33009,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🥲",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0019_5244655208767687976.tgs"
+    },
+    {
+      "id": 5253780223270326288,
+      "access_hash": 5678971429773022294,
+      "file_reference_hex": "006a15f0549d48a5d5db6b40d93a829610167f40e9",
+      "mime_type": "application/x-tgsticker",
+      "size": 22819,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "☹️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0020_5253780223270326288.tgs"
+    },
+    {
+      "id": 5318794676533203530,
+      "access_hash": -953884506300451997,
+      "file_reference_hex": "006a15f054ae9f6fd36da58b58fe33acf39a0ef663",
+      "mime_type": "application/x-tgsticker",
+      "size": 22302,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😵",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0021_5318794676533203530.tgs"
+    },
+    {
+      "id": 5319002905137647550,
+      "access_hash": -998958482292044642,
+      "file_reference_hex": "006a15f0548b01f377e7127c6baa0ba9de6817423d",
+      "mime_type": "application/x-tgsticker",
+      "size": 43459,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤣",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0022_5319002905137647550.tgs"
+    },
+    {
+      "id": 5321474744715841479,
+      "access_hash": -5864322291268576898,
+      "file_reference_hex": "006a15f054f9d4d2fd379c1bd361d9ecd9098373ab",
+      "mime_type": "application/x-tgsticker",
+      "size": 27262,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🤦‍♂️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0023_5321474744715841479.tgs"
+    },
+    {
+      "id": 5321556873080475581,
+      "access_hash": 6399674865326749835,
+      "file_reference_hex": "006a15f0540318774d63fdf7f361de3dfea2c3ce5c",
+      "mime_type": "application/x-tgsticker",
+      "size": 23381,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😬",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0024_5321556873080475581.tgs"
+    },
+    {
+      "id": 5449833505963904533,
+      "access_hash": 2403548513952210819,
+      "file_reference_hex": "006a15f054ef737251dd25b5cdca7fc2d6e7f95e83",
+      "mime_type": "application/x-tgsticker",
+      "size": 16565,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0025_5449833505963904533.tgs"
+    },
+    {
+      "id": 5318927116144742815,
+      "access_hash": -8528187705779319175,
+      "file_reference_hex": "006a15f0543bcac40ecf354036d9946b75afc2aa04",
+      "mime_type": "application/x-tgsticker",
+      "size": 26847,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🙅‍♂️",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0026_5318927116144742815.tgs"
+    },
+    {
+      "id": 5449775012804299730,
+      "access_hash": -735504727983369646,
+      "file_reference_hex": "006a15f05497036eed660a5eabade45d5cd257ffc9",
+      "mime_type": "application/x-tgsticker",
+      "size": 12967,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "🙄",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0027_5449775012804299730.tgs"
+    },
+    {
+      "id": 5398034439437553613,
+      "access_hash": 7473645695670079838,
+      "file_reference_hex": "006a15f054fe6d6b85464346bf3af8870876f88d11",
+      "mime_type": "application/x-tgsticker",
+      "size": 24453,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "😭",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0028_5398034439437553613.tgs"
+    },
+    {
+      "id": 5449461355637640797,
+      "access_hash": -6848027992844857995,
+      "file_reference_hex": "006a15f054952c389ffcf595d50ce55952567c4d79",
+      "mime_type": "application/x-tgsticker",
+      "size": 22556,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "⏱",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0029_5449461355637640797.tgs"
+    },
+    {
+      "id": 5190483263004620832,
+      "access_hash": 7530176664031549346,
+      "file_reference_hex": "006a15f0548ebd909bf946e7dadc7822a523f5a194",
+      "mime_type": "application/x-tgsticker",
+      "size": 20548,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeImageSize",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "_": "DocumentAttributeSticker",
+          "alt": "👨‍💻",
+          "stickerset": {
+            "_": "InputStickerSetID",
+            "id": 846364412808790046,
+            "access_hash": -623568092804049303
+          },
+          "mask": false,
+          "mask_coords": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "AnimatedSticker.tgs"
+        }
+      ],
+      "local_file": "sets/Memes_846364412808790046/files/0030_5190483263004620832.tgs"
+    }
+  ]
+}
