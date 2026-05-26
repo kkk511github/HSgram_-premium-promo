@@ -1,0 +1,648 @@
+{
+  "status_text": "By subscribing to Telegram Premium you agree to the Telegram Terms of Service and Privacy Policy.",
+  "video_sections": [
+    "no_ads",
+    "voice_to_text",
+    "faster_download",
+    "profile_badge",
+    "more_upload",
+    "advanced_chat_management",
+    "animated_userpics",
+    "animated_emoji",
+    "infinite_reactions",
+    "emoji_status",
+    "translations",
+    "peer_colors",
+    "wallpapers",
+    "saved_tags",
+    "last_seen",
+    "message_privacy",
+    "paid_messages",
+    "greeting_message",
+    "away_message",
+    "quick_replies",
+    "folder_tags",
+    "business_bots",
+    "business_hours",
+    "business_location",
+    "business_intro",
+    "business_links",
+    "effects",
+    "todo",
+    "gifts",
+    "pm_noforwards",
+    "ai_compose"
+  ],
+  "video_count": 31,
+  "videos": [
+    {
+      "section": "no_ads",
+      "id": 5834827897566661579,
+      "access_hash": 481097073214136088,
+      "file_reference_hex": "006a15e1c72f5d683c193a21d8bd7ea60528181a54",
+      "mime_type": "video/mp4",
+      "size": 1711181,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android_NoAds_Screen.mp4"
+        }
+      ]
+    },
+    {
+      "section": "voice_to_text",
+      "id": 5384493318086337831,
+      "access_hash": -8515688765221904753,
+      "file_reference_hex": "006a15e1c7df387e45166897dcf0d7f5dc111b8ca3",
+      "mime_type": "video/mp4",
+      "size": 2312917,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Transcription.mp4"
+        }
+      ]
+    },
+    {
+      "section": "faster_download",
+      "id": 5258318753866718270,
+      "access_hash": -1261513767410089294,
+      "file_reference_hex": "006a15e1c764e2b0e7371113cb69891831f50f7029",
+      "mime_type": "video/mp4",
+      "size": 1313108,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Download Speed.mp4"
+        }
+      ]
+    },
+    {
+      "section": "profile_badge",
+      "id": 5258318753866718271,
+      "access_hash": 3597342072404104733,
+      "file_reference_hex": "006a15e1c786dd6a9547824f9a46e1718f63258d7a",
+      "mime_type": "video/mp4",
+      "size": 656483,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Premium Badge.mp4"
+        }
+      ]
+    },
+    {
+      "section": "more_upload",
+      "id": 5834827897566661578,
+      "access_hash": 1294659070111848167,
+      "file_reference_hex": "006a15e1c789a73f1dc3de51a61294471fa72c07a9",
+      "mime_type": "video/mp4",
+      "size": 2072137,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android_4gb_Screen.mp4"
+        }
+      ]
+    },
+    {
+      "section": "advanced_chat_management",
+      "id": 4967628967772161220,
+      "access_hash": -7471626913317597881,
+      "file_reference_hex": "006a15e1c7c37669eca64bc06cc1b79a6288dbb299",
+      "mime_type": "video/mp4",
+      "size": 1623113,
+      "dc_id": 1,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 4.0,
+          "w": 720,
+          "h": 1072,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": null
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "1176 Android Cut 2.mp4"
+        }
+      ]
+    },
+    {
+      "section": "animated_userpics",
+      "id": 5258318753866718272,
+      "access_hash": -6445128322867734560,
+      "file_reference_hex": "006a15e1c705ef07ac4212ab6a27cc76276dc2ff70",
+      "mime_type": "video/mp4",
+      "size": 1241612,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Premium Userpic.mp4"
+        }
+      ]
+    },
+    {
+      "section": "animated_emoji",
+      "id": 5406575866668916333,
+      "access_hash": -3017562946758749344,
+      "file_reference_hex": "006a15e1c7280aa7bf3eee1cbc66f16949ba9dace0",
+      "mime_type": "video/mp4",
+      "size": 2802043,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Premium Emoji Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "infinite_reactions",
+      "id": 5240141571801753115,
+      "access_hash": 8675244189691460334,
+      "file_reference_hex": "006a15e1c73eb32710601885ac9a1b5d9a2589b368",
+      "mime_type": "video/mp4",
+      "size": 6746697,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 21.0,
+          "w": 1176,
+          "h": 1754,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": null
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Main Premium Video Demo 2.mp4"
+        }
+      ]
+    },
+    {
+      "section": "emoji_status",
+      "id": 5239981945047227720,
+      "access_hash": 7977632598269176043,
+      "file_reference_hex": "006a15e1c7e49401ec4507e4a01031b96ec2b3158e",
+      "mime_type": "video/mp4",
+      "size": 3479441,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Premium Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "translations",
+      "id": 5945247070045606290,
+      "access_hash": -343857932521220161,
+      "file_reference_hex": "006a15e1c74660d8e4e410ffc573b4ad1c528db39c",
+      "mime_type": "video/mp4",
+      "size": 3497620,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Premium Translate Android Premium_2.mp4"
+        }
+      ]
+    },
+    {
+      "section": "peer_colors",
+      "id": 5127627348635550782,
+      "access_hash": 6913202110827009723,
+      "file_reference_hex": "006a15e1c7a6e543c061ce6fd01c98c46e9c8c9d26",
+      "mime_type": "video/mp4",
+      "size": 2951398,
+      "dc_id": 1,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 7.0,
+          "w": 1178,
+          "h": 1752,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Colors Premium All_1.mp4"
+        }
+      ]
+    },
+    {
+      "section": "wallpapers",
+      "id": 5127413777091790312,
+      "access_hash": -7872256076321067021,
+      "file_reference_hex": "006a15e1c791ac12b203e8a53426681cab13b057c3",
+      "mime_type": "video/mp4",
+      "size": 4442271,
+      "dc_id": 1,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 14.5,
+          "w": 720,
+          "h": 1074,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "saved_tags",
+      "id": 5882098457950294207,
+      "access_hash": -666911338646642978,
+      "file_reference_hex": "006a15e1c7eb3e3c8b832727036af4f3c996c5246e",
+      "mime_type": "video/mp4",
+      "size": 6448200,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Tags_Paywall_Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "last_seen",
+      "id": 5318812994568732240,
+      "access_hash": 789045620643887585,
+      "file_reference_hex": "006a15e1c7b93bc48aaefc5caaa8b7d8e8d38cc243",
+      "mime_type": "video/mp4",
+      "size": 5416128,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Last Seen.mp4"
+        }
+      ]
+    },
+    {
+      "section": "message_privacy",
+      "id": 5334751085628253913,
+      "access_hash": -2311534578693545782,
+      "file_reference_hex": "006a15e1c768c062e09414ebbb81c67240a1dacae4",
+      "mime_type": "video/mp4",
+      "size": 2856238,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Message Privacy 720.mp4"
+        }
+      ]
+    },
+    {
+      "section": "paid_messages",
+      "id": 5334751085628253913,
+      "access_hash": -2311534578693545782,
+      "file_reference_hex": "006a15e1c768c062e09414ebbb81c67240a1dacae4",
+      "mime_type": "video/mp4",
+      "size": 2856238,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Message Privacy 720.mp4"
+        }
+      ]
+    },
+    {
+      "section": "greeting_message",
+      "id": 5965269254096818448,
+      "access_hash": 2180137758359135767,
+      "file_reference_hex": "006a15e1c74dce1b93f6307203de01d0e2c71610da",
+      "mime_type": "video/mp4",
+      "size": 2936677,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 4.5,
+          "w": 720,
+          "h": 1070,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Greeting Message Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "away_message",
+      "id": 5965269254096818450,
+      "access_hash": -7749861340680478595,
+      "file_reference_hex": "006a15e1c77ab938ed2bc66d90a51f0f5ed35b6e1b",
+      "mime_type": "video/mp4",
+      "size": 2898370,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 4.5,
+          "w": 720,
+          "h": 1070,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Away Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "quick_replies",
+      "id": 5384418740274216982,
+      "access_hash": -947742733049721951,
+      "file_reference_hex": "006a15e1c7a188fbd1b2636cc43ddb4065d5c84efd",
+      "mime_type": "video/mp4",
+      "size": 1989243,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 10.0,
+          "w": 720,
+          "h": 1070,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "folder_tags",
+      "id": 5965269254096818454,
+      "access_hash": 6850536101559170217,
+      "file_reference_hex": "006a15e1c772ea59312b6887bfbe6564237b9416af",
+      "mime_type": "video/mp4",
+      "size": 1737658,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 3.5,
+          "w": 720,
+          "h": 1070,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Folder Tags Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "business_bots",
+      "id": 4904526543755152234,
+      "access_hash": -5420767081968042030,
+      "file_reference_hex": "006a15e1c71447cd5efc3be9f306eafe0bc0d04831",
+      "mime_type": "video/mp4",
+      "size": 3227267,
+      "dc_id": 1,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android ChatBot.mp4"
+        }
+      ]
+    },
+    {
+      "section": "business_hours",
+      "id": 5965269254096818452,
+      "access_hash": -1522131031546993867,
+      "file_reference_hex": "006a15e1c76d407ec1fbc9d5dd473f1841b0a55208",
+      "mime_type": "video/mp4",
+      "size": 2320580,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 3.5,
+          "w": 720,
+          "h": 1070,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Business Hours Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "business_location",
+      "id": 5965269254096818456,
+      "access_hash": 2085749547636960469,
+      "file_reference_hex": "006a15e1c77d0ca8e5b7c1c5d56ba6a4300c8b5c45",
+      "mime_type": "video/mp4",
+      "size": 2370165,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 3.5,
+          "w": 720,
+          "h": 1070,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Location Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "business_intro",
+      "id": 5195154581104903751,
+      "access_hash": 2644949378299268643,
+      "file_reference_hex": "006a15e1c779f8e5f19cd3de6480e09ac4e7eab9f1",
+      "mime_type": "video/mp4",
+      "size": 1336466,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Intro Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "business_links",
+      "id": 5774125879231779846,
+      "access_hash": 5513471421142111275,
+      "file_reference_hex": "006a15e1c728d7c23d0206095ffb6c693f7dc2bf7c",
+      "mime_type": "video/mp4",
+      "size": 4661205,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Links To Chat Screen Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "effects",
+      "id": 6023877604723921693,
+      "access_hash": 8188483264144176619,
+      "file_reference_hex": "006a15e1c7e2434b9ae457937510979e53bbc00679",
+      "mime_type": "video/mp4",
+      "size": 4519398,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 18.0,
+          "w": 1178,
+          "h": 1752,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "MessageEffects Premium Android.mp4"
+        }
+      ]
+    },
+    {
+      "section": "todo",
+      "id": 5406687943840526317,
+      "access_hash": -4224180496627670798,
+      "file_reference_hex": "006a15e1c72a2a54f18b2bb6c727a1ee78872660f7",
+      "mime_type": "video/mp4",
+      "size": 3460915,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Checklist.mp4"
+        }
+      ]
+    },
+    {
+      "section": "gifts",
+      "id": 5300894773261932112,
+      "access_hash": 5779593768482396654,
+      "file_reference_hex": "006a15e1c70c2fb7cadc3994b57aa5db0278d08d3e",
+      "mime_type": "video/mp4",
+      "size": 9561190,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android Gifts Demo.mp4"
+        }
+      ]
+    },
+    {
+      "section": "pm_noforwards",
+      "id": 5247118814893611242,
+      "access_hash": -1040758173280261903,
+      "file_reference_hex": "006a15e1c7c0329df754b7a5e018e613e09eb8c617",
+      "mime_type": "video/mp4",
+      "size": 2312809,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android_DS.mp4"
+        }
+      ]
+    },
+    {
+      "section": "ai_compose",
+      "id": 5343531390350693275,
+      "access_hash": -1733226547058500308,
+      "file_reference_hex": "006a15e1c7a462edc88b9562ed089ef57e62b9fcab",
+      "mime_type": "video/mp4",
+      "size": 4016226,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Android AI Tools.mp4"
+        }
+      ]
+    }
+  ]
+}

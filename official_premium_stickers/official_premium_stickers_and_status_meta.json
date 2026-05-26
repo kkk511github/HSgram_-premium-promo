@@ -1,0 +1,1564 @@
+{
+  "premium_large_stickers": {
+    "source": "messages.getStickers(\"⭐️⭐️\")",
+    "hash": -3895680195648727319,
+    "count": 14,
+    "documents": [
+      {
+        "id": 5264848173603494889,
+        "access_hash": -1781330341519330607,
+        "file_reference_hex": "006a15e4496a0fa2cc3868d910e7c004951eb2e8dd",
+        "mime_type": "application/x-tgsticker",
+        "size": 19265,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "👍",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 1391391008142393345,
+              "access_hash": 8771203658958169359
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_00_5264848173603494889.tgs"
+      },
+      {
+        "id": 5271825352270814879,
+        "access_hash": -1000691687155375499,
+        "file_reference_hex": "006a15e449a1b0af3c40c79611c4d292f8ff44df7d",
+        "mime_type": "application/x-tgsticker",
+        "size": 15259,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😘",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 1391391008142393345,
+              "access_hash": 8771203658958169359
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_01_5271825352270814879.tgs"
+      },
+      {
+        "id": 5199843671779843451,
+        "access_hash": 9096767054012795261,
+        "file_reference_hex": "006a15e4496e5a75fc83bb87c456d9344e5886f460",
+        "mime_type": "application/x-tgsticker",
+        "size": 5406,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😂",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341644,
+              "access_hash": 1101563402715334505
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_02_5199843671779843451.tgs"
+      },
+      {
+        "id": 5199421747077584990,
+        "access_hash": 1194809889786042452,
+        "file_reference_hex": "006a15e44929dccb546035aa9fed41ba35940b615c",
+        "mime_type": "application/x-tgsticker",
+        "size": 10893,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "🥳",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341644,
+              "access_hash": 1101563402715334505
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_03_5199421747077584990.tgs"
+      },
+      {
+        "id": 5276194729875217464,
+        "access_hash": -1414702928037484203,
+        "file_reference_hex": "006a15e4494bc411ecb803b540d981d9f77dddc378",
+        "mime_type": "application/x-tgsticker",
+        "size": 35390,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "❤️",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 891885078961979403,
+              "access_hash": -7615840661454498468
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_04_5276194729875217464.tgs"
+      },
+      {
+        "id": 5276520408655338097,
+        "access_hash": 1400020570883533568,
+        "file_reference_hex": "006a15e449b29a6a1dfe8ecd14286bc59fb47ade5f",
+        "mime_type": "application/x-tgsticker",
+        "size": 33293,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "🥳",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 891885078961979403,
+              "access_hash": -7615840661454498468
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_05_5276520408655338097.tgs"
+      },
+      {
+        "id": 5199698248482165885,
+        "access_hash": -2904118223226498340,
+        "file_reference_hex": "006a15e44980009ed3f030b80839cce399a4a69e19",
+        "mime_type": "application/x-tgsticker",
+        "size": 18906,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "🤩",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 1901206392136531972,
+              "access_hash": -8551512992891738890
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_06_5199698248482165885.tgs"
+      },
+      {
+        "id": 5136470737837621889,
+        "access_hash": -7850070454649542740,
+        "file_reference_hex": "006a15e4490eea2ab4710b526f425ab12a36bd5dd0",
+        "mime_type": "application/x-tgsticker",
+        "size": 25450,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "🍑",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 1258816259752002,
+              "access_hash": 1321851663232206298
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_07_5136470737837621889.tgs"
+      },
+      {
+        "id": 5199509218381535721,
+        "access_hash": -6671266538704436314,
+        "file_reference_hex": "006a15e449aee107ff58b4d95f51f039818a9d524a",
+        "mime_type": "application/x-tgsticker",
+        "size": 35558,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "🥳",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 643524467607207978,
+              "access_hash": 2659427076746287156
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_08_5199509218381535721.tgs"
+      },
+      {
+        "id": 5314551180125281802,
+        "access_hash": 8745600773111624124,
+        "file_reference_hex": "006a15e4498921f108b5767361bc0cf6ad77f7e06a",
+        "mime_type": "application/x-tgsticker",
+        "size": 48039,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😎",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 643524467607207978,
+              "access_hash": 2659427076746287156
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_09_5314551180125281802.tgs"
+      },
+      {
+        "id": 5276270733616487427,
+        "access_hash": -6325180816865075149,
+        "file_reference_hex": "006a15e449e3008f3d336d76afc3f1d450409e54be",
+        "mime_type": "application/x-tgsticker",
+        "size": 16222,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😘",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 1708832225673347076,
+              "access_hash": 8979808667846374845
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_10_5276270733616487427.tgs"
+      },
+      {
+        "id": 5298765568994712160,
+        "access_hash": 9212203896538797731,
+        "file_reference_hex": "006a15e4490199697ab184bec87a5f7ca86f47ffdd",
+        "mime_type": "application/x-tgsticker",
+        "size": 13557,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😍",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 1708832225673347076,
+              "access_hash": 8979808667846374845
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_11_5298765568994712160.tgs"
+      },
+      {
+        "id": 5199710725362162922,
+        "access_hash": -2582329142692967918,
+        "file_reference_hex": "006a15e449d6eb78adeda8815f969e6dc9872c87de",
+        "mime_type": "application/x-tgsticker",
+        "size": 9510,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😨",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2562980648230846467,
+              "access_hash": -5946342489330622320
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_12_5199710725362162922.tgs"
+      },
+      {
+        "id": 5267353844639078745,
+        "access_hash": -6271584512060860201,
+        "file_reference_hex": "006a15e44940b07835bfd32384a18b0b7d4522722b",
+        "mime_type": "application/x-tgsticker",
+        "size": 21765,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "😍",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2562980648230846467,
+              "access_hash": -5946342489330622320
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/premium_large_13_5267353844639078745.tgs"
+      }
+    ]
+  },
+  "emoji_default_statuses": {
+    "source": "emoji_default_statuses",
+    "set": {
+      "_": "StickerSet",
+      "id": 773947703670341676,
+      "access_hash": -8139044496926696734,
+      "title": "Status Pack",
+      "short_name": "StatusPack",
+      "count": 11,
+      "hash": 206618408,
+      "archived": false,
+      "official": false,
+      "masks": false,
+      "emojis": true,
+      "text_color": true,
+      "channel_emoji_status": true,
+      "creator": false,
+      "installed_date": null,
+      "thumbs": [],
+      "thumb_dc_id": null,
+      "thumb_version": null,
+      "thumb_document_id": null
+    },
+    "packs": [
+      {
+        "_": "StickerPack",
+        "emoticon": "👋",
+        "documents": [
+          5247133031235329609
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "💤",
+        "documents": [
+          5247100325059370738
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "⛔",
+        "documents": [
+          5246772116543512028
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🍴",
+        "documents": [
+          5244508282231465075
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "👣",
+        "documents": [
+          5246743378917334735
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "💼",
+        "documents": [
+          5249273776079640466
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🏝",
+        "documents": [
+          5246842176050046092
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🧘",
+        "documents": [
+          5246828303305678732
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "📞",
+        "documents": [
+          5247176827016847212
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "✈",
+        "documents": [
+          5246960163096632543
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🕓",
+        "documents": [
+          5247209275494769660
+        ]
+      }
+    ],
+    "count": 11,
+    "documents": [
+      {
+        "id": 5247133031235329609,
+        "access_hash": -3618972616943993295,
+        "file_reference_hex": "006a15e45721cee299e9b6ff49cb6db2bf6d8c10c1",
+        "mime_type": "application/x-tgsticker",
+        "size": 2322,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "👋",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_00_5247133031235329609.tgs"
+      },
+      {
+        "id": 5247100325059370738,
+        "access_hash": 7828024709901972082,
+        "file_reference_hex": "006a15e457ee08856349c7671ae93ea77352b6a413",
+        "mime_type": "application/x-tgsticker",
+        "size": 59223,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "💤",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_01_5247100325059370738.tgs"
+      },
+      {
+        "id": 5246772116543512028,
+        "access_hash": -3217359109359228993,
+        "file_reference_hex": "006a15e457dd0e9cd5683f983ac24548ed2c64dfa0",
+        "mime_type": "application/x-tgsticker",
+        "size": 1682,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "⛔️",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_02_5246772116543512028.tgs"
+      },
+      {
+        "id": 5244508282231465075,
+        "access_hash": 6686355149412264496,
+        "file_reference_hex": "006a15e4572369404f9454f6e3d78f0e9467aefe93",
+        "mime_type": "application/x-tgsticker",
+        "size": 3202,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🍴",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_03_5244508282231465075.tgs"
+      },
+      {
+        "id": 5246743378917334735,
+        "access_hash": -7414665266422823858,
+        "file_reference_hex": "006a15e457f1a9c021393408761d2c729b03c82fab",
+        "mime_type": "application/x-tgsticker",
+        "size": 1166,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "👣",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_04_5246743378917334735.tgs"
+      },
+      {
+        "id": 5249273776079640466,
+        "access_hash": -1510639990351496139,
+        "file_reference_hex": "006a15e457316b0825d9c205e58d260e9ced40ea6f",
+        "mime_type": "application/x-tgsticker",
+        "size": 2840,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "💼",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_05_5249273776079640466.tgs"
+      },
+      {
+        "id": 5246842176050046092,
+        "access_hash": -879849081305308382,
+        "file_reference_hex": "006a15e4570286f5df2e27331624c2edea9d000294",
+        "mime_type": "application/x-tgsticker",
+        "size": 2291,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🏝",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_06_5246842176050046092.tgs"
+      },
+      {
+        "id": 5246828303305678732,
+        "access_hash": 8135246271001122078,
+        "file_reference_hex": "006a15e457c8534049d910a8823ae7696a2f098dc8",
+        "mime_type": "application/x-tgsticker",
+        "size": 1315,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🧘",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_07_5246828303305678732.tgs"
+      },
+      {
+        "id": 5247176827016847212,
+        "access_hash": 6946801211361303903,
+        "file_reference_hex": "006a15e457bf898aae3b720ca27035d5676b5de80a",
+        "mime_type": "application/x-tgsticker",
+        "size": 1324,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "📞",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_08_5247176827016847212.tgs"
+      },
+      {
+        "id": 5246960163096632543,
+        "access_hash": -5156667247745267713,
+        "file_reference_hex": "006a15e45723f7ed80f489772b21f7bfdb27cb3142",
+        "mime_type": "application/x-tgsticker",
+        "size": 1143,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "✈️",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_09_5246960163096632543.tgs"
+      },
+      {
+        "id": 5247209275494769660,
+        "access_hash": -4194214486689006587,
+        "file_reference_hex": "006a15e4573cd2db86bde25798aae89303c0a3555f",
+        "mime_type": "application/x-tgsticker",
+        "size": 772,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🕓",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_default_statuses_10_5247209275494769660.tgs"
+      }
+    ]
+  },
+  "emoji_channel_default_statuses": {
+    "source": "emoji_channel_default_statuses",
+    "set": {
+      "_": "StickerSet",
+      "id": 773947703670341676,
+      "access_hash": -8139044496926696734,
+      "title": "Status Pack",
+      "short_name": "StatusPack",
+      "count": 11,
+      "hash": 206618408,
+      "archived": false,
+      "official": false,
+      "masks": false,
+      "emojis": true,
+      "text_color": true,
+      "channel_emoji_status": true,
+      "creator": false,
+      "installed_date": null,
+      "thumbs": [],
+      "thumb_dc_id": null,
+      "thumb_version": null,
+      "thumb_document_id": null
+    },
+    "packs": [
+      {
+        "_": "StickerPack",
+        "emoticon": "👋",
+        "documents": [
+          5247133031235329609
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "💤",
+        "documents": [
+          5247100325059370738
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "⛔",
+        "documents": [
+          5246772116543512028
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🍴",
+        "documents": [
+          5244508282231465075
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "👣",
+        "documents": [
+          5246743378917334735
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "💼",
+        "documents": [
+          5249273776079640466
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🏝",
+        "documents": [
+          5246842176050046092
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🧘",
+        "documents": [
+          5246828303305678732
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "📞",
+        "documents": [
+          5247176827016847212
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "✈",
+        "documents": [
+          5246960163096632543
+        ]
+      },
+      {
+        "_": "StickerPack",
+        "emoticon": "🕓",
+        "documents": [
+          5247209275494769660
+        ]
+      }
+    ],
+    "count": 11,
+    "documents": [
+      {
+        "id": 5247133031235329609,
+        "access_hash": -3618972616943993295,
+        "file_reference_hex": "006a15e45bb97cc4ac22c6cd19bc6b50f41378f1d3",
+        "mime_type": "application/x-tgsticker",
+        "size": 2322,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "👋",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_00_5247133031235329609.tgs"
+      },
+      {
+        "id": 5247100325059370738,
+        "access_hash": 7828024709901972082,
+        "file_reference_hex": "006a15e45b2193a39681f56d4181b70b4dc27c6188",
+        "mime_type": "application/x-tgsticker",
+        "size": 59223,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "💤",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_01_5247100325059370738.tgs"
+      },
+      {
+        "id": 5246772116543512028,
+        "access_hash": -3217359109359228993,
+        "file_reference_hex": "006a15e45b028568a8b9b4304bca78f6d0cd488b95",
+        "mime_type": "application/x-tgsticker",
+        "size": 1682,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "⛔️",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_02_5246772116543512028.tgs"
+      },
+      {
+        "id": 5244508282231465075,
+        "access_hash": 6686355149412264496,
+        "file_reference_hex": "006a15e45ba1d282d686d9af8259c052fbd7fc1d77",
+        "mime_type": "application/x-tgsticker",
+        "size": 3202,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🍴",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_03_5244508282231465075.tgs"
+      },
+      {
+        "id": 5246743378917334735,
+        "access_hash": -7414665266422823858,
+        "file_reference_hex": "006a15e45bf1996312f9b767c2d2992e663bf1e2f9",
+        "mime_type": "application/x-tgsticker",
+        "size": 1166,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "👣",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_04_5246743378917334735.tgs"
+      },
+      {
+        "id": 5249273776079640466,
+        "access_hash": -1510639990351496139,
+        "file_reference_hex": "006a15e45b6d859d1547a651018c91d5062e85506e",
+        "mime_type": "application/x-tgsticker",
+        "size": 2840,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "💼",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_05_5249273776079640466.tgs"
+      },
+      {
+        "id": 5246842176050046092,
+        "access_hash": -879849081305308382,
+        "file_reference_hex": "006a15e45b7d8068158b780971c2d7f5c0b648cedb",
+        "mime_type": "application/x-tgsticker",
+        "size": 2291,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🏝",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_06_5246842176050046092.tgs"
+      },
+      {
+        "id": 5246828303305678732,
+        "access_hash": 8135246271001122078,
+        "file_reference_hex": "006a15e45b800159b64b90617846571d3c84411ad6",
+        "mime_type": "application/x-tgsticker",
+        "size": 1315,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🧘",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_07_5246828303305678732.tgs"
+      },
+      {
+        "id": 5247176827016847212,
+        "access_hash": 6946801211361303903,
+        "file_reference_hex": "006a15e45b154466aac5a9e7773f7b423e48c42192",
+        "mime_type": "application/x-tgsticker",
+        "size": 1324,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "📞",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_08_5247176827016847212.tgs"
+      },
+      {
+        "id": 5246960163096632543,
+        "access_hash": -5156667247745267713,
+        "file_reference_hex": "006a15e45bbc5adb8a3aa37eb3fac77c2a4a0c8631",
+        "mime_type": "application/x-tgsticker",
+        "size": 1143,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "✈️",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_09_5246960163096632543.tgs"
+      },
+      {
+        "id": 5247209275494769660,
+        "access_hash": -4194214486689006587,
+        "file_reference_hex": "006a15e45b513cb88400114e24b2d432164ed46fb7",
+        "mime_type": "application/x-tgsticker",
+        "size": 772,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeCustomEmoji",
+            "alt": "🕓",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 773947703670341676,
+              "access_hash": -8139044496926696734
+            },
+            "free": false,
+            "text_color": true
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_channel_default_statuses_10_5247209275494769660.tgs"
+      }
+    ]
+  },
+  "emoji_generic_animations": {
+    "source": "emoji_generic_animations",
+    "set": {
+      "_": "StickerSet",
+      "id": 2964141614563343,
+      "access_hash": 5337548068392726264,
+      "title": "EmojiGenericAnimations",
+      "short_name": "EmojiGenericAnimations",
+      "count": 6,
+      "hash": 1923450083,
+      "archived": false,
+      "official": false,
+      "masks": false,
+      "emojis": false,
+      "text_color": false,
+      "channel_emoji_status": false,
+      "creator": false,
+      "installed_date": null,
+      "thumbs": [],
+      "thumb_dc_id": null,
+      "thumb_version": null,
+      "thumb_document_id": null
+    },
+    "packs": [
+      {
+        "_": "StickerPack",
+        "emoticon": "💥",
+        "documents": [
+          5229133562032167774,
+          5215229846656918231,
+          5215576562186852510,
+          5215678129573470738,
+          5215311661488939907,
+          5217601604907179480
+        ]
+      }
+    ],
+    "count": 6,
+    "documents": [
+      {
+        "id": 5229133562032167774,
+        "access_hash": 5721306982396185534,
+        "file_reference_hex": "006a15e460f242cd1448aedb43bdf04f6c5a44b257",
+        "mime_type": "application/x-tgsticker",
+        "size": 11294,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "💥",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2964141614563343,
+              "access_hash": 5337548068392726264
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_generic_animations_00_5229133562032167774.tgs"
+      },
+      {
+        "id": 5215229846656918231,
+        "access_hash": 5775391738906355962,
+        "file_reference_hex": "006a15e460b7a6416abba8f56cb04d505000403594",
+        "mime_type": "application/x-tgsticker",
+        "size": 10491,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "💥",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2964141614563343,
+              "access_hash": 5337548068392726264
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_generic_animations_01_5215229846656918231.tgs"
+      },
+      {
+        "id": 5215576562186852510,
+        "access_hash": -3840881027842952105,
+        "file_reference_hex": "006a15e4602c4d5a00af1336c1538f389fc6952804",
+        "mime_type": "application/x-tgsticker",
+        "size": 6854,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "💥",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2964141614563343,
+              "access_hash": 5337548068392726264
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_generic_animations_02_5215576562186852510.tgs"
+      },
+      {
+        "id": 5215678129573470738,
+        "access_hash": 1326612552234345662,
+        "file_reference_hex": "006a15e4602259a6062c7a2229cd20683b7d46f1e3",
+        "mime_type": "application/x-tgsticker",
+        "size": 12848,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "💥",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2964141614563343,
+              "access_hash": 5337548068392726264
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_generic_animations_03_5215678129573470738.tgs"
+      },
+      {
+        "id": 5215311661488939907,
+        "access_hash": 1477614698765887747,
+        "file_reference_hex": "006a15e460e1bb8fc3c4f087e969e137327ae2dfea",
+        "mime_type": "application/x-tgsticker",
+        "size": 6182,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "💥",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2964141614563343,
+              "access_hash": 5337548068392726264
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_generic_animations_04_5215311661488939907.tgs"
+      },
+      {
+        "id": 5217601604907179480,
+        "access_hash": -41716647094560325,
+        "file_reference_hex": "006a15e4608c40d56e319a88fadf0ff8b8620416ef",
+        "mime_type": "application/x-tgsticker",
+        "size": 5188,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 512,
+            "h": 512
+          },
+          {
+            "_": "DocumentAttributeSticker",
+            "alt": "💥",
+            "stickerset": {
+              "_": "InputStickerSetID",
+              "id": 2964141614563343,
+              "access_hash": 5337548068392726264
+            },
+            "mask": false,
+            "mask_coords": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "AnimatedSticker.tgs"
+          }
+        ],
+        "local_file": "/tmp/hsgram_official_premium_stickers/emoji_generic_animations_05_5217601604907179480.tgs"
+      }
+    ]
+  }
+}
